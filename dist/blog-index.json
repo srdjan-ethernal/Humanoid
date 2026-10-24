@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Your first humanoid starts with a better question.",
+    "slug": "choosing-your-first-humanoid-robot",
+    "date": "2026-10-22",
+    "category": "Buying guides",
+    "words": 271
+  },
+  {
+    "title": "The robot price is only the beginning.",
+    "slug": "robot-price-vs-total-project-cost",
+    "date": "2026-10-12",
+    "category": "Buying guides",
+    "words": 256
+  },
+  {
+    "title": "Read the spec sheet. Then read between the numbers.",
+    "slug": "how-to-read-a-humanoid-robot-spec-sheet",
+    "date": "2026-10-05",
+    "category": "Hardware explained",
+    "words": 265
+  },
+  {
+    "title": "Two legs are one option. Start with the environment.",
+    "slug": "bipedal-wheeled-or-stationary-humanoid",
+    "date": "2026-09-28",
+    "category": "Hardware explained",
+    "words": 267
+  },
+  {
+    "title": "Build a kit, or start with a platform?",
+    "slug": "development-kit-or-complete-research-platform",
+    "date": "2026-09-14",
+    "category": "Development",
+    "words": 270
+  },
+  {
+    "title": "The actuator is a system decision.",
+    "slug": "choosing-actuators-for-a-robot-project",
+    "date": "2026-08-31",
+    "category": "Components",
+    "words": 260
+  },
+  {
+    "title": "More fingers, or a better fit for the task?",
+    "slug": "dexterous-hands-versus-simple-grippers",
+    "date": "2026-08-17",
+    "category": "Components",
+    "words": 259
+  },
+  {
+    "title": "Ask about software access before the robot arrives.",
+    "slug": "robot-software-access-before-you-buy",
+    "date": "2026-08-03",
+    "category": "Development",
+    "words": 269
+  },
+  {
+    "title": "Start in simulation. Keep asking what it leaves out.",
+    "slug": "simulation-before-physical-testing",
+    "date": "2026-07-20",
+    "category": "Development",
+    "words": 268
+  },
+  {
+    "title": "Autonomy is a workflow question.",
+    "slug": "teleoperation-and-autonomy",
+    "date": "2026-07-06",
+    "category": "Industry perspective",
+    "words": 260
+  },
+  {
+    "title": "A good pilot ends with a decision.",
+    "slug": "planning-a-humanoid-pilot",
+    "date": "2026-06-22",
+    "category": "Buying guides",
+    "words": 269
+  },
+  {
+    "title": "Runtime is a number. Uptime is a plan.",
+    "slug": "battery-runtime-and-uptime",
+    "date": "2026-06-08",
+    "category": "Hardware explained",
+    "words": 253
+  },
+  {
+    "title": "A shortlist should explain the trade-offs.",
+    "slug": "building-a-useful-robot-shortlist",
+    "date": "2026-05-25",
+    "category": "Buying guides",
+    "words": 263
+  },
+  {
+    "title": "One impressive run is the start of the experiment.",
+    "slug": "from-demonstration-to-repeatable-robot-task",
+    "date": "2026-05-11",
+    "category": "Industry perspective",
+    "words": 270
+  },
+  {
+    "title": "A better robotics marketplace starts with clearer information.",
+    "slug": "what-belongs-in-a-humanoid-marketplace",
+    "date": "2026-04-28",
+    "category": "Industry perspective",
+    "words": 270
+  }
+]
