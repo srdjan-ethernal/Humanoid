@@ -1,0 +1,777 @@
+[
+  {
+    "company": "Figure AI",
+    "country": "United States",
+    "flagship_model": "Figure 03",
+    "official_url": "https://www.figure.ai/figure",
+    "availability": "Product showcase",
+    "form_factor": "Bipedal",
+    "focus": "Home & industry",
+    "source_urls": [
+      "https://www.figure.ai/figure"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 1
+  },
+  {
+    "company": "Tesla",
+    "country": "United States",
+    "flagship_model": "Optimus",
+    "official_url": "https://www.tesla.com/AI",
+    "availability": "Development program",
+    "form_factor": "Bipedal",
+    "focus": "General purpose",
+    "source_urls": [
+      "https://www.tesla.com/AI"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 2
+  },
+  {
+    "company": "Boston Dynamics",
+    "country": "United States",
+    "flagship_model": "Atlas",
+    "official_url": "https://bostondynamics.com/products/atlas/",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Industrial",
+    "source_urls": [
+      "https://bostondynamics.com/products/atlas/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 3
+  },
+  {
+    "company": "Agility Robotics",
+    "country": "United States",
+    "flagship_model": "Digit",
+    "official_url": "https://www.agilityrobotics.com/",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Logistics",
+    "source_urls": [
+      "https://www.agilityrobotics.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 4
+  },
+  {
+    "company": "Apptronik",
+    "country": "United States",
+    "flagship_model": "Apollo 2",
+    "official_url": "https://apptronik.com/apollo/apollo-2",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal / wheeled",
+    "focus": "Industrial",
+    "source_urls": [
+      "https://apptronik.com/apollo/apollo-2"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 5
+  },
+  {
+    "company": "1X",
+    "country": "United States / Norway",
+    "flagship_model": "NEO",
+    "official_url": "https://www.1x.tech/order",
+    "availability": "Preorder",
+    "form_factor": "Bipedal",
+    "focus": "Home",
+    "source_urls": [
+      "https://www.1x.tech/order"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 6
+  },
+  {
+    "company": "Unitree Robotics",
+    "country": "China",
+    "flagship_model": "G1 / R1 / H2",
+    "official_url": "https://shop.unitree.com/collections/humanoid-robot",
+    "availability": "Manufacturer store",
+    "form_factor": "Bipedal",
+    "focus": "Development",
+    "source_urls": [
+      "https://shop.unitree.com/collections/humanoid-robot"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 7
+  },
+  {
+    "company": "UBTECH Robotics",
+    "country": "China",
+    "flagship_model": "Walker S1 / Walker",
+    "official_url": "https://www.ubtrobot.com/en/humanoid/products/walker-s1",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Industrial",
+    "source_urls": [
+      "https://www.ubtrobot.com/en/humanoid/products/walker-s1"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 8
+  },
+  {
+    "company": "AGIBOT",
+    "country": "China",
+    "flagship_model": "X2 Ultra",
+    "official_url": "https://agibot.com/products/X2",
+    "availability": "Sales inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Service & development",
+    "source_urls": [
+      "https://agibot.com/products/X2"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 9
+  },
+  {
+    "company": "Fourier",
+    "country": "China",
+    "flagship_model": "GR-3",
+    "official_url": "https://support.fftai.com/en/gr3/getting-started/general-information",
+    "availability": "Product documentation",
+    "form_factor": "Bipedal",
+    "focus": "Interaction",
+    "source_urls": [
+      "https://support.fftai.com/en/gr3/getting-started/general-information"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 10
+  },
+  {
+    "company": "Sanctuary AI",
+    "country": "Canada",
+    "flagship_model": "Phoenix Gen 8",
+    "official_url": "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/",
+    "availability": "Development platform",
+    "form_factor": "Wheeled",
+    "focus": "Manipulation",
+    "source_urls": [
+      "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 11
+  },
+  {
+    "company": "NEURA Robotics",
+    "country": "Germany",
+    "flagship_model": "4NE1 Gen 4 / Gen 3.5",
+    "official_url": "https://neura-robotics.com/products/4ne1/",
+    "availability": "Inquiry / model-specific reservations",
+    "form_factor": "Bipedal / wheeled",
+    "focus": "Industrial",
+    "source_urls": [
+      "https://neura-robotics.com/products/4ne1/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 12
+  },
+  {
+    "company": "XPENG Robotics",
+    "country": "China",
+    "flagship_model": "IRON",
+    "official_url": "https://www.xpeng.com/au/technology/ai_robot_iron",
+    "availability": "Technology showcase",
+    "form_factor": "Bipedal",
+    "focus": "Service",
+    "source_urls": [
+      "https://www.xpeng.com/au/technology/ai_robot_iron"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 13
+  },
+  {
+    "company": "PAL Robotics",
+    "country": "Spain",
+    "flagship_model": "TALOS / KANGAROO",
+    "official_url": "https://pal-robotics.com/robot/talos/",
+    "availability": "Research inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Research",
+    "source_urls": [
+      "https://pal-robotics.com/robot/talos/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 14
+  },
+  {
+    "company": "Engineered Arts",
+    "country": "United Kingdom",
+    "flagship_model": "Ameca",
+    "official_url": "https://engineeredarts.com/uk/robots/ameca",
+    "availability": "Quote / rental",
+    "form_factor": "Stationary humanoid",
+    "focus": "Social",
+    "source_urls": [
+      "https://engineeredarts.com/uk/robots/ameca"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 15
+  },
+  {
+    "company": "Hanson Robotics",
+    "country": "Hong Kong",
+    "flagship_model": "Sophia Utility",
+    "official_url": "https://www.hansonrobotics.com/sophia-utility",
+    "availability": "Purchase inquiry",
+    "form_factor": "Optional mobile base",
+    "focus": "Social",
+    "source_urls": [
+      "https://www.hansonrobotics.com/sophia-utility"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 16
+  },
+  {
+    "company": "ROBOTIS",
+    "country": "South Korea",
+    "flagship_model": "OP3",
+    "official_url": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+    "availability": "Research documentation",
+    "form_factor": "Bipedal",
+    "focus": "Research & education",
+    "source_urls": [
+      "https://emanual.robotis.com/docs/en/platform/op3/introduction/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 17
+  },
+  {
+    "company": "Rainbow Robotics",
+    "country": "South Korea",
+    "flagship_model": "HUBO2",
+    "official_url": "https://rainbowrobotics1.cafe24.com/hubo2",
+    "availability": "Research inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Research",
+    "source_urls": [
+      "https://rainbowrobotics1.cafe24.com/hubo2"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 18
+  },
+  {
+    "company": "Pollen Robotics",
+    "country": "France",
+    "flagship_model": "Reachy 2",
+    "official_url": "https://docs.pollen-robotics.com/",
+    "availability": "Research inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Research",
+    "source_urls": [
+      "https://docs.pollen-robotics.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 19
+  },
+  {
+    "company": "Mentee by Mobileye",
+    "country": "Israel",
+    "flagship_model": "Mentee",
+    "official_url": "https://www.mobileye.com/products/mentee/",
+    "availability": "Development program",
+    "form_factor": "Bipedal",
+    "focus": "General purpose",
+    "source_urls": [
+      "https://www.mobileye.com/products/mentee/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 20
+  },
+  {
+    "company": "Realbotix",
+    "country": "Canada / US manufacturing",
+    "flagship_model": "Echo",
+    "official_url": "https://www.realbotix.com/",
+    "availability": "Waitlist",
+    "form_factor": "Tabletop / full-body",
+    "focus": "Social",
+    "source_urls": [
+      "https://www.realbotix.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 21
+  },
+  {
+    "company": "Kawada Robotics",
+    "country": "Japan",
+    "flagship_model": "NEXTAGE",
+    "official_url": "https://www.kawadarobot.co.jp/en/nextage/",
+    "availability": "Sales inquiry",
+    "form_factor": "Stationary upper-body",
+    "focus": "Industrial",
+    "source_urls": [
+      "https://www.kawadarobot.co.jp/en/nextage/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 22
+  },
+  {
+    "company": "Xiaomi",
+    "country": "China",
+    "flagship_model": "CyberOne",
+    "official_url": "https://new.c.mi.com/global/post/103648",
+    "availability": "Research showcase (2022)",
+    "form_factor": "Bipedal",
+    "focus": "Research",
+    "source_urls": [
+      "https://new.c.mi.com/global/post/103648"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 23
+  },
+  {
+    "company": "Toyota",
+    "country": "Japan",
+    "flagship_model": "T-HR3",
+    "official_url": "https://www.toyota-europe.com/innovation/mobility-solutions/robotics",
+    "availability": "Research showcase",
+    "form_factor": "Bipedal",
+    "focus": "Research",
+    "source_urls": [
+      "https://www.toyota-europe.com/innovation/mobility-solutions/robotics"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 24
+  },
+  {
+    "company": "SoftBank Robotics",
+    "country": "Japan",
+    "flagship_model": "Pepper",
+    "official_url": "https://us.softbankrobotics.com/pepper",
+    "availability": "Regional inquiry; confirm support",
+    "form_factor": "Wheeled",
+    "focus": "Social",
+    "source_urls": [
+      "https://us.softbankrobotics.com/pepper"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "id": 25
+  },
+  {
+    "company": "EngineAI",
+    "country": "China",
+    "flagship_model": "T800 / PM01",
+    "official_url": "https://en.engineai.com.cn/",
+    "availability": "Inquiry",
+    "evidence_notes": "Official homepage lists T800, PM01 and SE01; no stock or price assumed.",
+    "source_urls": [
+      "https://en.engineai.com.cn/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 26
+  },
+  {
+    "company": "RobotEra",
+    "country": "China",
+    "flagship_model": "L7",
+    "official_url": "https://www.robotera.com/en/",
+    "availability": "Inquiry",
+    "evidence_notes": "Official product range lists L7, Q5, M7 and XHAND dexterous hands.",
+    "source_urls": [
+      "https://www.robotera.com/en/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 27
+  },
+  {
+    "company": "Leju Robotics",
+    "country": "China",
+    "flagship_model": "KUAVO 5 / 5-W",
+    "official_url": "https://www.lejurobot.com/en",
+    "availability": "Inquiry",
+    "evidence_notes": "Official catalog lists full-size KUAVO 4Pro and KUAVO 5 / 5-W plus educational bipeds.",
+    "source_urls": [
+      "https://www.lejurobot.com/en"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 28
+  },
+  {
+    "company": "LimX Dynamics",
+    "country": "China",
+    "flagship_model": "LimX Luna / Oli",
+    "official_url": "https://www.limxdynamics.com/en",
+    "availability": "Manufacturer purchase link",
+    "evidence_notes": "Official homepage lists full-size Luna with Buy Now; also Oli and TRON platforms. Confirm region and lead time.",
+    "source_urls": [
+      "https://www.limxdynamics.com/en"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 29
+  },
+  {
+    "company": "Booster Robotics",
+    "country": "China",
+    "flagship_model": "T1",
+    "official_url": "https://docs.booster.tech/docs/product-manual/t1/getting-started/overview/",
+    "availability": "Research / inquiry",
+    "evidence_notes": "Official documentation describes T1 as humanoid development platform with 23 DoF. Product details verified; stock not verified.",
+    "source_urls": [
+      "https://docs.booster.tech/docs/product-manual/t1/getting-started/overview/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 30
+  },
+  {
+    "company": "Dobot",
+    "country": "China",
+    "flagship_model": "ATOM Max",
+    "official_url": "https://www.dobot-robots.com/products/humanoid-robots/atom.html",
+    "availability": "Inquiry",
+    "evidence_notes": "Official ATOM page lists ATOM Max and ATOM D; manufacturer June 30 2025 announcement reports global delivery launch.",
+    "source_urls": [
+      "https://www.dobot-robots.com/products/humanoid-robots/atom.html"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 31
+  },
+  {
+    "company": "MagicLab",
+    "country": "China",
+    "flagship_model": "MagicBot X1 / Z1",
+    "official_url": "https://www.magiclab.top/en",
+    "availability": "Manufacturer purchase link",
+    "evidence_notes": "Official homepage lists MagicBot X1 and Z1 with Purchase buttons. Do not infer immediate stock.",
+    "source_urls": [
+      "https://www.magiclab.top/en"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 32
+  },
+  {
+    "company": "Galbot",
+    "country": "China",
+    "flagship_model": "G1",
+    "official_url": "https://galbot.com/g1/",
+    "availability": "Manufacturer purchase link",
+    "evidence_notes": "Official G1 page offers Buy Now and identifies four-wheel omnidirectional mobile base; label as wheeled humanoid.",
+    "source_urls": [
+      "https://galbot.com/g1/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 33
+  },
+  {
+    "company": "Kepler Robotics",
+    "country": "China",
+    "flagship_model": "Forerunner K2",
+    "official_url": "https://www.gotokepler.com/productDetailK2?id=2",
+    "availability": "Sales consultation",
+    "evidence_notes": "Official K2 page lists bipedal and wheeled development versions and sales consultation contact.",
+    "source_urls": [
+      "https://www.gotokepler.com/productDetailK2?id=2"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 34
+  },
+  {
+    "company": "Astribot (Stardust Intelligence)",
+    "country": "China",
+    "flagship_model": "S1",
+    "official_url": "https://www.astribot.com/index.html",
+    "availability": "Manufacturer purchase link / research",
+    "evidence_notes": "Official homepage says S1 is on sale and includes Buy Now. S1 is a research manipulation platform; Stardust is same company, not another manufacturer.",
+    "source_urls": [
+      "https://www.astribot.com/index.html"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 35
+  },
+  {
+    "company": "PaXini",
+    "country": "China",
+    "flagship_model": "TORA-DOUBLE ONE / TORA-ONE",
+    "official_url": "https://www.paxini.com/en/",
+    "availability": "Inquiry",
+    "evidence_notes": "Official ecosystem lists multidimensional tactile humanoid robots TORA-DOUBLE ONE and TORA-ONE; no delivery or stock promise.",
+    "source_urls": [
+      "https://www.paxini.com/en/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 36
+  },
+  {
+    "company": "X-Humanoid",
+    "country": "China",
+    "flagship_model": "TianGong 3.0",
+    "official_url": "https://www.x-humanoid.com/en",
+    "availability": "Research / business inquiry",
+    "evidence_notes": "Official core product menu names TianGong 3.0, TianYi 2.0 and TianGong Omni; business cooperation contact available.",
+    "source_urls": [
+      "https://www.x-humanoid.com/en"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 37
+  },
+  {
+    "company": "PNDbotics",
+    "country": "China",
+    "flagship_model": "Adam",
+    "official_url": "https://pndbotics.com/",
+    "availability": "Research / inquiry",
+    "evidence_notes": "Official site identifies Adam general-purpose humanoid plus modular actuators; official wiki describes Adam platform and variants.",
+    "source_urls": [
+      "https://pndbotics.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 38
+  },
+  {
+    "company": "Zerith",
+    "country": "China",
+    "flagship_model": "Z series / H series",
+    "official_url": "https://www.zerith.com/human",
+    "availability": "Business inquiry",
+    "evidence_notes": "Official humanoid product page lists Z and H series, contact and Hefei address. No public price assumed.",
+    "source_urls": [
+      "https://www.zerith.com/human"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 39
+  },
+  {
+    "company": "Noetix Robotics",
+    "country": "China",
+    "flagship_model": "Bumi / N2",
+    "official_url": "https://www.noetixrobotics.com/en/source/",
+    "availability": "Research / inquiry",
+    "evidence_notes": "Official open-source page provides Bumi, E1 and N2 SDKs. Existence verified; purchase availability not established from this source.",
+    "source_urls": [
+      "https://www.noetixrobotics.com/en/source/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 40
+  },
+  {
+    "company": "Fauna Robotics",
+    "country": "United States",
+    "flagship_model": "Sprout Creator Edition",
+    "official_url": "https://faunarobotics.com/news",
+    "availability": "Sales inquiry",
+    "evidence_notes": "Official March 24 2026 announcement says Fauna joined Amazon and will continue selling Sprout Creator Edition; company page says American design and assembly.",
+    "source_urls": [
+      "https://faunarobotics.com/news"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 41
+  },
+  {
+    "company": "Sunday Robotics",
+    "country": "United States",
+    "flagship_model": "Memo",
+    "official_url": "https://www.sunday.ai/",
+    "availability": "Beta applications",
+    "evidence_notes": "Official FAQ explicitly says not available for purchase; applications for 2026 Founding Family beta. Wheeled household robot, not biped.",
+    "source_urls": [
+      "https://www.sunday.ai/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 42
+  },
+  {
+    "company": "Weave Robotics",
+    "country": "United States",
+    "flagship_model": "Isaac 1",
+    "official_url": "https://www.weaverobotics.com/",
+    "availability": "Announced fall 2026 shipments",
+    "evidence_notes": "Official homepage says first Isaac 1 shipments in fall 2026; Isaac 0 shipping across California. Do not interpret forecast as verified completed delivery.",
+    "source_urls": [
+      "https://www.weaverobotics.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 43
+  },
+  {
+    "company": "Reflex Robotics",
+    "country": "United States",
+    "flagship_model": "Reflex",
+    "official_url": "https://www.reflexrobotics.com/",
+    "availability": "Workflow inquiry",
+    "evidence_notes": "Official homepage describes general-purpose wheeled humanoid for industry with Get in Touch form; no public retail price assumed.",
+    "source_urls": [
+      "https://www.reflexrobotics.com/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 44
+  },
+  {
+    "company": "Oversonic Robotics",
+    "country": "Italy",
+    "flagship_model": "RoBee R",
+    "official_url": "https://www.oversonicrobotics.com/?lang=en",
+    "availability": "Use-case assessment",
+    "evidence_notes": "Official homepage identifies industrial cognitive humanoid RoBee R. Official contacts page offers use-case assessment and Italian headquarters.",
+    "source_urls": [
+      "https://www.oversonicrobotics.com/?lang=en"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 45
+  },
+  {
+    "company": "Hexagon Robotics",
+    "country": "Sweden / Switzerland engineering",
+    "flagship_model": "AEON",
+    "official_url": "https://robotics.hexagon.com/product/",
+    "availability": "Industrial inquiry / pilots",
+    "evidence_notes": "Official product page identifies humanoid AEON and Swiss engineering; parent Hexagon is Swedish. Manufacturer launch announced Schaeffler/Pilatus pilots.",
+    "source_urls": [
+      "https://robotics.hexagon.com/product/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Wheeled",
+    "focus": "Development & industry",
+    "id": 46
+  },
+  {
+    "company": "Wandercraft",
+    "country": "France",
+    "flagship_model": "Calvin-40",
+    "official_url": "https://www.wandercraft.eu/articles/wandercraft-secures-12-calvin-40-customers-as-it-accelerates-commercial-dominance-in-industrial-humanoids",
+    "availability": "Enterprise inquiry",
+    "evidence_notes": "Official September 4 2026 announcement reports 12 customers and preparations to ramp production; manufacturer claims rather than independently audited deployments.",
+    "source_urls": [
+      "https://www.wandercraft.eu/articles/wandercraft-secures-12-calvin-40-customers-as-it-accelerates-commercial-dominance-in-industrial-humanoids"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 47
+  },
+  {
+    "company": "DEEP Robotics",
+    "country": "China",
+    "flagship_model": "DR02",
+    "official_url": "https://www.deeprobotics.cn/en/index/dr02.html",
+    "availability": "Inquiry",
+    "evidence_notes": "Official product page describes DR02 full-size industrial humanoid with modular components. No public price or stock inferred.",
+    "source_urls": [
+      "https://www.deeprobotics.cn/en/index/dr02.html"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 48
+  },
+  {
+    "company": "Lumos Robotics",
+    "country": "China",
+    "flagship_model": "LUS2 / NIX",
+    "official_url": "https://beta.lumosbot.tech/about/",
+    "availability": "Research / business inquiry",
+    "evidence_notes": "Official milestones identify full-size bipedal LUS1 and LUS2, mini biped NIX and MOS wheeled dual-arm robot. Official GitHub links company domain lumosbot.tech.",
+    "source_urls": [
+      "https://beta.lumosbot.tech/about/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 49
+  },
+  {
+    "company": "Westwood Robotics",
+    "country": "United States",
+    "flagship_model": "THEMIS",
+    "official_url": "https://www.westwoodrobotics.io/themis/",
+    "availability": "Order inquiry",
+    "evidence_notes": "Official page identifies full-size general-purpose humanoid and explicitly says contact us to order THEMIS.",
+    "source_urls": [
+      "https://www.westwoodrobotics.io/themis/"
+    ],
+    "checked_date": "2026-10-24",
+    "price": null,
+    "form_factor": "Humanoid platform",
+    "focus": "Development & industry",
+    "id": 50
+  }
+]

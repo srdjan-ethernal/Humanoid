@@ -1,0 +1,107 @@
+[
+  {
+    "file": "figure03.webp",
+    "source": "https://www.figure.ai/figure",
+    "maker": "Figure",
+    "imageURL": "https://images.ctfassets.net/qx5k8y1u9drj/6rREWE2DjWe7W3AFbZYSyH/21889f6a8f17464410b45c9ae12b718a/human-form-module-figure-3-image-v3.png?fm=webp&q=70&w=1600",
+    "localPath": "assets/figure03.webp",
+    "model": "Figure 03",
+    "bytes": 494630,
+    "notes": "Verified product photo"
+  },
+  {
+    "file": "unitree-g1.jpg",
+    "source": "https://shop.unitree.com/products/unitree-g1",
+    "maker": "Unitree",
+    "imageURL": "https://shop.unitree.com/cdn/shop/files/Banner_PC_1024x1024.jpg?v=1773216906",
+    "localPath": "assets/unitree-g1.jpg",
+    "model": "G1",
+    "bytes": 59924,
+    "notes": "Official promotional banner includes product title and price"
+  },
+  {
+    "file": "unitree-r1.jpg",
+    "source": "https://shop.unitree.com/products/unitree-r1",
+    "maker": "Unitree",
+    "imageURL": "https://shop.unitree.com/cdn/shop/files/1.banner_a8ee7de9-07fb-435a-a4b2-2f4fd81a261c_1024x1024.jpg?v=1774859608",
+    "localPath": "assets/unitree-r1.jpg",
+    "model": "R1",
+    "bytes": 100409,
+    "notes": "Official promotional banner includes product title and price"
+  },
+  {
+    "file": "neo.jpg",
+    "source": "https://www.1x.tech/neo",
+    "maker": "1X",
+    "imageURL": "https://cdn.sanity.io/images/qka6yvsc/production/fdda789a2e7c6caa9a798dd920b8a0acb254ea9d-1200x630.jpg?fit=max&auto=format",
+    "localPath": "assets/neo.jpg",
+    "model": "NEO",
+    "bytes": 139289,
+    "notes": "Verified product photo"
+  },
+  {
+    "file": "atlas.jpg",
+    "source": "https://bostondynamics.com/products/atlas/",
+    "maker": "Boston Dynamics",
+    "imageURL": "https://bostondynamics.com/wp-content/uploads/2024/04/atlas-blue-mobile-copy.jpg",
+    "localPath": "assets/atlas.jpg",
+    "model": "Atlas",
+    "bytes": 172920,
+    "notes": "Verified product photo"
+  },
+  {
+    "file": "ameca.png",
+    "source": "https://engineeredarts.com/",
+    "maker": "Engineered Arts",
+    "imageURL": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_40jqdrnd3v8v183r6r55fsabms/af974691a96bc62124c6984ce29fa10b_1792604176142.png",
+    "localPath": "assets/ameca.png",
+    "model": "Ameca",
+    "bytes": 1120731,
+    "notes": "Official site og:image contains navigation/text; do not use as clean product image"
+  },
+  {
+    "imageURL": "https://robotis.us/cdn/shop/files/GP_N__71213.1434948802.1280.1280.jpg?v=1785995344&width=900",
+    "localPath": "assets/robotis-gp.jpg",
+    "file": "robotis-gp.jpg",
+    "source": "https://robotis.us/collections/bioloid-1",
+    "bytes": 60123,
+    "model": "GP",
+    "maker": "ROBOTIS"
+  },
+  {
+    "imageURL": "https://robotis.us/cdn/shop/files/ROBOTIS_P_BOXSHOP__38347.1434951130.1280.1280.jpg?v=1786003535&width=900",
+    "localPath": "assets/robotis-premium.jpg",
+    "file": "robotis-premium.jpg",
+    "source": "https://robotis.us/collections/bioloid-1",
+    "bytes": 52152,
+    "model": "Premium",
+    "maker": "ROBOTIS"
+  },
+  {
+    "imageURL": "https://robotis.us/cdn/shop/files/1_a__01710.1782343969.1280.1280.png?v=1785996519&width=900",
+    "localPath": "assets/robotis-xm430.png",
+    "file": "robotis-xm430.png",
+    "source": "https://robotis.us/collections/xm",
+    "bytes": 486709,
+    "model": "DYNAMIXEL XM430-W210-R",
+    "maker": "ROBOTIS"
+  },
+  {
+    "model": "G1",
+    "maker": "Unitree",
+    "localPath": "assets/unitree-g1-product.jpg",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0620/4932/1193/files/2_3769ceea-b323-4ebc-a1f4-e27a9624706b.jpg?v=1717575246",
+    "bytes": 30819,
+    "source": "https://shop.unitree.com/products/unitree-g1",
+    "file": "unitree-g1-product.jpg"
+  },
+  {
+    "model": "R1",
+    "maker": "Unitree",
+    "localPath": "assets/unitree-r1-product.jpg",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0620/4932/1193/files/5_eb271a12-e794-439d-ade5-d60ec009e81a.jpg?v=1773039138",
+    "bytes": 21332,
+    "source": "https://shop.unitree.com/products/unitree-r1",
+    "file": "unitree-r1-product.jpg"
+  }
+]
