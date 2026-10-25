@@ -28,6 +28,8 @@ Favorites and listing drafts stay in the browser. The project does not implement
 
 ## Hosting
 
+GitHub Pages deployment is configured in `.github/workflows/pages.yml`. Once Pages is enabled with GitHub Actions as its source, pushes to `main` publish the contents of `dist/`. The workflow also supports manual runs.
+
 Deploy `dist/` to a static web host. `.openai/hosting.json` identifies the existing private Sites deployment. No hosting credentials are committed. Preserve this identity for updates to that Site; use your own hosting configuration for an independent deployment.
 
 ## Editorial and image notes
