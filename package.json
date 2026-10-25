@@ -1,0 +1,12 @@
+{
+  "name": "humanoid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Humanoid robotics discovery marketplace and manufacturer directory",
+  "scripts": {
+    "dev": "node scripts/serve.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
