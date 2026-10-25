@@ -15,9 +15,9 @@ Open http://127.0.0.1:4173. The server binds to localhost by default; use the `P
 ## Pages and data
 
 - `dist/index.html`: marketplace, product filters, favorites, comparison, and browser-local draft listings.
-- `dist/manufacturers.html`: searchable directory of 100 manufacturer entries, with CSV export.
+- `dist/manufacturers.html`: searchable directory of 200 manufacturer entries, with CSV export.
 - `dist/blog.html` and `dist/blog/`: journal and 15 standalone English articles.
-- `dist/catalog.js`: shared manufacturer directory and 56 product/platform records.
+- `dist/catalog.js`: shared manufacturer directory and 115 product/platform records.
 - `dist/manufacturers.json`: source-linked directory, including review dates and evidence notes.
 - `dist/blog-index.json`: article index and editorial archive dates.
 - `dist/assets/assets.json`: imagery provenance and manufacturer source links.
@@ -37,3 +37,5 @@ Deploy `dist/` to a static web host. `.openai/hosting.json` identifies the exist
 Journal articles were prepared on October 24, 2026. Displayed April–October dates organize the editorial archive and do not claim historical publication or availability.
 
 Manufacturer photos and trademarks belong to their respective owners. Source URLs are recorded in the asset manifest. No license to redistribute third-party imagery is implied by this repository.
+
+Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 49 components, 15 kits and development platforms. New sources reviewed 2026-10-25.

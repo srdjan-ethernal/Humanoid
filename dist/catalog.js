@@ -13,7 +13,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 1
+      "id": 1,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Tesla",
@@ -28,7 +30,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 2
+      "id": 2,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Boston Dynamics",
@@ -43,7 +47,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 3
+      "id": 3,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Agility Robotics",
@@ -58,7 +64,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 4
+      "id": 4,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Apptronik",
@@ -73,7 +81,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 5
+      "id": 5,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "1X",
@@ -88,7 +98,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 6
+      "id": 6,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Unitree Robotics",
@@ -103,7 +115,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 7
+      "id": 7,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "UBTECH Robotics",
@@ -118,7 +132,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 8
+      "id": 8,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "AGIBOT",
@@ -133,7 +149,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 9
+      "id": 9,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Fourier",
@@ -148,7 +166,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 10
+      "id": 10,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Sanctuary AI",
@@ -163,7 +183,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 11
+      "id": 11,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "NEURA Robotics",
@@ -178,7 +200,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 12
+      "id": 12,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "XPENG Robotics",
@@ -193,7 +217,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 13
+      "id": 13,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "PAL Robotics",
@@ -208,7 +234,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 14
+      "id": 14,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Engineered Arts",
@@ -223,7 +251,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 15
+      "id": 15,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Hanson Robotics",
@@ -238,7 +268,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 16
+      "id": 16,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "ROBOTIS",
@@ -253,7 +285,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 17
+      "id": 17,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Rainbow Robotics",
@@ -268,7 +302,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 18
+      "id": 18,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Pollen Robotics",
@@ -283,7 +319,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 19
+      "id": 19,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Mentee by Mobileye",
@@ -298,7 +336,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 20
+      "id": 20,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Realbotix",
@@ -313,7 +353,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 21
+      "id": 21,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Kawada Robotics",
@@ -328,7 +370,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 22
+      "id": 22,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Xiaomi",
@@ -343,7 +387,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 23
+      "id": 23,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Toyota",
@@ -358,7 +404,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 24
+      "id": 24,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "SoftBank Robotics",
@@ -373,7 +421,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-24",
       "price": null,
-      "id": 25
+      "id": 25,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "EngineAI",
@@ -389,7 +439,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 26
+      "id": 26,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "RobotEra",
@@ -405,7 +457,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 27
+      "id": 27,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Leju Robotics",
@@ -421,7 +475,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 28
+      "id": 28,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "LimX Dynamics",
@@ -437,7 +493,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 29
+      "id": 29,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Booster Robotics",
@@ -453,7 +511,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 30
+      "id": 30,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Dobot",
@@ -469,7 +529,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 31
+      "id": 31,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "MagicLab",
@@ -485,7 +547,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 32
+      "id": 32,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Galbot",
@@ -501,7 +565,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 33
+      "id": 33,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Kepler Robotics",
@@ -517,7 +583,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 34
+      "id": 34,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Astribot (Stardust Intelligence)",
@@ -533,7 +601,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 35
+      "id": 35,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "PaXini",
@@ -549,7 +619,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 36
+      "id": 36,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "X-Humanoid",
@@ -565,7 +637,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 37
+      "id": 37,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "PNDbotics",
@@ -581,7 +655,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 38
+      "id": 38,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Zerith",
@@ -597,7 +673,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 39
+      "id": 39,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Noetix Robotics",
@@ -613,7 +691,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 40
+      "id": 40,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Fauna Robotics",
@@ -629,7 +709,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 41
+      "id": 41,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Sunday Robotics",
@@ -645,7 +727,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 42
+      "id": 42,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Weave Robotics",
@@ -661,7 +745,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 43
+      "id": 43,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Reflex Robotics",
@@ -677,7 +763,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 44
+      "id": 44,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Oversonic Robotics",
@@ -693,7 +781,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 45
+      "id": 45,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Hexagon Robotics",
@@ -709,7 +799,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Wheeled",
       "focus": "Development & industry",
-      "id": 46
+      "id": 46,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Wandercraft",
@@ -725,7 +817,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 47
+      "id": 47,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "DEEP Robotics",
@@ -741,7 +835,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 48
+      "id": 48,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Lumos Robotics",
@@ -757,7 +853,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 49
+      "id": 49,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Westwood Robotics",
@@ -773,7 +871,9 @@ window.HM_DATA = {
       "price": null,
       "form_factor": "Humanoid platform",
       "focus": "Development & industry",
-      "id": 50
+      "id": 50,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "AI² Robotics",
@@ -789,7 +889,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 51
+      "id": 51,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "X Square Robot",
@@ -805,7 +907,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 52
+      "id": 52,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "DroidUp",
@@ -821,7 +925,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 53
+      "id": 53,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "CASBOT",
@@ -837,7 +943,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 54
+      "id": 54,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Pudu Robotics",
@@ -853,7 +961,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 55
+      "id": 55,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "GAC Group",
@@ -869,7 +979,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 56
+      "id": 56,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Chery / AiMOGA Robotics",
@@ -886,7 +998,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 57
+      "id": 57,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Dataa Robotics",
@@ -902,7 +1016,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 58
+      "id": 58,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Robbyant (Ant Group)",
@@ -919,7 +1035,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 59
+      "id": 59,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Galaxea Dynamics",
@@ -935,7 +1053,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 60
+      "id": 60,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "AheadForm",
@@ -951,7 +1071,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 61
+      "id": 61,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Estun Codroid",
@@ -967,7 +1089,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 62
+      "id": 62,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "UniX AI",
@@ -983,7 +1107,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 63
+      "id": 63,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Humanoid Robot (Shanghai) / OpenLoong",
@@ -1000,7 +1126,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 64
+      "id": 64,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "LG Electronics",
@@ -1016,7 +1144,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 65
+      "id": 65,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "KEENON Robotics",
@@ -1033,7 +1163,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 66
+      "id": 66,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "OneRobotics / SwitchBot / onero",
@@ -1049,7 +1181,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 67
+      "id": 67,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "DexForce",
@@ -1065,7 +1199,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 68
+      "id": 68,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "KNOWIN",
@@ -1081,7 +1217,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 69
+      "id": 69,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Flexiv",
@@ -1097,7 +1235,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 70
+      "id": 70,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Topstar",
@@ -1113,7 +1253,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 71
+      "id": 71,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Westlake Robotics",
@@ -1129,7 +1271,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 72
+      "id": 72,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Digit Robotics (Digital Huaxia)",
@@ -1145,7 +1289,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 73
+      "id": 73,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Zhejiang Humanoid Robot Innovation Center",
@@ -1161,7 +1307,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 74
+      "id": 74,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "T-Robotics",
@@ -1177,7 +1325,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 75
+      "id": 75,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "WIRobotics",
@@ -1193,7 +1343,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 76
+      "id": 76,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Foundation Future Industries",
@@ -1209,7 +1361,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 77
+      "id": 77,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Clone Robotics",
@@ -1226,7 +1380,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 78
+      "id": 78,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Furhat Robotics",
@@ -1242,7 +1398,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 79
+      "id": 79,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Kondo Kagaku",
@@ -1258,7 +1416,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 80
+      "id": 80,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Vstone",
@@ -1274,7 +1434,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 81
+      "id": 81,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Hiwonder",
@@ -1291,7 +1453,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 82
+      "id": 82,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Elephant Robotics",
@@ -1307,7 +1471,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 83
+      "id": 83,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Kawasaki Heavy Industries",
@@ -1323,7 +1489,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 84
+      "id": 84,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Diligent Robotics",
@@ -1340,7 +1508,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 85
+      "id": 85,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Aeolus Robotics",
@@ -1356,7 +1526,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 86
+      "id": 86,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Addverb",
@@ -1372,7 +1544,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 87
+      "id": 87,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "ASIMOV Robotics",
@@ -1388,7 +1562,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 88
+      "id": 88,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Invento Robotics / Mitra Robot",
@@ -1404,7 +1580,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 89
+      "id": 89,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Robosen",
@@ -1420,7 +1598,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 90
+      "id": 90,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Roborn",
@@ -1437,7 +1617,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 91
+      "id": 91,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Kokoro",
@@ -1454,7 +1636,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 92
+      "id": 92,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "tmsuk",
@@ -1470,7 +1654,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 93
+      "id": 93,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Generative Bionics",
@@ -1486,7 +1672,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 94
+      "id": 94,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "VinMotion",
@@ -1502,7 +1690,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 95
+      "id": 95,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Enchanted Tools",
@@ -1518,7 +1708,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 96
+      "id": 96,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Richtech Robotics",
@@ -1534,7 +1726,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 97
+      "id": 97,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "Macco Robotics",
@@ -1550,7 +1744,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 98
+      "id": 98,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "isento / pib",
@@ -1567,7 +1763,9 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 99
+      "id": 99,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
     },
     {
       "company": "igus",
@@ -1583,7 +1781,1948 @@ window.HM_DATA = {
       ],
       "checked_date": "2026-10-25",
       "price": null,
-      "id": 100
+      "id": 100,
+      "directory_category": "Robots",
+      "supplier_type": "Robot manufacturer"
+    },
+    {
+      "company": "maxon",
+      "country": "Switzerland",
+      "flagship_model": "EC-i / ECX / High Efficiency Joint",
+      "official_url": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motors & joint drives",
+      "evidence_notes": "Official HOPE humanoid case specifies EC-i40, EC90 flat and EPOS4; lists High Efficiency Joint90 integrated robot drive.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 101,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "FAULHABER",
+      "country": "Germany",
+      "flagship_model": "BXT brushless flat motors",
+      "official_url": "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Miniature motors",
+      "evidence_notes": "Official BXT catalog provides compact BLDC motors; official humanoid expert article establishes humanoid development relevance, not universal fit.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+        "https://www.faulhaber.com/en/motion/faulhaber-expert-conversation-about-humanoid-robots/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 102,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "CubeMars / T-Motor",
+      "country": "China",
+      "flagship_model": "AK robotic actuators",
+      "official_url": "https://www.cubemars.com/categorys/robotic-actuator",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Integrated robot joints",
+      "evidence_notes": "Official catalog lists AK, AKA and AKH actuators; official usage guide identifies AK80-8 for humanoids/exoskeletons. CubeMars/T-Motor counted once.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.cubemars.com/categorys/robotic-actuator",
+        "https://www.cubemars.com/how-to-use-cubemars-actuators.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 103,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "MyActuator",
+      "country": "China",
+      "flagship_model": "RMD-X V4 robot joints",
+      "official_url": "https://www.myactuator.com/rmd-x-planetarymotor",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Integrated robot joints",
+      "evidence_notes": "Official catalog labels robot-special X series with CAN/EtherCAT dual encoders; manufacturer news links V4 to humanoid motion.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.myactuator.com/rmd-x-planetarymotor",
+        "https://www.myactuator.com/productnews"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 104,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "RobStride Dynamics",
+      "country": "China",
+      "flagship_model": "RobStride 04",
+      "official_url": "https://www.robstride.com/products/robStride04",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "QDD robot joints",
+      "evidence_notes": "Official product page explicitly names humanoid and quadruped joints and gives 120Nm peak for RS04; no platform-wide compatibility implied.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.robstride.com/products/robStride04"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 105,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Harmonic Drive group",
+      "country": "Japan / Germany / United States",
+      "flagship_model": "CSD gear units",
+      "official_url": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Strain-wave reducers",
+      "evidence_notes": "Official CSD catalog identifies humanoid robots among intended applications; regional Harmonic Drive group companies counted once.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 106,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Nabtesco",
+      "country": "Japan",
+      "flagship_model": "RVmini / Monocrank",
+      "official_url": "https://www.nabtesco.com/en/news/20251202-17329/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Precision reducers",
+      "evidence_notes": "Official new-product release connects compact RVmini and Monocrank to collaborative/humanoid demand; contact sales for production maturity.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.nabtesco.com/en/news/20251202-17329/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 107,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Nidec",
+      "country": "Japan",
+      "flagship_model": "FLEXWAVE / frameless motors",
+      "official_url": "https://www.nidec.com/en/value/technology/physical-ai/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motors & reducers",
+      "evidence_notes": "Official humanoid lineup includes FLEXWAVE/Smart-FLEXWAVE reducers, frameless motors and mini RC drive modules; regional subsidiaries not separate.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.nidec.com/en/value/technology/physical-ai/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 108,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Regal Rexnord / Kollmorgen / Portescap",
+      "country": "United States",
+      "flagship_model": "TBM2G frameless motors",
+      "official_url": "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Frameless motors",
+      "evidence_notes": "Official humanoid page recommends TBM2G embedded joint motors; Kollmorgen and Portescap combined under Regal Rexnord to avoid parent overlap.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 109,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Moog",
+      "country": "United States",
+      "flagship_model": "Integrated Smart Actuator",
+      "official_url": "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Hydraulic smart actuators",
+      "evidence_notes": "Official ISA brochure explicitly includes humanoid and human-scale robotics, with integrated valves, electronics and sensors. Hydraulic architecture requires system engineering.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 110,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Synapticon",
+      "country": "Germany",
+      "flagship_model": "ACTILINK-JD",
+      "official_url": "https://www.synapticon.com/en/products/actilink-jd",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Servo drives & actuators",
+      "evidence_notes": "Official actuator page and humanoid application page identify compact geared ACTILINK and SOMANET solutions.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.synapticon.com/en/products/actilink-jd"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 111,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Elmo Motion Control",
+      "country": "Israel",
+      "flagship_model": "Gold Twitter servo drive",
+      "official_url": "https://www.elmomc.com/applications/powerful-servo-drives-implemented-in-humanoid-robot/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Miniature servo drives",
+      "evidence_notes": "Official application case states Fedor humanoid used23 Gold Twitter drives. Historical integration evidence, not proof of compatibility with other robots.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.elmomc.com/applications/powerful-servo-drives-implemented-in-humanoid-robot/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 112,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Novanta / Celera Motion / Ingenia",
+      "country": "United States / Spain",
+      "flagship_model": "Everest servo drives",
+      "official_url": "https://novanta.com/robotics-automation/product/everest/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Compact servo drives",
+      "evidence_notes": "Official Everest catalog covers embedded high-density robot drives. Celera/Ingenia grouped with Novanta; model, bus, voltage and safety must be selected.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://novanta.com/robotics-automation/product/everest/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 113,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Renishaw / RLS",
+      "country": "United Kingdom / Slovenia",
+      "flagship_model": "ATOM / AksIM-2 encoders",
+      "official_url": "https://info.renishaw.com/Encoders-Robotics",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Joint position feedback",
+      "evidence_notes": "Official robotics source names AksIM/Orbis integration in PAL humanoid joints. RLS is a Renishaw associate; combined to avoid overlapping catalog identities.",
+      "supplier_type": "Components",
+      "component_category": "Encoders",
+      "source_urls": [
+        "https://info.renishaw.com/Encoders-Robotics",
+        "https://www.renishaw.com/en/introduction-to-encoder-systems--47256"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 114,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "HEIDENHAIN group",
+      "country": "Germany",
+      "flagship_model": "KCI120 Dplus",
+      "official_url": "https://www.heidenhain.com/industries/robotics",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Dual position feedback",
+      "evidence_notes": "Official robotics page identifies KCI120 Dplus for upstream/downstream robot-joint feedback; group brands not separately counted.",
+      "supplier_type": "Components",
+      "component_category": "Encoders",
+      "source_urls": [
+        "https://www.heidenhain.com/industries/robotics"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 115,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "POSITAL / FRABA",
+      "country": "Germany",
+      "flagship_model": "IXARC kit encoders",
+      "official_url": "https://www.posital.com/en/products/kit-encoders",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Modular joint encoders",
+      "evidence_notes": "Official kit encoder page explicitly lists robotic small joints and motor integration; choose mechanical/interface configuration.",
+      "supplier_type": "Components",
+      "component_category": "Encoders",
+      "source_urls": [
+        "https://www.posital.com/en/products/kit-encoders"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 116,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Broadcom",
+      "country": "United States",
+      "flagship_model": "Absolute encoder modules",
+      "official_url": "https://www.broadcom.com/products/motion-control-encoders/absolute-encoders",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motion feedback",
+      "evidence_notes": "Official catalog lists ASIC, PCBA and modular absolute encoders for robotics and space-constrained servomotors; no named humanoid design-in claimed.",
+      "supplier_type": "Components",
+      "component_category": "Encoders",
+      "source_urls": [
+        "https://www.broadcom.com/products/motion-control-encoders/absolute-encoders"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 117,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Oriental Motor",
+      "country": "Japan",
+      "flagship_model": "DGII rotary actuators",
+      "official_url": "https://www.orientalmotor.eu/uk/download/catalog",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motors & rotary actuators",
+      "evidence_notes": "Official DGII product catalogs include robot applications for Universal Robots/FANUC; builder component relevance only, not validated humanoid joint compatibility.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.orientalmotor.eu/uk/download/catalog"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 118,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Allient / Allied Motion / Copley",
+      "country": "United States",
+      "flagship_model": "Electroflux / KinetiMax / Pyxmos",
+      "official_url": "https://allient.com/humanoid-robot-motors-and-motion-solutions/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motors & servo drives",
+      "evidence_notes": "Official humanoid catalog lists frameless motor families and Pyxmos servo drive; Allied Motion/Copley grouped with parent Allient.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://allient.com/humanoid-robot-motors-and-motion-solutions/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 119,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Nanotec",
+      "country": "Germany",
+      "flagship_model": "DKA frameless motor kits",
+      "official_url": "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Frameless motor kits",
+      "evidence_notes": "Official new-product catalog explicitly lists robotics among DKA motor-kit uses. DKA is a motor component; transmission, drive and thermal design remain integration tasks.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 120,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "AMETEK / Dunkermotoren",
+      "country": "United States / Germany",
+      "flagship_model": "BG dPro BLDC motors",
+      "official_url": "https://www.dunkermotoren.com/en/products/interfaces",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Integrated motors",
+      "evidence_notes": "Official product source describes BG dPro smart motors; official homepage shows mobile-robot drive applications. Grouped under AMETEK; humanoid design-in not claimed.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.dunkermotoren.com/en/products/interfaces"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 121,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "MinebeaMitsumi",
+      "country": "Japan",
+      "flagship_model": "High-torque micro actuators",
+      "official_url": "https://www.minebeamitsumi.com/english/news/press/2025/1210639_20344.html",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Micro drives & motors",
+      "evidence_notes": "Official humanoid component release names robot-hand micro actuators and frameless BLDC motors; commercial configuration/availability requires inquiry.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.minebeamitsumi.com/english/news/press/2025/1210639_20344.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 122,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "NSK",
+      "country": "Japan",
+      "flagship_model": "Robot linear actuator",
+      "official_url": "https://www.nsk.com/content/dam/nsk/common/virtualexpo/robot/pdf/2_linear_e.pdf",
+      "availability": "New-product inquiry",
+      "form_factor": "Component",
+      "focus": "Linear joint actuation",
+      "evidence_notes": "Official brochure explicitly describes humanoid linear actuator co-developed with Delta, with ball screw and compact driver. New-product inquiry, not online stock.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.nsk.com/content/dam/nsk/common/virtualexpo/robot/pdf/2_linear_e.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 123,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "THK",
+      "country": "Japan",
+      "flagship_model": "SEED / RA-C actuator",
+      "official_url": "https://www.thk.com/jp/en/journal/products/article-02072025-1.html",
+      "availability": "Technology / product inquiry",
+      "form_factor": "Component",
+      "focus": "Robot actuators",
+      "evidence_notes": "Official humanoid FRED engineering case gives RA-C80-04 actuator reference values. Inquiry needed; demonstration specs do not establish retail availability.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.thk.com/jp/en/journal/products/article-02072025-1.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 124,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Schaeffler",
+      "country": "Germany",
+      "flagship_model": "Humanoid planetary gear actuator",
+      "official_url": "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Integrated humanoid joints",
+      "evidence_notes": "Official humanoid portfolio includes rotary/linear/QDD actuation; Ewellix included within Schaeffler. Prototype/production maturity differs by product.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 125,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "HIWIN group",
+      "country": "Taiwan",
+      "flagship_model": "Linear & rotary humanoid actuation",
+      "official_url": "https://www.hiwin.tw/news_content.aspx?newsID=25598",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Motion modules",
+      "evidence_notes": "Official group showcase describes humanoid linear/rotary modules, roller screws, harmonic reducers and motors. HIWIN/HIWIN Mikrosystem not counted separately.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.hiwin.tw/news_content.aspx?newsID=25598"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 126,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Leaderdrive",
+      "country": "China",
+      "flagship_model": "Strain-wave gears / rotary actuators",
+      "official_url": "https://www.leaderdrive.com/app/8.html",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Reducers & joint drives",
+      "evidence_notes": "Official Mobile Humanoid Robots page states it supplies precision gearing and rotational components to humanoid developers; technical selection required.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.leaderdrive.com/app/8.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 127,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "ZHAOWEI / ZWHAND",
+      "country": "China",
+      "flagship_model": "Micro robot-joint drive modules",
+      "official_url": "https://www.zwgearbox.com/news-exhibitions/zhaowei-motor-china-2021",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Micro geared drives",
+      "evidence_notes": "Official article describes humanoid joint drive modules. ZWHAND is subsidiary of ZHAOWEI, counted once; no separate hand manufacturer entry.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.zwgearbox.com/news-exhibitions/zhaowei-motor-china-2021"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 128,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Eyou Robot Technology",
+      "country": "China",
+      "flagship_model": "Planetary / harmonic / linear joint modules",
+      "official_url": "https://en.eyoubot.com/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Integrated servo joints",
+      "evidence_notes": "Official catalog lists planetary, harmonic and humanoid linear joint modules with motors, encoders and roller screws.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://en.eyoubot.com/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 129,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Laifual Drive",
+      "country": "China",
+      "flagship_model": "FS / FH harmonic reducers",
+      "official_url": "https://www.laifual.com/product/harmonic-reducer/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Strain-wave reducers",
+      "evidence_notes": "Official catalog explicitly includes humanoid robot applications and named FS/FH variants, also joint modules. Contact manufacturer for specific selection.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.laifual.com/product/harmonic-reducer/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 130,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "HEBI Robotics",
+      "country": "United States",
+      "flagship_model": "H / T / R-series actuators",
+      "official_url": "https://docs.hebi.us/hardware.html",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Modular robot joints",
+      "evidence_notes": "Official current documentation specifies modular intelligent H/T/R actuators. X-series is explicitly discontinued, so no active X-series offer.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://docs.hebi.us/hardware.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 131,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "TQ-RoboDrive",
+      "country": "Germany",
+      "flagship_model": "ILM / ILM-E servo kits",
+      "official_url": "https://www.tq-group.com/en/products/tq-robodrive/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Frameless servo kits",
+      "evidence_notes": "Official product list names ILM/ILM-E kits and explicitly includes humanoids, cobots and exoskeletons.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.tq-group.com/en/products/tq-robodrive/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 132,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "ALVA Industries",
+      "country": "Norway",
+      "flagship_model": "SlimTorq frameless motors",
+      "official_url": "https://www.alvaindustries.com/slimtorq-motors",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Frameless torque motors",
+      "evidence_notes": "Official catalog lists SlimTorq motor models; official General Robotics case links its motors to humanoid/quadruped actuation.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.alvaindustries.com/slimtorq-motors",
+        "https://www.alvaindustries.com/papers-downloads/success-story-general-robotics-alva"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 133,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Akribis Systems",
+      "country": "Singapore",
+      "flagship_model": "ADR-T / ADR-F frameless motors",
+      "official_url": "https://akribis-sys.de/uploads/files/website/Motors_and_Stages_for_OEMs_EN-23.8.1.pdf",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Frameless torque motors",
+      "evidence_notes": "Official motor brochure identifies ADR-T for robot-arm joints with harmonic reducers. Component-level relevance; no humanoid OEM customer claim.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://akribis-sys.de/uploads/files/website/Motors_and_Stages_for_OEMs_EN-23.8.1.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 134,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Tecnotion",
+      "country": "Netherlands",
+      "flagship_model": "QMT / torque motor series",
+      "official_url": "https://www.tecnotion.com/products/",
+      "availability": "Contact sales",
+      "form_factor": "Component",
+      "focus": "Direct-drive torque motors",
+      "evidence_notes": "Official catalog includes frameless torque motors; official downloads include delta-robot application leaflet. Builder components, not prevalidated humanoid joints.",
+      "supplier_type": "Components",
+      "component_category": "Actuation",
+      "source_urls": [
+        "https://www.tecnotion.com/products/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "id": 135,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Waveshare",
+      "country": "China",
+      "flagship_model": "RoArm-M3-S",
+      "official_url": "https://www.waveshare.com/product/ai/robots/roarm-m3.htm",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Robotic arm kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "5+1 DoF ESP32 arm for LeRobot and ROS2 development; not a humanoid robot.",
+      "source_urls": [
+        "https://www.waveshare.com/product/ai/robots/roarm-m3.htm"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 136,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Yahboom",
+      "country": "China",
+      "flagship_model": "DOFBOT SE",
+      "official_url": "https://category.yahboom.net/products/dofbot-se",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Robotic arm kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official product identifies 6DoF arm developed by Yahboom with PC virtual-machine ROS2 control.",
+      "source_urls": [
+        "https://category.yahboom.net/products/dofbot-se"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 137,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Freenove",
+      "country": "China",
+      "flagship_model": "Robot Dog Kit for Raspberry Pi",
+      "official_url": "https://store.freenove.com/collections/robot-kits",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Quadruped educational kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official maker store lists robot dog and hexapod kits. Host Raspberry Pi configuration must be checked separately.",
+      "source_urls": [
+        "https://store.freenove.com/collections/robot-kits"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 138,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "SunFounder",
+      "country": "China",
+      "flagship_model": "PiCrawler",
+      "official_url": "https://www.sunfounder.com/products/picrawler-robot-kit",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Quadruped educational kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official PiCrawler kit excludes Raspberry Pi host; robotics learning hardware, not humanoid.",
+      "source_urls": [
+        "https://www.sunfounder.com/products/picrawler-robot-kit"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 139,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Arduino",
+      "country": "Italy",
+      "flagship_model": "Alvik",
+      "official_url": "https://docs.arduino.cc/hardware/alvik",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Wheeled educational robot",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official documentation identifies Nano ESP32-based coding robot, sensors and programming resources.",
+      "source_urls": [
+        "https://docs.arduino.cc/hardware/alvik"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 140,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Raspberry Pi",
+      "country": "United Kingdom",
+      "flagship_model": "AI HAT+",
+      "official_url": "https://www.raspberrypi.com/products/ai-hat/",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "AI accelerator development board",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official Hailo accelerator add-on for Raspberry Pi5. Not a complete robot; AI Kit predecessor is out of production.",
+      "source_urls": [
+        "https://www.raspberrypi.com/products/ai-hat/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 141,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "NVIDIA",
+      "country": "United States",
+      "flagship_model": "Jetson Orin Nano Super Developer Kit",
+      "official_url": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Edge AI developer kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official 67TOPS development computer for AI and robotics; not production robot hardware by itself.",
+      "source_urls": [
+        "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 142,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Seeed Studio",
+      "country": "China",
+      "flagship_model": "reComputer Robotics J4012",
+      "official_url": "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Robotics edge computer",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Seeed-designed robotics computer integrating NVIDIA module, rich I/O and CAN; not resale-only bare module.",
+      "source_urls": [
+        "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 143,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Robotical",
+      "country": "United Kingdom",
+      "flagship_model": "Marty the Robot V2",
+      "official_url": "https://robotical.io/shop/",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Small bipedal educational robot",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official shop identifies own Marty V2 coding robot and classroom packages.",
+      "source_urls": [
+        "https://robotical.io/shop/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 144,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Trossen Robotics",
+      "country": "United States",
+      "flagship_model": "Stationary AI",
+      "official_url": "https://www.trossenrobotics.com/stationary-ai",
+      "supplier_type": "Kits & development",
+      "availability": "Build-to-order inquiry; store sold out",
+      "form_factor": "Manipulation research kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official current Trossen AI lineup succeeds ALOHA; avoid discontinued original ALOHA as a current offer.",
+      "source_urls": [
+        "https://www.trossenrobotics.com/ai",
+        "https://www.trossenrobotics.com/stationary-ai",
+        "https://store.trossenrobotics.com/products/stationary-ai-base-model-1"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 145,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Robotiq",
+      "country": "Canada",
+      "flagship_model": "2FC-85",
+      "official_url": "https://robotiq.com/physical-ai-grippers",
+      "supplier_type": "Hands & grippers",
+      "availability": "Preorder; target Q1 2027",
+      "form_factor": "Two-finger tactile gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official physical AI gripper page accepts preorders targeting Q1 2027 shipping; no current delivery claim.",
+      "source_urls": [
+        "https://robotiq.com/physical-ai-grippers"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 146,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "SCHUNK",
+      "country": "Germany",
+      "flagship_model": "SVH",
+      "official_url": "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Manufacturer-owned repository supplies SVH ROS1/ROS2 drivers and description; current sales and lead time need confirmation.",
+      "source_urls": [
+        "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 147,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Shadow Robot",
+      "country": "United Kingdom",
+      "flagship_model": "Shadow Dexterous Hand",
+      "official_url": "https://shadowrobot.com/dexterous-hand-series/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official product page describes tendon-driven humanoid robot hand and research inquiry route.",
+      "source_urls": [
+        "https://shadowrobot.com/dexterous-hand-series/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 148,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Inspire Robots",
+      "country": "China",
+      "flagship_model": "RH56DFX",
+      "official_url": "https://en.inspire-robots.com/product/rh56dfx/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official product specifies six active DoF,12 joints and quote route; wrist variant differs.",
+      "source_urls": [
+        "https://en.inspire-robots.com/product/rh56dfx/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 149,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "TESOLLO",
+      "country": "South Korea",
+      "flagship_model": "DG-5F-M",
+      "official_url": "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official October2026 news demonstrates DG-5F-M and smaller DG-5F-S as own humanoid hand products.",
+      "source_urls": [
+        "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 150,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Wonik Robotics",
+      "country": "South Korea",
+      "flagship_model": "Allegro Hand V6 F",
+      "official_url": "https://allegrohand.com/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official manufacturer site reports September7 2026 launch of five-finger V6F; do not confuse with four-finger V4/V5.",
+      "source_urls": [
+        "https://allegrohand.com/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 151,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Seed Robotics",
+      "country": "Portugal",
+      "flagship_model": "RH8D",
+      "official_url": "https://www.seedrobotics.com/rh8d-adult-robot-hand",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Anthropomorphic robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official RH8D page describes19 DoF with8 actuators and integrated wrist; optional sensors differ.",
+      "source_urls": [
+        "https://www.seedrobotics.com/rh8d-adult-robot-hand"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 152,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Prensilia",
+      "country": "Italy",
+      "flagship_model": "Mia Hand Industrial",
+      "official_url": "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Anthropomorphic industrial gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official industrial datasheet identifies robot hand suitable for humanoid integration; distinct from medical prosthesis configuration.",
+      "source_urls": [
+        "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 153,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "qbrobotics",
+      "country": "Italy",
+      "flagship_model": "qb SoftHand Industry",
+      "official_url": "https://qbrobotics.com/product/qb-softhand-industry/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Adaptive five-finger robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official hand product has19 anthropomorphic DoF, one motor and ROS/ROS2 support; not complete robot.",
+      "source_urls": [
+        "https://qbrobotics.com/product/qb-softhand-industry/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 154,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "PSYONIC",
+      "country": "United States",
+      "flagship_model": "Ability Hand",
+      "official_url": "https://www.psyonic.io/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Anthropomorphic robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official maker supplies touch-sensing bionic hand for humans and robots; manufacturer GitHub API confirms research integration.",
+      "source_urls": [
+        "https://www.psyonic.io/",
+        "https://github.com/psyonicinc/ability-hand-api"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 155,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "BrainRobotics / BrainCo",
+      "country": "United States / China",
+      "flagship_model": "Intelligent Bionic Hand",
+      "official_url": "https://www.brainco.cn/en-US/products/brain-robotics",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Bionic prosthetic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official product is a myoelectric/prosthetic hand platform. Medical configuration; general humanoid integration not established, no catalog offer created.",
+      "source_urls": [
+        "https://www.brainco.cn/en-US/products/brain-robotics"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 156,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Linkerbot",
+      "country": "China",
+      "flagship_model": "Linker Hand O20",
+      "official_url": "https://www.linkerbot.cn/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Dexterous robotic hand",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official manufacturer site names O20 direct-drive hand and specification set for manipulation development.",
+      "source_urls": [
+        "https://www.linkerbot.cn/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 157,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "DH-Robotics",
+      "country": "China",
+      "flagship_model": "AG-160-95",
+      "official_url": "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Adaptive electric gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official catalog identifies AG adaptive gripper series independently developed by DH-Robotics.",
+      "source_urls": [
+        "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 158,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "OnRobot",
+      "country": "Denmark",
+      "flagship_model": "RG2",
+      "official_url": "https://onrobot.com/en/products/rg2-finger-gripper",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Two-finger electric gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official product provides quote route, flexible gripping and robot compatibility; RG2 differs from RG2-FT.",
+      "source_urls": [
+        "https://onrobot.com/en/products/rg2-finger-gripper"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 159,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Makeblock",
+      "country": "China",
+      "flagship_model": "mBot2",
+      "official_url": "https://www.makeblock.com/products/buy-mbot2",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Wheeled educational robot kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official maker store lists coding kit with blocks/Python; regional delivery restrictions apply.",
+      "source_urls": [
+        "https://www.makeblock.com/products/buy-mbot2"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 160,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "Weiss Robotics",
+      "country": "Germany",
+      "flagship_model": "WSG 50-110",
+      "official_url": "https://www.weiss-robotics.com/en/servo-electric/wsg-series/",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Servo-electric parallel gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official page explicitly confirms manufacture by Weiss; WSG50-110 current, WSG32 end-of-line caution.",
+      "source_urls": [
+        "https://www.weiss-robotics.com/en/servo-electric/wsg-series/"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 161,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Schmalz",
+      "country": "Germany",
+      "flagship_model": "FQE",
+      "official_url": "https://www.schmalz.com/en-pl/products/automation-743270/vacuum-grippers-746238/gripping-systems-and-end-of-arm-tooling-eoat-746240/area-gripping-systems-fqe-312036",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Vacuum area gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official FQE configurable end-effector. Soft Robotics gripper business acquired by Schmalz so not counted separately.",
+      "source_urls": [
+        "https://www.schmalz.com/en-pl/products/automation-743270/vacuum-grippers-746238/gripping-systems-and-end-of-arm-tooling-eoat-746240/area-gripping-systems-fqe-312036"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 162,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "Piab",
+      "country": "Sweden",
+      "flagship_model": "piSOFTGRIP",
+      "official_url": "https://www.piab.com/en-us/news/unique-vacuum-based-soft-gripper-for-handling-sensitive-and-delicate-objects",
+      "supplier_type": "Hands & grippers",
+      "availability": "Manufacturer inquiry; confirm integration",
+      "form_factor": "Soft vacuum-driven gripper",
+      "focus": "Manipulation components",
+      "evidence_notes": "Official manufacturer announcement and conformity document identify own silicone soft gripper; no humanoid hand claim.",
+      "source_urls": [
+        "https://www.piab.com/en-us/news/unique-vacuum-based-soft-gripper-for-handling-sensitive-and-delicate-objects",
+        "https://www.piab.com/globalassets/productimages/declarationofcompliancepisoftgrip_all.pdf?ref=BD68D1F64E"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 163,
+      "directory_category": "Parts",
+      "component_category": "Manipulation components"
+    },
+    {
+      "company": "DFRobot",
+      "country": "China",
+      "flagship_model": "micro:Maqueen Plus V2",
+      "official_url": "https://www.dfrobot.com/product-2026.html",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Wheeled educational robot kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official product identifies micro:bit learning platform; batteries and host configuration must be confirmed.",
+      "source_urls": [
+        "https://www.dfrobot.com/product-2026.html"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 164,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "SparkFun Electronics",
+      "country": "United States",
+      "flagship_model": "Inventors Kit v4.1.2",
+      "official_url": "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html",
+      "supplier_type": "Kits & development",
+      "availability": "Manufacturer listing; confirm regional configuration",
+      "form_factor": "Electronics / robotics learning kit",
+      "focus": "Robotics education & development",
+      "evidence_notes": "Official own-brand kit includes RedBoardQwiic, electronics and robot projects; not a full humanoid.",
+      "source_urls": [
+        "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html"
+      ],
+      "checked_date": "2026-10-25",
+      "date": "2026-10-25",
+      "price": null,
+      "id": 165,
+      "directory_category": "Kits",
+      "component_category": "Robotics education & development"
+    },
+    {
+      "company": "RealSense",
+      "country": "United States",
+      "flagship_model": "D455",
+      "official_url": "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Stereo depth camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Stereo depth and RGB camera with integrated IMU; select range and interface for the host robot.",
+      "source_urls": [
+        "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 166,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Orbbec",
+      "country": "China",
+      "flagship_model": "Gemini 335",
+      "official_url": "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Stereo depth camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Active/passive stereo camera with USB-C and SDK; robotics perception integration required.",
+      "source_urls": [
+        "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 167,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Stereolabs",
+      "country": "France",
+      "flagship_model": "ZED X",
+      "official_url": "https://www.stereolabs.com/products/zed-x",
+      "availability": "Contact manufacturer",
+      "form_factor": "Stereo camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "GMSL2 global shutter stereo camera; requires supported Jetson and capture hardware.",
+      "source_urls": [
+        "https://www.stereolabs.com/products/zed-x"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 168,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Luxonis",
+      "country": "United States",
+      "flagship_model": "OAK-D Pro",
+      "official_url": "https://docs.luxonis.com/hardware/products/OAK-D%20Pro",
+      "availability": "Contact manufacturer",
+      "form_factor": "AI depth camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "USB stereo depth device with onboard RVC2 processing and infrared illumination.",
+      "source_urls": [
+        "https://docs.luxonis.com/hardware/products/OAK-D%20Pro"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 169,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Basler",
+      "country": "Germany",
+      "flagship_model": "dart",
+      "official_url": "https://www.baslerweb.com/en/cameras/dart/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Board camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Compact board cameras offered with several sensor and interface choices; lenses and host integration required.",
+      "source_urls": [
+        "https://www.baslerweb.com/en/cameras/dart/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 170,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "IDS Imaging Development Systems",
+      "country": "Germany",
+      "flagship_model": "uEye",
+      "official_url": "https://en.ids-imaging.com/ueye-industrial-cameras.html",
+      "availability": "Contact manufacturer",
+      "form_factor": "Industrial camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "USB and GigE camera families, including board variants for embedded systems.",
+      "source_urls": [
+        "https://en.ids-imaging.com/ueye-industrial-cameras.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 171,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Sony Semiconductor Solutions",
+      "country": "Japan",
+      "flagship_model": "Pregius / Pregius S",
+      "official_url": "https://www.sony-semicon.com/en/products/is/industry/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Image sensor chip",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "OEM industrial image sensors; a camera module design is required.",
+      "source_urls": [
+        "https://www.sony-semicon.com/en/products/is/industry/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 172,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "ams OSRAM",
+      "country": "Austria",
+      "flagship_model": "TMF8829",
+      "official_url": "https://ams-osram.com/news/press-releases/new-high-resolution-dtof",
+      "availability": "Contact manufacturer",
+      "form_factor": "Time-of-flight sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Direct ToF sensor for spatial detection; OEM integration and evaluation required.",
+      "source_urls": [
+        "https://ams-osram.com/news/press-releases/new-high-resolution-dtof"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 173,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "STMicroelectronics",
+      "country": "Switzerland",
+      "flagship_model": "LSM6DSV16X",
+      "official_url": "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html",
+      "availability": "Contact manufacturer",
+      "form_factor": "MEMS IMU",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Six-axis IMU with embedded sensor fusion; chip-level electrical and mechanical integration required.",
+      "source_urls": [
+        "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 174,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Bosch Sensortec",
+      "country": "Germany",
+      "flagship_model": "BMI088",
+      "official_url": "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088",
+      "availability": "Contact manufacturer",
+      "form_factor": "MEMS IMU",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Six-axis IMU explicitly positioned for drones and robotics; component rather than complete robot.",
+      "source_urls": [
+        "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 175,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "TDK / InvenSense",
+      "country": "Japan",
+      "flagship_model": "ICM-42688-V",
+      "official_url": "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v",
+      "availability": "Contact manufacturer",
+      "form_factor": "MEMS IMU",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Six-axis motion sensor with sensor fusion library; check host processor and interface requirements.",
+      "source_urls": [
+        "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 176,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Analog Devices",
+      "country": "United States",
+      "flagship_model": "ADIS16470",
+      "official_url": "https://www.analog.com/en/products/adis16470.html",
+      "availability": "Contact manufacturer",
+      "form_factor": "Calibrated IMU",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Factory calibrated inertial module with SPI and documented robotics applications.",
+      "source_urls": [
+        "https://www.analog.com/en/products/adis16470.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 177,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "MEMSIC",
+      "country": "China",
+      "flagship_model": "6-axis IMU portfolio",
+      "official_url": "https://www.memsic.com/about",
+      "availability": "Contact manufacturer",
+      "form_factor": "MEMS sensors",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Official company page confirms mass-produced inertial sensor portfolio; request exact model selection.",
+      "source_urls": [
+        "https://www.memsic.com/about"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 178,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Xsens / Movella",
+      "country": "Netherlands",
+      "flagship_model": "Sirius",
+      "official_url": "https://www.xsens.com/products/sensor-modules/xsens-sirius-series",
+      "availability": "Contact manufacturer",
+      "form_factor": "Inertial sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Rugged IMU and orientation sensor family; select model and host interface. Replaces legacy MTi-100 family.",
+      "source_urls": [
+        "https://www.xsens.com/products/sensor-modules/xsens-sirius-series"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 179,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "MicroStrain by HBK",
+      "country": "United States",
+      "flagship_model": "3DM-GX5-AR",
+      "official_url": "https://microstrain.com/sites/default/files/GX5%20AR.pdf",
+      "availability": "Contact manufacturer",
+      "form_factor": "Inertial module",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Official HBK datasheet documents USB/RS232 inertial module; confirm current ordering and lifecycle with supplier.",
+      "source_urls": [
+        "https://microstrain.com/sites/default/files/GX5%20AR.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 180,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "VectorNav",
+      "country": "United States",
+      "flagship_model": "VN-100",
+      "official_url": "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf",
+      "availability": "Contact manufacturer",
+      "form_factor": "IMU / AHRS",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Miniature inertial/orientation module supplied in rugged and surface mount forms.",
+      "source_urls": [
+        "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 181,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "SBG Systems",
+      "country": "France",
+      "flagship_model": "Pulse series",
+      "official_url": "https://www.sbg-systems.com/pulse-series/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Inertial module",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Calibrated six degree of freedom IMUs for dynamic applications; select grade and interface.",
+      "source_urls": [
+        "https://www.sbg-systems.com/pulse-series/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 182,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Advanced Navigation",
+      "country": "Australia",
+      "flagship_model": "Boreas",
+      "official_url": "https://www.advancednavigation.com/press-kit/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Inertial navigation",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "DFOG inertial navigation supplier; size and price class require application-specific assessment.",
+      "source_urls": [
+        "https://www.advancednavigation.com/press-kit/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 183,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Bota Systems",
+      "country": "Switzerland",
+      "flagship_model": "MiniONE",
+      "official_url": "https://shop.botasys.com/product-portfolio",
+      "availability": "Contact manufacturer",
+      "form_factor": "Force / torque sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Six-axis force/torque sensor portfolio; mounting, range and communication choice required.",
+      "source_urls": [
+        "https://shop.botasys.com/product-portfolio"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 184,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Contactile",
+      "country": "Australia",
+      "flagship_model": "PapillArray Development Kit v2.0",
+      "official_url": "https://contactile.com/products/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Tactile sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Tactile sensor development system with controller and software; integration in a hand or gripper required.",
+      "source_urls": [
+        "https://contactile.com/products/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 185,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "XELA Robotics",
+      "country": "Japan",
+      "flagship_model": "uSkin",
+      "official_url": "https://xelarobotics.com/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Tactile sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Pressure and shear sensing systems offered for robotic hands, grippers and surfaces; request configuration.",
+      "source_urls": [
+        "https://xelarobotics.com/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 186,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "GelSight",
+      "country": "United States",
+      "flagship_model": "GelSight tactile sensing",
+      "official_url": "https://www.gelsight.com/tactile-sensing-technology/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Optical tactile sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Elastomer-based tactile imaging technology; supplier engineering consultation for integration.",
+      "source_urls": [
+        "https://www.gelsight.com/tactile-sensing-technology/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 187,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Resense",
+      "country": "Germany",
+      "flagship_model": "HEX 21",
+      "official_url": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "availability": "Contact manufacturer",
+      "form_factor": "Force / torque sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Compact six-axis force/torque sensor kit documented for robotic hand and haptic research.",
+      "source_urls": [
+        "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 188,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Tekscan",
+      "country": "United States",
+      "flagship_model": "FlexiForce A201",
+      "official_url": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0",
+      "availability": "Contact manufacturer",
+      "form_factor": "Force sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Thin resistive force sensor; requires signal conditioning and calibration in its installed configuration.",
+      "source_urls": [
+        "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 189,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Pressure Profile Systems",
+      "country": "United States",
+      "flagship_model": "RoboTact / TactArray",
+      "official_url": "https://pressureprofile.com/sensors",
+      "availability": "Contact manufacturer",
+      "form_factor": "Tactile sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Pressure arrays and fingertip-scale robotic sensing; select area, range and system electronics.",
+      "source_urls": [
+        "https://pressureprofile.com/sensors"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 190,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "RoboSense",
+      "country": "China",
+      "flagship_model": "E1 / E1R",
+      "official_url": "https://robosense-robotics.github.io/product-manual/E1/",
+      "availability": "Contact manufacturer",
+      "form_factor": "LiDAR",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Official manufacturer product manual documents LiDAR power, Ethernet and installation requirements.",
+      "source_urls": [
+        "https://robosense-robotics.github.io/product-manual/E1/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 191,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Hesai Technology",
+      "country": "China",
+      "flagship_model": "JT128",
+      "official_url": "https://www.hesaitech.com/product/jt128/",
+      "availability": "Contact manufacturer",
+      "form_factor": "LiDAR",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Compact hyper-hemispherical LiDAR positioned for robotics and industrial perception.",
+      "source_urls": [
+        "https://www.hesaitech.com/product/jt128/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 192,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Livox",
+      "country": "China",
+      "flagship_model": "Mid-360",
+      "official_url": "https://www.livoxtech.com/support/mid-360",
+      "availability": "Contact manufacturer",
+      "form_factor": "LiDAR",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Official support documents compact LiDAR SDK, ROS and synchronization; request current model availability.",
+      "source_urls": [
+        "https://www.livoxtech.com/support/mid-360"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 193,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Ouster",
+      "country": "United States",
+      "flagship_model": "OS0",
+      "official_url": "https://ouster.com/products/hardware/os0",
+      "availability": "Contact manufacturer",
+      "form_factor": "LiDAR",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Wide vertical field of view LiDAR for robotics and industrial perception; configuration-specific quote.",
+      "source_urls": [
+        "https://ouster.com/products/hardware/os0"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 194,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "SICK",
+      "country": "Germany",
+      "flagship_model": "nanoScan3",
+      "official_url": "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056",
+      "availability": "Contact manufacturer",
+      "form_factor": "Safety laser scanner",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Indoor safety and localization scanner for mobile platforms; complete system validation required.",
+      "source_urls": [
+        "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 195,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Leuze",
+      "country": "Germany",
+      "flagship_model": "RSL 200",
+      "official_url": "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200",
+      "availability": "Contact manufacturer",
+      "form_factor": "Safety laser scanner",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Compact safety scanner for mobile platforms; this listing does not certify a humanoid safety system.",
+      "source_urls": [
+        "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 196,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Pepperl+Fuchs",
+      "country": "Germany",
+      "flagship_model": "R2000",
+      "official_url": "https://www.pepperl-fuchs.com/de/landingpage/industrial-sensors/r2000-series-gp27391",
+      "availability": "Contact manufacturer",
+      "form_factor": "2D LiDAR",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "360 degree ranging family with navigation and robotics variants; select exact interface and model.",
+      "source_urls": [
+        "https://www.pepperl-fuchs.com/de/landingpage/industrial-sensors/r2000-series-gp27391"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 197,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "KEYENCE",
+      "country": "Japan",
+      "flagship_model": "LJ-X8000",
+      "official_url": "https://www.keyence.com/products/measure/laser-2d/lj-x8000/models",
+      "availability": "Contact manufacturer",
+      "form_factor": "Laser profiler",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "Industrial laser profiling hardware for robot-cell inspection and metrology; not a general onboard humanoid camera.",
+      "source_urls": [
+        "https://www.keyence.com/products/measure/laser-2d/lj-x8000/models"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 198,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Prophesee",
+      "country": "France",
+      "flagship_model": "EVK4 HD",
+      "official_url": "https://docs.prophesee.ai/stable/hw/evk/evk4.html",
+      "availability": "Contact manufacturer",
+      "form_factor": "Event camera",
+      "focus": "Robot perception & integration",
+      "evidence_notes": "USB event vision evaluation camera using IMX636; requires event-processing software.",
+      "source_urls": [
+        "https://docs.prophesee.ai/stable/hw/evk/evk4.html"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "vision",
+      "id": 199,
+      "directory_category": "Parts"
+    },
+    {
+      "company": "Touchlab",
+      "country": "United Kingdom",
+      "flagship_model": "Tactile skin / robot fingertip",
+      "official_url": "https://www.touchlab.io/",
+      "availability": "Contact manufacturer",
+      "form_factor": "Tactile sensor",
+      "focus": "Robot sensing & integration",
+      "evidence_notes": "Customizable tactile layers and fingertips; contact manufacturer for integration and commercial scope.",
+      "source_urls": [
+        "https://www.touchlab.io/"
+      ],
+      "checked_date": "2026-10-25",
+      "price": null,
+      "supplier_type": "Components",
+      "component_category": "sensors",
+      "id": 200,
+      "directory_category": "Parts"
     }
   ],
   "products": [
@@ -2585,6 +4724,1307 @@ window.HM_DATA = {
         "Controller": "CM-530"
       },
       "checked": "2026-10-24"
+    },
+    {
+      "name": "EC-i 40",
+      "maker": "maxon",
+      "source": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "desc": "Brushless motor used in the HOPE humanoid's arms.",
+      "note": "Manufacturer case identifies this motor; select winding, drive and gearhead for your design.",
+      "form": "Brushless motor",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component1",
+      "makerId": 101
+    },
+    {
+      "name": "BXT brushless flat motor family",
+      "maker": "FAULHABER",
+      "source": "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+      "desc": "Compact external-rotor BLDC motor family.",
+      "note": "Motor family; encoder, gearing and driver depend on selected configuration.",
+      "form": "Motor",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component2",
+      "makerId": 102
+    },
+    {
+      "name": "AK80-8 robotic actuator",
+      "maker": "CubeMars / T-Motor",
+      "source": "https://www.cubemars.com/categorys/robotic-actuator",
+      "desc": "Integrated robotic joint actuator.",
+      "note": "Official guide lists humanoids and exoskeletons as applications; confirm servo/MIT variant.",
+      "form": "Joint actuator",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component3",
+      "makerId": 103
+    },
+    {
+      "name": "X4-36 robot module",
+      "maker": "MyActuator",
+      "source": "https://www.myactuator.com/rmd-x-planetarymotor",
+      "desc": "RMD-X V4 planetary joint module.",
+      "note": "Official catalog lists EtherCAT/CAN BUS and dual encoders. Quote exact interface and firmware.",
+      "form": "Joint actuator",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component4",
+      "makerId": 104
+    },
+    {
+      "name": "RobStride 04",
+      "maker": "RobStride Dynamics",
+      "source": "https://www.robstride.com/products/robStride04",
+      "desc": "Integrated quasi-direct-drive actuator for robot joints.",
+      "note": "Manufacturer identifies humanoid applications; confirm thermal mounting and continuous duty.",
+      "form": "QDD actuator",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component5",
+      "makerId": 105
+    },
+    {
+      "name": "CSD gear unit",
+      "maker": "Harmonic Drive group",
+      "source": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "desc": "Compact strain-wave gear unit for precision joints.",
+      "note": "Select 2UH/2UF size and ratio; a reducer alone requires motor, bearing and control integration.",
+      "form": "Reducer",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component6",
+      "makerId": 106
+    },
+    {
+      "name": "TBM2G frameless motor family",
+      "maker": "Regal Rexnord / Kollmorgen / Portescap",
+      "source": "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots",
+      "desc": "Frameless torque motor family recommended for humanoid joints.",
+      "note": "Select winding, size, thermal limits and feedback system with the supplier.",
+      "form": "Frameless motor",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component7",
+      "makerId": 109
+    },
+    {
+      "name": "ACTILINK-JD12",
+      "maker": "Synapticon",
+      "source": "https://www.synapticon.com/en/products/actilink-jd",
+      "desc": "Geared actuator with integrated motion-control electronics.",
+      "note": "Confirm ECS/ECD variant, safety option and connector configuration.",
+      "form": "Joint actuator",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component8",
+      "makerId": 111
+    },
+    {
+      "name": "Everest NET",
+      "maker": "Novanta / Celera Motion / Ingenia",
+      "source": "https://novanta.com/robotics-automation/product/everest/",
+      "desc": "Compact EtherCAT/CANopen servo drive.",
+      "note": "Drive requires compatible motor, feedback, power and configured safety system.",
+      "form": "Servo drive",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component9",
+      "makerId": 113
+    },
+    {
+      "name": "KCI120 Dplus",
+      "maker": "HEIDENHAIN group",
+      "source": "https://www.heidenhain.com/products/encoders/rotary-encoders/internal/kci-120-dplus",
+      "desc": "Dual inductive encoder for motor and output-shaft position feedback.",
+      "note": "Select scanning unit, rotor sets, shaft dimensions and interface configuration.",
+      "form": "Encoder",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component10",
+      "makerId": 115
+    },
+    {
+      "name": "IXARC KTD-BC00B-1617-LE4A-BAQ",
+      "maker": "POSITAL / FRABA",
+      "source": "https://www.posital.com/en/products/kit-encoders/KTD-BC00B-1617-LE4A-BAQ/3433212",
+      "desc": "Modular absolute multiturn kit encoder with BiSS C interface.",
+      "note": "Official component listing; verify mechanical installation and electrical connection.",
+      "form": "Encoder",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component11",
+      "makerId": 116
+    },
+    {
+      "name": "H25-series actuator",
+      "maker": "HEBI Robotics",
+      "source": "https://docs.hebi.us/hardware.html",
+      "desc": "Modular smart actuator with integrated motor, reducer, encoders and electronics.",
+      "note": "H-series current documentation; choose torque variant and brake option. Legacy X-series is discontinued.",
+      "form": "Joint actuator",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component12",
+      "makerId": 131
+    },
+    {
+      "name": "ILM-E50x14 servo kit",
+      "maker": "TQ-RoboDrive",
+      "source": "https://www.tq-group.com/en/products/tq-robodrive/",
+      "desc": "Frameless stator/rotor motor kit for embedded joint design.",
+      "note": "Kit is a motor component, requiring mechanical support, feedback and drive electronics.",
+      "form": "Frameless motor kit",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component13",
+      "makerId": 132
+    },
+    {
+      "name": "SlimTorq STM-85-24-M",
+      "maker": "ALVA Industries",
+      "source": "https://www.alvaindustries.com/slimtorq-motors",
+      "desc": "Slotless frameless torque motor.",
+      "note": "Official SlimTorq table lists this model. Confirm winding and continuous/peak operating limits.",
+      "form": "Frameless motor",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component14",
+      "makerId": 133
+    },
+    {
+      "name": "FSN lightweight harmonic reducer",
+      "maker": "Laifual Drive",
+      "source": "https://www.laifual.com/fsn/",
+      "desc": "Lightweight strain-wave reducer for compact robot mechanisms.",
+      "note": "Select size, ratio, torque and lubrication for a specific joint.",
+      "form": "Reducer",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component15",
+      "makerId": 130
+    },
+    {
+      "name": "DKA frameless motor kits",
+      "maker": "Nanotec",
+      "source": "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf",
+      "desc": "Frameless BLDC kits for compact drives and robotics.",
+      "note": "Manufacturer catalog lists motor-kit series; choose exact winding and integration components.",
+      "form": "Frameless motor kit",
+      "use": "Research",
+      "category": "Parts",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "checkedDate": "2026-10-25",
+      "id": "component16",
+      "makerId": 120
+    },
+    {
+      "id": "component17",
+      "name": "RoArm-M3-S",
+      "maker": "Waveshare",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Robotic arm kit",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.waveshare.com/product/ai/robots/roarm-m3.htm",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "5+1 DoF ESP32 arm for LeRobot and ROS2 development; not a humanoid robot.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Robotic arm kit"
+      },
+      "source_urls": [
+        "https://www.waveshare.com/product/ai/robots/roarm-m3.htm"
+      ],
+      "makerId": 136,
+      "desc": "5+1 DoF ESP32 arm for LeRobot and ROS2 development; not a humanoid robot."
+    },
+    {
+      "id": "component18",
+      "name": "DOFBOT SE",
+      "maker": "Yahboom",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Robotic arm kit",
+      "price": 299,
+      "currency": "USD",
+      "status": "Manufacturer store",
+      "image": null,
+      "source": "https://category.yahboom.net/products/dofbot-se",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official product identifies 6DoF arm developed by Yahboom with PC virtual-machine ROS2 control.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Robotic arm kit"
+      },
+      "source_urls": [
+        "https://category.yahboom.net/products/dofbot-se"
+      ],
+      "makerId": 137,
+      "desc": "Official product identifies 6DoF arm developed by Yahboom with PC virtual-machine ROS2 control."
+    },
+    {
+      "id": "component19",
+      "name": "Robot Dog Kit for Raspberry Pi",
+      "maker": "Freenove",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Quadruped educational kit",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://store.freenove.com/collections/robot-kits",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official maker store lists robot dog and hexapod kits. Host Raspberry Pi configuration must be checked separately.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Quadruped educational kit"
+      },
+      "source_urls": [
+        "https://store.freenove.com/collections/robot-kits"
+      ],
+      "makerId": 138,
+      "desc": "Official maker store lists robot dog and hexapod kits. Host Raspberry Pi configuration must be checked separately."
+    },
+    {
+      "id": "component20",
+      "name": "PiCrawler",
+      "maker": "SunFounder",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Quadruped educational kit",
+      "price": 139.99,
+      "currency": "USD",
+      "status": "Manufacturer store",
+      "image": null,
+      "source": "https://www.sunfounder.com/products/picrawler-robot-kit",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official PiCrawler kit excludes Raspberry Pi host; robotics learning hardware, not humanoid.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Quadruped educational kit"
+      },
+      "source_urls": [
+        "https://www.sunfounder.com/products/picrawler-robot-kit"
+      ],
+      "makerId": 139,
+      "desc": "Official PiCrawler kit excludes Raspberry Pi host; robotics learning hardware, not humanoid."
+    },
+    {
+      "id": "component21",
+      "name": "Alvik",
+      "maker": "Arduino",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Wheeled educational robot",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://docs.arduino.cc/hardware/alvik",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official documentation identifies Nano ESP32-based coding robot, sensors and programming resources.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Wheeled educational robot"
+      },
+      "source_urls": [
+        "https://docs.arduino.cc/hardware/alvik"
+      ],
+      "makerId": 140,
+      "desc": "Official documentation identifies Nano ESP32-based coding robot, sensors and programming resources."
+    },
+    {
+      "id": "component22",
+      "name": "AI HAT+",
+      "maker": "Raspberry Pi",
+      "category": "Kits",
+      "use": "Education",
+      "form": "AI accelerator development board",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.raspberrypi.com/products/ai-hat/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official Hailo accelerator add-on for Raspberry Pi5. Not a complete robot; AI Kit predecessor is out of production.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "AI accelerator development board"
+      },
+      "source_urls": [
+        "https://www.raspberrypi.com/products/ai-hat/"
+      ],
+      "makerId": 141,
+      "desc": "Official Hailo accelerator add-on for Raspberry Pi5. Not a complete robot; AI Kit predecessor is out of production."
+    },
+    {
+      "id": "component23",
+      "name": "Jetson Orin Nano Super Developer Kit",
+      "maker": "NVIDIA",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Edge AI developer kit",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official 67TOPS development computer for AI and robotics; not production robot hardware by itself.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Edge AI developer kit"
+      },
+      "source_urls": [
+        "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/"
+      ],
+      "makerId": 142,
+      "desc": "Official 67TOPS development computer for AI and robotics; not production robot hardware by itself."
+    },
+    {
+      "id": "component24",
+      "name": "reComputer Robotics J4012",
+      "maker": "Seeed Studio",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Robotics edge computer",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Seeed-designed robotics computer integrating NVIDIA module, rich I/O and CAN; not resale-only bare module.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Robotics edge computer"
+      },
+      "source_urls": [
+        "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html"
+      ],
+      "makerId": 143,
+      "desc": "Seeed-designed robotics computer integrating NVIDIA module, rich I/O and CAN; not resale-only bare module."
+    },
+    {
+      "id": "component25",
+      "name": "Marty the Robot V2",
+      "maker": "Robotical",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Small bipedal educational robot",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://robotical.io/shop/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official shop identifies own Marty V2 coding robot and classroom packages.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Small bipedal educational robot"
+      },
+      "source_urls": [
+        "https://robotical.io/shop/"
+      ],
+      "makerId": 144,
+      "desc": "Official shop identifies own Marty V2 coding robot and classroom packages."
+    },
+    {
+      "id": "component26",
+      "name": "Stationary AI (Base Model)",
+      "maker": "Trossen Robotics",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Manipulation research kit",
+      "price": 23995.95,
+      "currency": "USD",
+      "status": "Build-to-order inquiry",
+      "image": null,
+      "source": "https://store.trossenrobotics.com/products/stationary-ai-base-model-1",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Four-arm bimanual manipulation research kit. Official base-model store lists $23,995.95 and sold-out status; production is per order, confirm timing and configuration.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Manipulation research kit"
+      },
+      "source_urls": [
+        "https://store.trossenrobotics.com/products/stationary-ai-base-model-1",
+        "https://www.trossenrobotics.com/stationary-ai"
+      ],
+      "makerId": 145,
+      "desc": "Four-arm bimanual manipulation research kit. Official base-model store lists $23,995.95 and sold-out status; production is per order, confirm timing and configuration."
+    },
+    {
+      "id": "component27",
+      "name": "2FC-85",
+      "maker": "Robotiq",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Two-finger tactile gripper",
+      "price": null,
+      "currency": "USD",
+      "status": "Preorder",
+      "image": null,
+      "source": "https://robotiq.com/physical-ai-grippers",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official physical AI gripper page accepts preorders targeting Q1 2027 shipping; no current delivery claim.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Two-finger tactile gripper"
+      },
+      "source_urls": [
+        "https://robotiq.com/physical-ai-grippers"
+      ],
+      "makerId": 146,
+      "desc": "Official physical AI gripper page accepts preorders targeting Q1 2027 shipping; no current delivery claim."
+    },
+    {
+      "id": "component28",
+      "name": "SVH",
+      "maker": "SCHUNK",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Manufacturer-owned repository supplies SVH ROS1/ROS2 drivers and description; current sales and lead time need confirmation.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver"
+      ],
+      "makerId": 147,
+      "desc": "Manufacturer-owned repository supplies SVH ROS1/ROS2 drivers and description; current sales and lead time need confirmation."
+    },
+    {
+      "id": "component29",
+      "name": "Shadow Dexterous Hand",
+      "maker": "Shadow Robot",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://shadowrobot.com/dexterous-hand-series/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official product page describes tendon-driven humanoid robot hand and research inquiry route.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://shadowrobot.com/dexterous-hand-series/"
+      ],
+      "makerId": 148,
+      "desc": "Official product page describes tendon-driven humanoid robot hand and research inquiry route."
+    },
+    {
+      "id": "component30",
+      "name": "RH56DFX",
+      "maker": "Inspire Robots",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://en.inspire-robots.com/product/rh56dfx/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official product specifies six active DoF,12 joints and quote route; wrist variant differs.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://en.inspire-robots.com/product/rh56dfx/"
+      ],
+      "makerId": 149,
+      "desc": "Official product specifies six active DoF,12 joints and quote route; wrist variant differs."
+    },
+    {
+      "id": "component31",
+      "name": "DG-5F-M",
+      "maker": "TESOLLO",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official October2026 news demonstrates DG-5F-M and smaller DG-5F-S as own humanoid hand products.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026"
+      ],
+      "makerId": 150,
+      "desc": "Official October2026 news demonstrates DG-5F-M and smaller DG-5F-S as own humanoid hand products."
+    },
+    {
+      "id": "component32",
+      "name": "Allegro Hand V6 F",
+      "maker": "Wonik Robotics",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://allegrohand.com/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official manufacturer site reports September7 2026 launch of five-finger V6F; do not confuse with four-finger V4/V5.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://allegrohand.com/"
+      ],
+      "makerId": 151,
+      "desc": "Official manufacturer site reports September7 2026 launch of five-finger V6F; do not confuse with four-finger V4/V5."
+    },
+    {
+      "id": "component33",
+      "name": "Mia Hand Industrial",
+      "maker": "Prensilia",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Anthropomorphic industrial gripper",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official industrial datasheet identifies robot hand suitable for humanoid integration; distinct from medical prosthesis configuration.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Anthropomorphic industrial gripper"
+      },
+      "source_urls": [
+        "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf"
+      ],
+      "makerId": 153,
+      "desc": "Official industrial datasheet identifies robot hand suitable for humanoid integration; distinct from medical prosthesis configuration."
+    },
+    {
+      "id": "component34",
+      "name": "qb SoftHand Industry",
+      "maker": "qbrobotics",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Adaptive five-finger robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://qbrobotics.com/product/qb-softhand-industry/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official hand product has19 anthropomorphic DoF, one motor and ROS/ROS2 support; not complete robot.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Adaptive five-finger robotic hand"
+      },
+      "source_urls": [
+        "https://qbrobotics.com/product/qb-softhand-industry/"
+      ],
+      "makerId": 154,
+      "desc": "Official hand product has19 anthropomorphic DoF, one motor and ROS/ROS2 support; not complete robot."
+    },
+    {
+      "id": "component35",
+      "name": "Ability Hand",
+      "maker": "PSYONIC",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Anthropomorphic robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.psyonic.io/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official maker supplies touch-sensing bionic hand for humans and robots; manufacturer GitHub API confirms research integration.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Anthropomorphic robotic hand"
+      },
+      "source_urls": [
+        "https://www.psyonic.io/"
+      ],
+      "makerId": 155,
+      "desc": "Official maker supplies touch-sensing bionic hand for humans and robots; manufacturer GitHub API confirms research integration."
+    },
+    {
+      "id": "component36",
+      "name": "Linker Hand O20",
+      "maker": "Linkerbot",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Dexterous robotic hand",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.linkerbot.cn/",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official manufacturer site names O20 direct-drive hand and specification set for manipulation development.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Dexterous robotic hand"
+      },
+      "source_urls": [
+        "https://www.linkerbot.cn/"
+      ],
+      "makerId": 157,
+      "desc": "Official manufacturer site names O20 direct-drive hand and specification set for manipulation development."
+    },
+    {
+      "id": "component37",
+      "name": "AG-160-95",
+      "maker": "DH-Robotics",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Adaptive electric gripper",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official catalog identifies AG adaptive gripper series independently developed by DH-Robotics.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Adaptive electric gripper"
+      },
+      "source_urls": [
+        "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf"
+      ],
+      "makerId": 158,
+      "desc": "Official catalog identifies AG adaptive gripper series independently developed by DH-Robotics."
+    },
+    {
+      "id": "component38",
+      "name": "RG2",
+      "maker": "OnRobot",
+      "category": "Parts",
+      "use": "Research",
+      "form": "Two-finger electric gripper",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://onrobot.com/en/products/rg2-finger-gripper",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official product provides quote route, flexible gripping and robot compatibility; RG2 differs from RG2-FT.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Hands & grippers",
+        "Platform": "Two-finger electric gripper"
+      },
+      "source_urls": [
+        "https://onrobot.com/en/products/rg2-finger-gripper"
+      ],
+      "makerId": 159,
+      "desc": "Official product provides quote route, flexible gripping and robot compatibility; RG2 differs from RG2-FT."
+    },
+    {
+      "id": "component39",
+      "name": "mBot2",
+      "maker": "Makeblock",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Wheeled educational robot kit",
+      "price": null,
+      "currency": "USD",
+      "status": "Manufacturer inquiry",
+      "image": null,
+      "source": "https://www.makeblock.com/products/buy-mbot2",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official maker store lists coding kit with blocks/Python; regional delivery restrictions apply.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Wheeled educational robot kit"
+      },
+      "source_urls": [
+        "https://www.makeblock.com/products/buy-mbot2"
+      ],
+      "makerId": 160,
+      "desc": "Official maker store lists coding kit with blocks/Python; regional delivery restrictions apply."
+    },
+    {
+      "id": "component40",
+      "name": "micro:Maqueen Plus V2",
+      "maker": "DFRobot",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Wheeled educational robot kit",
+      "price": 49.9,
+      "currency": "USD",
+      "status": "Manufacturer store",
+      "image": null,
+      "source": "https://www.dfrobot.com/product-2026.html",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official product identifies micro:bit learning platform; batteries and host configuration must be confirmed.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Wheeled educational robot kit"
+      },
+      "source_urls": [
+        "https://www.dfrobot.com/product-2026.html"
+      ],
+      "makerId": 164,
+      "desc": "Official product identifies micro:bit learning platform; batteries and host configuration must be confirmed."
+    },
+    {
+      "id": "component41",
+      "name": "Inventors Kit v4.1.2",
+      "maker": "SparkFun Electronics",
+      "category": "Kits",
+      "use": "Education",
+      "form": "Electronics / robotics learning kit",
+      "price": 99.95,
+      "currency": "USD",
+      "status": "Manufacturer store",
+      "image": null,
+      "source": "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "description": "Official own-brand kit includes RedBoardQwiic, electronics and robot projects; not a full humanoid.",
+      "note": "Manufacturer documentation verified. Compatibility, regional supply, configuration and total cost require confirmation with the manufacturer.",
+      "specs": {
+        "Supplier": "Kits & development",
+        "Platform": "Electronics / robotics learning kit"
+      },
+      "source_urls": [
+        "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html"
+      ],
+      "makerId": 165,
+      "desc": "Official own-brand kit includes RedBoardQwiic, electronics and robot projects; not a full humanoid."
+    },
+    {
+      "maker": "RealSense",
+      "name": "D455",
+      "source": "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/",
+      "source_urls": [
+        "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/"
+      ],
+      "desc": "Stereo depth and RGB camera with integrated IMU; select range and interface for the host robot.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Stereo depth camera",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component42",
+      "makerId": 166
+    },
+    {
+      "maker": "Orbbec",
+      "name": "Gemini 335",
+      "source": "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/",
+      "source_urls": [
+        "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/"
+      ],
+      "desc": "Active/passive stereo camera with USB-C and SDK; robotics perception integration required.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Stereo depth camera",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component43",
+      "makerId": 167
+    },
+    {
+      "maker": "Stereolabs",
+      "name": "ZED X",
+      "source": "https://www.stereolabs.com/products/zed-x",
+      "source_urls": [
+        "https://www.stereolabs.com/products/zed-x"
+      ],
+      "desc": "GMSL2 global shutter stereo camera; requires supported Jetson and capture hardware.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Stereo camera",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component44",
+      "makerId": 168
+    },
+    {
+      "maker": "Luxonis",
+      "name": "OAK-D Pro",
+      "source": "https://docs.luxonis.com/hardware/products/OAK-D%20Pro",
+      "source_urls": [
+        "https://docs.luxonis.com/hardware/products/OAK-D%20Pro"
+      ],
+      "desc": "USB stereo depth device with onboard RVC2 processing and infrared illumination.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "AI depth camera",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component45",
+      "makerId": 169
+    },
+    {
+      "maker": "Basler",
+      "name": "dart",
+      "source": "https://www.baslerweb.com/en/cameras/dart/",
+      "source_urls": [
+        "https://www.baslerweb.com/en/cameras/dart/"
+      ],
+      "desc": "Compact board cameras offered with several sensor and interface choices; lenses and host integration required.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Board camera",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component46",
+      "makerId": 170
+    },
+    {
+      "maker": "STMicroelectronics",
+      "name": "LSM6DSV16X",
+      "source": "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html",
+      "source_urls": [
+        "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html"
+      ],
+      "desc": "Six-axis IMU with embedded sensor fusion; chip-level electrical and mechanical integration required.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "MEMS IMU",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component47",
+      "makerId": 174
+    },
+    {
+      "maker": "Bosch Sensortec",
+      "name": "BMI088",
+      "source": "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088",
+      "source_urls": [
+        "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088"
+      ],
+      "desc": "Six-axis IMU explicitly positioned for drones and robotics; component rather than complete robot.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "MEMS IMU",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component48",
+      "makerId": 175
+    },
+    {
+      "maker": "TDK / InvenSense",
+      "name": "ICM-42688-V",
+      "source": "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v",
+      "source_urls": [
+        "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v"
+      ],
+      "desc": "Six-axis motion sensor with sensor fusion library; check host processor and interface requirements.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "MEMS IMU",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component49",
+      "makerId": 176
+    },
+    {
+      "maker": "Analog Devices",
+      "name": "ADIS16470",
+      "source": "https://www.analog.com/en/products/adis16470.html",
+      "source_urls": [
+        "https://www.analog.com/en/products/adis16470.html"
+      ],
+      "desc": "Factory calibrated inertial module with SPI and documented robotics applications.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Calibrated IMU",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component50",
+      "makerId": 177
+    },
+    {
+      "maker": "Xsens / Movella",
+      "name": "Sirius",
+      "source": "https://www.xsens.com/products/sensor-modules/xsens-sirius-series",
+      "source_urls": [
+        "https://www.xsens.com/products/sensor-modules/xsens-sirius-series"
+      ],
+      "desc": "Rugged IMU and orientation sensor family; select model and host interface. Replaces legacy MTi-100 family.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Inertial sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component51",
+      "makerId": 179
+    },
+    {
+      "maker": "VectorNav",
+      "name": "VN-100",
+      "source": "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf",
+      "source_urls": [
+        "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf"
+      ],
+      "desc": "Miniature inertial/orientation module supplied in rugged and surface mount forms.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "IMU / AHRS",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component52",
+      "makerId": 181
+    },
+    {
+      "maker": "Bota Systems",
+      "name": "MiniONE",
+      "source": "https://shop.botasys.com/product-portfolio",
+      "source_urls": [
+        "https://shop.botasys.com/product-portfolio"
+      ],
+      "desc": "Six-axis force/torque sensor portfolio; mounting, range and communication choice required.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Force / torque sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component53",
+      "makerId": 184
+    },
+    {
+      "maker": "Contactile",
+      "name": "PapillArray Development Kit v2.0",
+      "source": "https://contactile.com/products/",
+      "source_urls": [
+        "https://contactile.com/products/"
+      ],
+      "desc": "Tactile sensor development system with controller and software; integration in a hand or gripper required.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Tactile sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component54",
+      "makerId": 185
+    },
+    {
+      "maker": "XELA Robotics",
+      "name": "uSkin",
+      "source": "https://xelarobotics.com/",
+      "source_urls": [
+        "https://xelarobotics.com/"
+      ],
+      "desc": "Pressure and shear sensing systems offered for robotic hands, grippers and surfaces; request configuration.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Tactile sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component55",
+      "makerId": 186
+    },
+    {
+      "maker": "Resense",
+      "name": "HEX 21",
+      "source": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "source_urls": [
+        "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf"
+      ],
+      "desc": "Compact six-axis force/torque sensor kit documented for robotic hand and haptic research.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Force / torque sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component56",
+      "makerId": 188
+    },
+    {
+      "maker": "Tekscan",
+      "name": "FlexiForce A201",
+      "source": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0",
+      "source_urls": [
+        "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0"
+      ],
+      "desc": "Thin resistive force sensor; requires signal conditioning and calibration in its installed configuration.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "Force sensor",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component57",
+      "makerId": 189
+    },
+    {
+      "maker": "Hesai Technology",
+      "name": "JT128",
+      "source": "https://www.hesaitech.com/product/jt128/",
+      "source_urls": [
+        "https://www.hesaitech.com/product/jt128/"
+      ],
+      "desc": "Compact hyper-hemispherical LiDAR positioned for robotics and industrial perception.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "LiDAR",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component58",
+      "makerId": 192
+    },
+    {
+      "maker": "Ouster",
+      "name": "OS0",
+      "source": "https://ouster.com/products/hardware/os0",
+      "source_urls": [
+        "https://ouster.com/products/hardware/os0"
+      ],
+      "desc": "Wide vertical field of view LiDAR for robotics and industrial perception; configuration-specific quote.",
+      "note": "Supplier listing; mounting, interfaces and host support must be checked before integration. No universal humanoid compatibility is claimed.",
+      "form": "LiDAR",
+      "use": "Research",
+      "status": "Contact sales",
+      "price": null,
+      "currency": "USD",
+      "specs": {},
+      "category": "Parts",
+      "checked": "2026-10-25",
+      "checked_date": "2026-10-25",
+      "id": "component59",
+      "makerId": 194
     }
   ]
 };
