@@ -773,5 +773,815 @@
     "form_factor": "Humanoid platform",
     "focus": "Development & industry",
     "id": 50
+  },
+  {
+    "company": "AI² Robotics",
+    "country": "China",
+    "flagship_model": "AlphaBot 2",
+    "official_url": "https://docs.ai2robotics.com/en/alphabot2/hardware/architecture/",
+    "availability": "Research / enterprise inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Industry & research",
+    "evidence_notes": "Official hardware documentation explicitly identifies AlphaBot 2 as a wheeled dual-arm humanoid; company about page identifies in-house R&D/manufacturing. AI² (Zhipingfang) is distinct from X Square (Zibianliang).",
+    "source_urls": [
+      "https://docs.ai2robotics.com/en/alphabot2/hardware/architecture/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 51
+  },
+  {
+    "company": "X Square Robot",
+    "country": "China",
+    "flagship_model": "QUANTA X2",
+    "official_url": "https://x2robot.com/product/quantum2",
+    "availability": "Product consultation",
+    "form_factor": "Wheeled",
+    "focus": "Manipulation & research",
+    "evidence_notes": "Official page calls QUANTA X2 a general-purpose wheeled humanoid and provides a product consultation link. Zibianliang is its Chinese identity; do not merge with AI² Robotics.",
+    "source_urls": [
+      "https://x2robot.com/product/quantum2"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 52
+  },
+  {
+    "company": "DroidUp",
+    "country": "China",
+    "flagship_model": "X02 / Walker II",
+    "official_url": "https://www.droidup.com/about",
+    "availability": "Sales inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Social & service",
+    "evidence_notes": "Official about page identifies Shanghai DroidUp as a biomimetic robot builder and names its full-size tendon-driven biped X02. Product page provides sales contact.",
+    "source_urls": [
+      "https://www.droidup.com/about"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 53
+  },
+  {
+    "company": "CASBOT",
+    "country": "China",
+    "flagship_model": "CASBOT 02",
+    "official_url": "https://casbot.tech/about",
+    "availability": "Product inquiry",
+    "form_factor": "Bipedal / wheeled",
+    "focus": "Industry & research",
+    "evidence_notes": "Official history records CASBOT 02 full-size biped release in June 2025 and W1 wheeled robot in August 2025. CASBOT/Chinese Zhongke Huiling counted once.",
+    "source_urls": [
+      "https://casbot.tech/about"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 54
+  },
+  {
+    "company": "Pudu Robotics",
+    "country": "China",
+    "flagship_model": "PUDU D9",
+    "official_url": "https://www.pudurobotics.com/en/products/d9",
+    "availability": "Development / sales inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Commercial service",
+    "evidence_notes": "Official product page identifies full-size biped D9; April 30 2026 company news says ongoing development. Some promotional features are not customer-available; confirm contract.",
+    "source_urls": [
+      "https://www.pudurobotics.com/en/products/d9"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 55
+  },
+  {
+    "company": "GAC Group",
+    "country": "China",
+    "flagship_model": "GoMate",
+    "official_url": "https://www.gagc.com.cn/en/news/detail?baseid=18970",
+    "availability": "Technology showcase",
+    "form_factor": "Wheeled-legged",
+    "focus": "Industry & service",
+    "evidence_notes": "Official GAC announcement identifies its self-developed third-generation humanoid GoMate with two-wheel/four-wheel modes. No current public order process verified.",
+    "source_urls": [
+      "https://www.gagc.com.cn/en/news/detail?baseid=18970"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 56
+  },
+  {
+    "company": "Chery / AiMOGA Robotics",
+    "country": "China",
+    "flagship_model": "Mornine",
+    "official_url": "https://cherymotor.com.au/about-us/chery-robots",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Commercial service",
+    "evidence_notes": "Official Chery site identifies Mornine humanoid; Chery Malaysia states co-development by Chery and AiMOGA team. Count as one manufacturer group.",
+    "source_urls": [
+      "https://cherymotor.com.au/about-us/chery-robots",
+      "https://www.chery.my/intelligent-aimoga-robot-arrives-in-malaysia-enhancing-customer-experience-across-multiple-scenarios/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 57
+  },
+  {
+    "company": "Dataa Robotics",
+    "country": "China",
+    "flagship_model": "Cloud Ginger",
+    "official_url": "https://dataai.dataarobotics.com/en",
+    "availability": "Sales inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Service & interaction",
+    "evidence_notes": "Official homepage identifies Dataa as creator/producer of cloud robot systems and lists Cloud Ginger service robot with dexterous fingers. CloudMinds/Chinese Dataa identity is not an additional manufacturer.",
+    "source_urls": [
+      "https://dataai.dataarobotics.com/en"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 58
+  },
+  {
+    "company": "Robbyant (Ant Group)",
+    "country": "China",
+    "flagship_model": "Robbyant R2 / R1",
+    "official_url": "https://www.robbyant.com/",
+    "availability": "Sales inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Service & manipulation",
+    "evidence_notes": "Official company site lists Robbyant R2 and robot hardware products; Ant Group official technology page identifies subsidiary's self-developed R1 service robot. Separate from third-party KUAVO also listed in ecosystem.",
+    "source_urls": [
+      "https://www.robbyant.com/",
+      "https://www.antgroup.com/hk/technology/new-tech-Technology-Antfocuses-Tabcomnent-detail/20260105001"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 59
+  },
+  {
+    "company": "Galaxea Dynamics",
+    "country": "China",
+    "flagship_model": "Kengo / R1 Pro",
+    "official_url": "https://galaxea-dynamics.com/",
+    "availability": "Inquiry; R1 store marked sold out",
+    "form_factor": "Bipedal / wheeled",
+    "focus": "Research & manipulation",
+    "evidence_notes": "Official catalog identifies proprietary biped Kengo and R1 wheeled dual-arm series. R1 store currently marked sold out. Do not treat placeholder Kengo store price as quote.",
+    "source_urls": [
+      "https://galaxea-dynamics.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 60
+  },
+  {
+    "company": "AheadForm",
+    "country": "China / United States",
+    "flagship_model": "Elf·Xuan 2.0",
+    "official_url": "https://www.aheadform.com/zh/home",
+    "availability": "Product showcase / inquiry",
+    "form_factor": "Upper-body humanoid",
+    "focus": "Social interaction",
+    "evidence_notes": "Official product lineup explicitly calls Elf·Xuan 2.0 upper-body bionic robot, alongside desktop interaction models. Do not imply bipedal locomotion.",
+    "source_urls": [
+      "https://www.aheadform.com/zh/home"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 61
+  },
+  {
+    "company": "Estun Codroid",
+    "country": "China",
+    "flagship_model": "Codroid 02",
+    "official_url": "https://www.codroid.ai/en/",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Industrial",
+    "evidence_notes": "Official product matrix lists Codroid 02 as humanoid robot and official news describes second-generation humanoid. Estun and Codroid combined in this manufacturer identity.",
+    "source_urls": [
+      "https://www.codroid.ai/en/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 62
+  },
+  {
+    "company": "UniX AI",
+    "country": "China",
+    "flagship_model": "Panther / Wanda / Martian",
+    "official_url": "https://www.unixai.net/",
+    "availability": "Sales inquiry",
+    "form_factor": "Wheeled / bipedal",
+    "focus": "Home & commercial service",
+    "evidence_notes": "Official site labels Wanda/Panther wheeled dual-arm humanoids and Martian general-purpose biped, with sales contact and Suzhou address.",
+    "source_urls": [
+      "https://www.unixai.net/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 63
+  },
+  {
+    "company": "Humanoid Robot (Shanghai) / OpenLoong",
+    "country": "China",
+    "flagship_model": "Qinglong",
+    "official_url": "https://www.openloong.net/",
+    "availability": "Open-source research platform",
+    "form_factor": "Bipedal",
+    "focus": "Research & development",
+    "evidence_notes": "Official company site describes Qinglong full-size general-purpose humanoid. Official OpenLoong community states operator is Humanoid Robot (Shanghai) Co., Ltd.; count project/operator once.",
+    "source_urls": [
+      "https://www.openloong.net/",
+      "https://www.openloong.org.cn/en/projects/openloong"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 64
+  },
+  {
+    "company": "LG Electronics",
+    "country": "South Korea",
+    "flagship_model": "CLOiD",
+    "official_url": "https://www.lgcorp.com/media/release/29751",
+    "availability": "Development showcase",
+    "form_factor": "Wheeled",
+    "focus": "Home",
+    "evidence_notes": "Official January 2026 release describes CLOiD head, torso, two articulated arms and wheeled base. No retail availability inferred from CES demonstration.",
+    "source_urls": [
+      "https://www.lgcorp.com/media/release/29751"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 65
+  },
+  {
+    "company": "KEENON Robotics",
+    "country": "China",
+    "flagship_model": "XMAN-R1",
+    "official_url": "https://www.keenon.com/en/product/XMAN-R1",
+    "availability": "Sales inquiry",
+    "form_factor": "Humanoid platform",
+    "focus": "Commercial service",
+    "evidence_notes": "Official catalog places XMAN-R1, F1 and L1 under Humanoid Robot. September 1 2026 official news describes XMAN service demonstrations; no immediate stock claim.",
+    "source_urls": [
+      "https://www.keenon.com/en/product/XMAN-R1",
+      "https://www.keenon.com/en/news/keenon-robotics-showcases-kom-3-at-the-2026-world-robot-conference-enabling-robots-to-think-before-they-act"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 66
+  },
+  {
+    "company": "OneRobotics / SwitchBot / onero",
+    "country": "China",
+    "flagship_model": "onero H1",
+    "official_url": "https://www.onerobot.com/solution",
+    "availability": "Business inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Home",
+    "evidence_notes": "Official parent site identifies onero H1 as humanoid chore robot with self-developed dual seven-DoF arms and mobile chassis; SwitchBot and onero counted within OneRobotics group.",
+    "source_urls": [
+      "https://www.onerobot.com/solution"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 67
+  },
+  {
+    "company": "DexForce",
+    "country": "China",
+    "flagship_model": "W1 Pro",
+    "official_url": "https://en.dexforce.com/",
+    "availability": "Business inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Commercial & research",
+    "evidence_notes": "Official site identifies W1 Pro humanoid with arms, dexterous hands and 40-DoF mobility; Chinese site specifies omnidirectional chassis. Official manuals available.",
+    "source_urls": [
+      "https://en.dexforce.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 68
+  },
+  {
+    "company": "KNOWIN",
+    "country": "China",
+    "flagship_model": "KNOWIN-X1",
+    "official_url": "https://www.knowinai.com/en/product.html",
+    "availability": "Product showcase / inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Home",
+    "evidence_notes": "Official manufacturer page identifies X1 foldable dual-arm embodied robot with wheeled base and in-house seven-DoF arms; homepage identifies Shenzhen Knowin Intelligence legal entity.",
+    "source_urls": [
+      "https://www.knowinai.com/en/product.html"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 69
+  },
+  {
+    "company": "Flexiv",
+    "country": "United States / China",
+    "flagship_model": "MICO",
+    "official_url": "https://flexiv.com/news/Flexiv%20to%20Unveil%20Next-Generation%20Adaptive%20Robots%20at%20Automate%202026",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Upper-body humanoid",
+    "focus": "Industrial & embodied AI",
+    "evidence_notes": "Official June 15 2026 launch explicitly calls MICO humanoid-style modular dual-arm robotic system; classify as torso/manipulation platform, not walking humanoid.",
+    "source_urls": [
+      "https://flexiv.com/news/Flexiv%20to%20Unveil%20Next-Generation%20Adaptive%20Robots%20at%20Automate%202026"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 70
+  },
+  {
+    "company": "Topstar",
+    "country": "China",
+    "flagship_model": "Xiaotuo",
+    "official_url": "https://www.topstarmachine.com/about-us/",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Humanoid platform",
+    "focus": "Industrial",
+    "evidence_notes": "Official company history says it launched Xiaotuo intelligent humanoid in 2025 for injection-molding applications. Does not imply retail stock or autonomous general capability.",
+    "source_urls": [
+      "https://www.topstarmachine.com/about-us/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 71
+  },
+  {
+    "company": "Westlake Robotics",
+    "country": "China",
+    "flagship_model": "TITAN O1",
+    "official_url": "https://wlrobo.com/module2",
+    "availability": "Product showcase / inquiry",
+    "form_factor": "Humanoid platform",
+    "focus": "Research & teleoperation",
+    "evidence_notes": "Official company product page identifies TITAN O1 embodied intelligence hardware platform integrated with GAE motion model. Commercial spinout, not university listing.",
+    "source_urls": [
+      "https://wlrobo.com/module2"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 72
+  },
+  {
+    "company": "Digit Robotics (Digital Huaxia)",
+    "country": "China",
+    "flagship_model": "Xialan R03",
+    "official_url": "https://www.digit.com.cn/",
+    "availability": "Sales / customization inquiry",
+    "form_factor": "Humanoid platform",
+    "focus": "Social & commercial service",
+    "evidence_notes": "Official site identifies self-branded Xialan R03 biomimetic humanoid and customized human interaction robots. Distinct company from Agility Robotics and its Digit model.",
+    "source_urls": [
+      "https://www.digit.com.cn/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 73
+  },
+  {
+    "company": "Zhejiang Humanoid Robot Innovation Center",
+    "country": "China",
+    "flagship_model": "NAVIAI i3 / WA2",
+    "official_url": "https://www.zj-humanoid.com/",
+    "availability": "Business inquiry",
+    "form_factor": "Humanoid platform",
+    "focus": "Industrial & research",
+    "evidence_notes": "Official company site names NAVIAI WA2, WA1 and i3, and legal title Zhejiang Humanoid Robot Innovation Center Co., Ltd.; distinct from Beijing X-Humanoid and Shanghai OpenLoong.",
+    "source_urls": [
+      "https://www.zj-humanoid.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 74
+  },
+  {
+    "company": "T-Robotics",
+    "country": "South Korea",
+    "flagship_model": "TR-WORKS",
+    "official_url": "https://www.t-robotics.net/products/list.php?category=works",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Wheeled",
+    "focus": "Industrial",
+    "evidence_notes": "Official manufacturer page explicitly calls TR-WORKS industrial humanoid platform with dual seven-DoF arms, body/leg joints and AMR base for semiconductor/display logistics.",
+    "source_urls": [
+      "https://www.t-robotics.net/products/list.php?category=works"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 75
+  },
+  {
+    "company": "WIRobotics",
+    "country": "South Korea",
+    "flagship_model": "ALLEX",
+    "official_url": "https://corp.wirobotics.com/en/product/allex",
+    "availability": "Development showcase",
+    "form_factor": "Stationary upper-body",
+    "focus": "General purpose",
+    "evidence_notes": "Official specifications explicitly say currently without lower body.",
+    "source_urls": [
+      "https://corp.wirobotics.com/en/product/allex"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 76
+  },
+  {
+    "company": "Foundation Future Industries",
+    "country": "United States",
+    "flagship_model": "Phantom",
+    "official_url": "https://foundation.bot/",
+    "availability": "Enterprise inquiry",
+    "form_factor": "Bipedal",
+    "focus": "Industrial",
+    "evidence_notes": "Official site names Phantom and shows dated walking and handling demonstrations; no retail availability assumed.",
+    "source_urls": [
+      "https://foundation.bot/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 77
+  },
+  {
+    "company": "Clone Robotics",
+    "country": "United States / Poland engineering",
+    "flagship_model": "Clone Alpha",
+    "official_url": "https://www.clonerobotics.com/pre-order/",
+    "availability": "Development / reservation interest",
+    "form_factor": "Bipedal android prototype",
+    "focus": "Home",
+    "evidence_notes": "Official Alpha page describes limited musculoskeletal android. Terms explicitly say development phase and sales not facilitated; old preorder language is not current stock.",
+    "source_urls": [
+      "https://www.clonerobotics.com/pre-order/",
+      "https://clonerobotics.com/assets/pdf/CloneRobotics__TermsOfUse.pdf"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 78
+  },
+  {
+    "company": "Furhat Robotics",
+    "country": "Sweden",
+    "flagship_model": "Furhat",
+    "official_url": "https://www.furhatrobotics.com/furhat-robot",
+    "availability": "Package / sales inquiry",
+    "form_factor": "Tabletop humanoid head",
+    "focus": "Social interaction",
+    "evidence_notes": "Official robot platform describes human anatomy, projected face and neck actuation. This is a social head, not a walking full-body humanoid.",
+    "source_urls": [
+      "https://www.furhatrobotics.com/furhat-robot"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 79
+  },
+  {
+    "company": "Kondo Kagaku",
+    "country": "Japan",
+    "flagship_model": "KHR-3HV",
+    "official_url": "https://kondo-robot.com/faq/khr-3hv_downloadset_v7",
+    "availability": "Kit documentation / regional inquiry",
+    "form_factor": "Small bipedal kit",
+    "focus": "Education & competition",
+    "evidence_notes": "Official KHR-3HV assembly and control software download set updated August 2026 confirms kit platform; current stock not established.",
+    "source_urls": [
+      "https://kondo-robot.com/faq/khr-3hv_downloadset_v7"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 80
+  },
+  {
+    "company": "Vstone",
+    "country": "Japan",
+    "flagship_model": "Sota",
+    "official_url": "https://www.vstone.co.jp/products/sota/",
+    "availability": "Manufacturer sales inquiry",
+    "form_factor": "Tabletop humanoid",
+    "focus": "Social & education",
+    "evidence_notes": "Official product page describes tabletop communication robot and Vstone-supplied developer and presentation versions.",
+    "source_urls": [
+      "https://www.vstone.co.jp/products/sota/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 81
+  },
+  {
+    "company": "Hiwonder",
+    "country": "China",
+    "flagship_model": "TonyPi",
+    "official_url": "https://www.hiwonder.com/products/tonypi",
+    "availability": "Manufacturer store",
+    "form_factor": "Small bipedal kit",
+    "focus": "Education",
+    "evidence_notes": "Official store and manufacturer GitHub describe Raspberry Pi based humanoid developed by Hiwonder.",
+    "source_urls": [
+      "https://www.hiwonder.com/products/tonypi",
+      "https://github.com/Hiwonder/TonyPi"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 82
+  },
+  {
+    "company": "Elephant Robotics",
+    "country": "China",
+    "flagship_model": "Mercury X1",
+    "official_url": "https://www.elephantrobotics.com/en/mercury-x1-en/",
+    "availability": "Manufacturer store / inquiry",
+    "form_factor": "Wheeled humanoid",
+    "focus": "Research & education",
+    "evidence_notes": "Official Mercury X1 page identifies wheeled humanoid, 19 DoF and dual-arm architecture. Not bipedal.",
+    "source_urls": [
+      "https://www.elephantrobotics.com/en/mercury-x1-en/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 83
+  },
+  {
+    "company": "Kawasaki Heavy Industries",
+    "country": "Japan",
+    "flagship_model": "Kaleido",
+    "official_url": "https://global.kawasaki.com/en/corp/profile/division/robot/history.html",
+    "availability": "Research showcase",
+    "form_factor": "Bipedal",
+    "focus": "Research & disaster response",
+    "evidence_notes": "Official robot division history identifies debut and subsequent development of Kaleido; no public purchasing terms established.",
+    "source_urls": [
+      "https://global.kawasaki.com/en/corp/profile/division/robot/history.html"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 84
+  },
+  {
+    "company": "Diligent Robotics",
+    "country": "United States",
+    "flagship_model": "Moxi 2.0",
+    "official_url": "https://www.diligentrobots.com/blog",
+    "availability": "Robotics as a service",
+    "form_factor": "Wheeled humanoid-style manipulator",
+    "focus": "Healthcare logistics",
+    "evidence_notes": "Official August 2026 news announces Moxi 2.0 rollout. FAQ offers robot as a service; wheeled single-arm assistant, not full biped.",
+    "source_urls": [
+      "https://www.diligentrobots.com/blog",
+      "https://www.diligentrobots.com/faq"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 85
+  },
+  {
+    "company": "Aeolus Robotics",
+    "country": "United States / Taiwan manufacturing",
+    "flagship_model": "aeo",
+    "official_url": "https://www.aeolusbot.com/",
+    "availability": "Business inquiry",
+    "form_factor": "Wheeled dual-arm humanoid",
+    "focus": "Care & service",
+    "evidence_notes": "Official site names aeo and care, delivery, disinfection and security variants. Do not assume retail stock.",
+    "source_urls": [
+      "https://www.aeolusbot.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 86
+  },
+  {
+    "company": "Addverb",
+    "country": "India",
+    "flagship_model": "Elixis / Elixis-W",
+    "official_url": "https://addverb.com/us/press-release/10-years-of-addverb-us-expansion-humanoid-robotics/",
+    "availability": "Industrial inquiry / development",
+    "form_factor": "Bipedal / wheeled",
+    "focus": "Industrial",
+    "evidence_notes": "Official company announcement distinguishes unveiled Elixis-W from walking Elixis launch planned later in 2026; schedule is a claim, not verified delivery.",
+    "source_urls": [
+      "https://addverb.com/us/press-release/10-years-of-addverb-us-expansion-humanoid-robotics/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 87
+  },
+  {
+    "company": "ASIMOV Robotics",
+    "country": "India",
+    "flagship_model": "Sayabot",
+    "official_url": "https://asimovrobotics.com/products.php?id=33",
+    "availability": "Customization inquiry",
+    "form_factor": "Wheeled humanoid",
+    "focus": "Hospitality & service",
+    "evidence_notes": "Official product page names Sayabot and describes human-like form, customized sectors and interaction features.",
+    "source_urls": [
+      "https://asimovrobotics.com/products.php?id=33"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 88
+  },
+  {
+    "company": "Invento Robotics / Mitra Robot",
+    "country": "India / United States",
+    "flagship_model": "Mitra",
+    "official_url": "https://www.mitraai.com/",
+    "availability": "Event rental inquiry",
+    "form_factor": "Wheeled humanoid",
+    "focus": "Customer engagement",
+    "evidence_notes": "Official Mitra site offers robot rentals and describes perception, navigation and interactive event use; brand consolidated as one maker.",
+    "source_urls": [
+      "https://www.mitraai.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 89
+  },
+  {
+    "company": "Robosen",
+    "country": "China",
+    "flagship_model": "K1 / K1 Pro",
+    "official_url": "https://robosen.com/us/k1-pro-interstellar-scout",
+    "availability": "Manufacturer purchase link",
+    "form_factor": "Small bipedal",
+    "focus": "Education & entertainment",
+    "evidence_notes": "Official page explicitly calls K1 a programmable free-walking bipedal humanoid robot; purchase link does not prove regional stock.",
+    "source_urls": [
+      "https://robosen.com/us/k1-pro-interstellar-scout"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 90
+  },
+  {
+    "company": "Roborn",
+    "country": "Hong Kong",
+    "flagship_model": "ME Series",
+    "official_url": "https://www.roborn.com/?page_id=961",
+    "availability": "Project / business inquiry",
+    "form_factor": "Teleoperated humanoid",
+    "focus": "Remote inspection & telepresence",
+    "evidence_notes": "Official manufacturer page describes 1:1 humanoid ME designed by Roborn and controlled via human motion with head camera. No retail price or delivery availability established.",
+    "source_urls": [
+      "https://www.roborn.com/?page_id=961",
+      "https://www.roborn.com/?page_id=1609"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 91
+  },
+  {
+    "company": "Kokoro",
+    "country": "Japan",
+    "flagship_model": "Actroid",
+    "official_url": "https://kokoro-dreams.co.jp/rt_tokutyu/actroid/",
+    "availability": "Custom manufacture / rental inquiry",
+    "form_factor": "Stationary android",
+    "focus": "Social & entertainment",
+    "evidence_notes": "Official page describes human-form robot and invites custom orders; official movie catalog labels DER variants rental-only.",
+    "source_urls": [
+      "https://kokoro-dreams.co.jp/rt_tokutyu/actroid/",
+      "https://kokoro-dreams.co.jp/movie/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 92
+  },
+  {
+    "company": "tmsuk",
+    "country": "Japan",
+    "flagship_model": "Pedia_Roid",
+    "official_url": "https://www.tmsuk.co.jp/en/",
+    "availability": "Institutional inquiry",
+    "form_factor": "Full-body medical training android",
+    "focus": "Medical simulation",
+    "evidence_notes": "Official manufacturer homepage calls Pedia_Roid humanoid for ER training and lists September 2026 nursing training project. It is a patient simulator, not a general-purpose worker.",
+    "source_urls": [
+      "https://www.tmsuk.co.jp/en/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 93
+  },
+  {
+    "company": "Generative Bionics",
+    "country": "Italy",
+    "flagship_model": "GENE.01",
+    "official_url": "https://gbionics.ai/gene01/",
+    "availability": "Development platform",
+    "form_factor": "Bipedal",
+    "focus": "Physical AI & industry",
+    "evidence_notes": "Official platform page defines GENE.01 as design and technical direction with public URDF. Not a retail SKU or confirmed purchasable unit.",
+    "source_urls": [
+      "https://gbionics.ai/gene01/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 94
+  },
+  {
+    "company": "VinMotion",
+    "country": "Vietnam",
+    "flagship_model": "Motion 1",
+    "official_url": "https://vinmotion.net/",
+    "availability": "Development showcase",
+    "form_factor": "Bipedal",
+    "focus": "General purpose",
+    "evidence_notes": "Official homepage introduces Motion 1 humanoid and lists Hanoi headquarters. No purchase or stock claim inferred.",
+    "source_urls": [
+      "https://vinmotion.net/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 95
+  },
+  {
+    "company": "Enchanted Tools",
+    "country": "France",
+    "flagship_model": "Mirokaï",
+    "official_url": "https://enchanted.tools/",
+    "availability": "Commercial deployment inquiry",
+    "form_factor": "Ball-balancing humanoid character",
+    "focus": "Care & hospitality",
+    "evidence_notes": "Official page says first commercial deployments open. Character has humanoid upper body and rolling ball mobility, not legs.",
+    "source_urls": [
+      "https://enchanted.tools/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 96
+  },
+  {
+    "company": "Richtech Robotics",
+    "country": "United States",
+    "flagship_model": "ADAM",
+    "official_url": "https://www.richtechrobotics.com/adam",
+    "availability": "Sales demo / rental",
+    "form_factor": "Stationary upper-body",
+    "focus": "Beverage service",
+    "evidence_notes": "Official product page describes two-arm interactive bartender and offers demos and rental; humanoid-style upper-body system, not walking humanoid.",
+    "source_urls": [
+      "https://www.richtechrobotics.com/adam"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 97
+  },
+  {
+    "company": "Macco Robotics",
+    "country": "Spain",
+    "flagship_model": "Kime V5",
+    "official_url": "https://www.maccorobotics.com/",
+    "availability": "Demo / financing inquiry",
+    "form_factor": "Stationary upper-body",
+    "focus": "Hospitality",
+    "evidence_notes": "Official manufacturer site names Kime V5 and describes humanoid beverage service, custom production and Spain manufacturing. No stock inferred.",
+    "source_urls": [
+      "https://www.maccorobotics.com/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 98
+  },
+  {
+    "company": "isento / pib",
+    "country": "Germany",
+    "flagship_model": "pib#5",
+    "official_url": "https://pib.rocks/build/",
+    "availability": "Open-source DIY / box kits",
+    "form_factor": "Stationary upper-body DIY humanoid",
+    "focus": "Education & research",
+    "evidence_notes": "Official build page identifies 2026 pib#5 and Edubox/Makerbox guides. Official release credits development to isento GmbH; count as one maker/project.",
+    "source_urls": [
+      "https://pib.rocks/build/",
+      "https://pib.rocks/wp-content/uploads/2025/07/2025-11-11_new-version-pib-open-source-robot_EN.pdf"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 99
+  },
+  {
+    "company": "igus",
+    "country": "Germany",
+    "flagship_model": "Iggy Rob",
+    "official_url": "https://press.igus.com/2025/04/29/iggy-rob-humanoid/",
+    "availability": "Trial / sales inquiry",
+    "form_factor": "Wheeled humanoid",
+    "focus": "Industrial & service",
+    "evidence_notes": "Official manufacturer announcement identifies humanoid on ReBeL Move AMR with two ReBeL arms and hands. Explicitly wheeled, not bipedal.",
+    "source_urls": [
+      "https://press.igus.com/2025/04/29/iggy-rob-humanoid/"
+    ],
+    "checked_date": "2026-10-25",
+    "price": null,
+    "id": 100
   }
 ]
