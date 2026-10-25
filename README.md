@@ -40,5 +40,9 @@ Manufacturer photos and trademarks belong to their respective owners. Source URL
 
 Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 49 components, 15 kits and development platforms. New sources reviewed 2026-10-25.
 
-Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words, with two original SVG editorial illustrations per article. Rebuild with node scripts/build-blog.cjs from content/blog-posts.json. Illustration provenance is recorded in dist/assets/journal/manifest.json.
+Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words, with two original AI-generated photographic editorial illustrations per article. Rebuild with node scripts/build-blog.cjs from content/blog-posts.json. Illustration provenance is recorded in dist/assets/journal/premium-manifest.json.
+
+
+
+Premium imagery: 30 unique built-in imagegen assets, 1672 x 941 source resolution, optimized WebP delivery. Captions distinguish fictional concept scenes from manufacturer photography. Images within stories support click / keyboard enlargement.
 

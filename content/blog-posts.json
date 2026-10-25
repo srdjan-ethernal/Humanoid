@@ -5,8 +5,8 @@
     "category": "Buying guides",
     "title": "Your first humanoid starts with a better question.",
     "excerpt": "Before you compare robots, define the job. A practical guide to moving from a compelling demo to the right platform.",
-    "image": "assets/journal/choosing-your-first-humanoid-robot-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/choosing-your-first-humanoid-robot-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Buy a platform for a defined workflow, not a collection of impressive demonstrations.",
     "intro": "The first question in a humanoid purchase should be surprisingly ordinary: what needs to happen, where, and how often? A robot can look remarkably capable on video while being a poor match for the task you actually need to solve. A clear operating brief makes the entire evaluation more useful.",
     "sections": [
@@ -58,11 +58,11 @@
         "https://docs.pollen-robotics.com/"
       ]
     ],
-    "imageAlt": "Three linked panels connect input object, workflow and finished result, with lighting, surfaces, exceptions and frequency below.",
-    "imageCaption": "Write down the task boundary and operating conditions before reviewing robots.",
-    "inlineImage": "assets/journal/choosing-your-first-humanoid-robot-02.svg",
-    "inlineAlt": "A three-step staircase rises from documentation through representative trial to configuration review.",
-    "inlineCaption": "Each step should answer a specific question before the next commitment."
+    "imageAlt": "A humanoid transfers a tray during an observed laboratory trial.",
+    "imageCaption": "AI-generated editorial concept. A humanoid transfers a tray during an observed laboratory trial.",
+    "inlineImage": "assets/journal/choosing-your-first-humanoid-robot-02-premium.webp",
+    "inlineAlt": "An articulated robot hand evaluates differently shaped test objects.",
+    "inlineCaption": "AI-generated editorial concept. An articulated robot hand evaluates differently shaped test objects."
   },
   {
     "slug": "robot-price-vs-total-project-cost",
@@ -70,8 +70,8 @@
     "category": "Buying guides",
     "title": "The robot price is only the beginning.",
     "excerpt": "Build a useful project budget by looking beyond the number on the product page.",
-    "image": "assets/journal/robot-price-vs-total-project-cost-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/robot-price-vs-total-project-cost-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Compare complete project scopes in the seller’s original currency before comparing headline prices.",
     "intro": "A published robot price is a starting point, not a complete project budget. It may describe a base configuration, exclude shipping, or omit the software access your team needs. A better budget follows the robot from the manufacturer’s listing to a working, supported application in your environment.",
     "sections": [
@@ -123,11 +123,11 @@
         "https://www.1x.tech/order"
       ]
     ],
-    "imageAlt": "Three equal-width budget bands show acquisition, integration and operation without implying numeric cost proportions.",
-    "imageCaption": "Keep acquisition, integration and operating scope visible as separate budget lines.",
-    "inlineImage": "assets/journal/robot-price-vs-total-project-cost-02.svg",
-    "inlineAlt": "An illustrative quote comparison table distinguishes included, optional and unconfirmed scope for two anonymous offers.",
-    "inlineCaption": "A missing line item is a supplier question, not a zero-cost assumption."
+    "imageAlt": "A robot delivery surrounded by the hardware needed for integration.",
+    "imageCaption": "AI-generated editorial concept. A robot delivery surrounded by the hardware needed for integration.",
+    "inlineImage": "assets/journal/robot-price-vs-total-project-cost-02-premium.webp",
+    "inlineAlt": "Integration hardware and service components beside a humanoid platform.",
+    "inlineCaption": "AI-generated editorial concept. Integration hardware and service components beside a humanoid platform."
   },
   {
     "slug": "how-to-read-a-humanoid-robot-spec-sheet",
@@ -135,7 +135,7 @@
     "category": "Hardware explained",
     "title": "Read the spec sheet. Then read between the numbers.",
     "excerpt": "Payload, runtime, degrees of freedom: what the headline figures leave unanswered.",
-    "image": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-01.svg",
+    "image": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-01-premium.webp",
     "takeaway": "A specification becomes useful when you know its configuration, test conditions, and relevance to your task.",
     "intro": "Specifications compress a complex machine into a few numbers. That is useful for discovery, but it can hide the conditions behind the measurement. The goal is not to collect the highest values. It is to understand which figures describe the operating conditions you actually expect.",
     "sections": [
@@ -187,12 +187,12 @@
         "https://pal-robotics.com/datasheet/talos/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "Two schematic arms hold identical blocks at different horizontal reaches; no numeric capacity is asserted.",
-    "imageCaption": "Payload figures need posture and measurement conditions to become useful.",
-    "inlineImage": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-02.svg",
-    "inlineAlt": "A central specification node connects to model revision, test workload, measurement method and source date.",
-    "inlineCaption": "Preserve the context beside each specification in your comparison sheet."
+    "imageClass": "premium-art",
+    "imageAlt": "A humanoid platform undergoing a laboratory assessment.",
+    "imageCaption": "AI-generated editorial concept. A humanoid platform undergoing a laboratory assessment.",
+    "inlineImage": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-02-premium.webp",
+    "inlineAlt": "A close view of an actuator and cable routing inside a robot joint.",
+    "inlineCaption": "AI-generated editorial concept. A close view of an actuator and cable routing inside a robot joint."
   },
   {
     "slug": "bipedal-wheeled-or-stationary-humanoid",
@@ -200,7 +200,7 @@
     "category": "Hardware explained",
     "title": "Two legs are one option. Start with the environment.",
     "excerpt": "Choosing between bipedal, wheeled, and stationary humanoid platforms.",
-    "image": "assets/journal/bipedal-wheeled-or-stationary-humanoid-01.svg",
+    "image": "assets/journal/bipedal-wheeled-or-stationary-humanoid-01-premium.webp",
     "takeaway": "Choose mobility around the route and the work, rather than treating a human-like silhouette as the requirement.",
     "intro": "The word humanoid covers more than walking robots. A platform can have a human-like upper body on wheels, a stationary base, or a bipedal lower body. Those choices change the integration problem. The right starting point is the environment in which useful work must happen.",
     "sections": [
@@ -252,12 +252,12 @@
         "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "Three stylized humanoid upper bodies are paired with legs, a wheeled base and a workstation pedestal.",
-    "imageCaption": "Evaluate mobility as a system choice tied to routes and workstations.",
-    "inlineImage": "assets/journal/bipedal-wheeled-or-stationary-humanoid-02.svg",
-    "inlineAlt": "A simple floor plan marks a dashed route between workstation and charging, with a doorway, turning space and floor transition.",
-    "inlineCaption": "Include charging, passage widths and recovery access in the route survey."
+    "imageClass": "premium-art",
+    "imageAlt": "Bipedal, wheeled and stationary humanoid concepts in a research hall.",
+    "imageCaption": "AI-generated editorial concept. Bipedal, wheeled and stationary humanoid concepts in a research hall.",
+    "inlineImage": "assets/journal/bipedal-wheeled-or-stationary-humanoid-02-premium.webp",
+    "inlineAlt": "A robot foot at a threshold illustrates the importance of ground conditions.",
+    "inlineCaption": "AI-generated editorial concept. A robot foot at a threshold illustrates the importance of ground conditions."
   },
   {
     "slug": "development-kit-or-complete-research-platform",
@@ -265,8 +265,8 @@
     "category": "Development",
     "title": "Build a kit, or start with a platform?",
     "excerpt": "Find the right balance between hands-on learning and time spent on your actual research.",
-    "image": "assets/journal/development-kit-or-complete-research-platform-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/development-kit-or-complete-research-platform-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Choose how much of the hardware problem you want to own before choosing the hardware itself.",
     "intro": "A robot kit and an assembled research platform can both be excellent starting points. They simply place the learning effort in different places. A kit may make the mechanism and assembly process central to the project. A platform may help a team reach its software or interaction experiments sooner.",
     "sections": [
@@ -318,11 +318,11 @@
         "https://docs.pollen-robotics.com/"
       ]
     ],
-    "imageAlt": "Separated actuator-like modules in a kit panel contrast with an assembled schematic robot in a research-platform panel.",
-    "imageCaption": "Both paths need setup; the learning effort sits in different places.",
-    "inlineImage": "assets/journal/development-kit-or-complete-research-platform-02.svg",
-    "inlineAlt": "Four milestone cards progress through assembly, configuration, example execution and a single controlled change.",
-    "inlineCaption": "Plan a first result that demonstrates the complete setup, then preserve it."
+    "imageAlt": "A compact robot kit is assembled beside a complete research platform.",
+    "imageCaption": "AI-generated editorial concept. A compact robot kit is assembled beside a complete research platform.",
+    "inlineImage": "assets/journal/development-kit-or-complete-research-platform-02-premium.webp",
+    "inlineAlt": "A humanoid kit and its components during assembly.",
+    "inlineCaption": "AI-generated editorial concept. A humanoid kit and its components during assembly."
   },
   {
     "slug": "choosing-actuators-for-a-robot-project",
@@ -330,8 +330,8 @@
     "category": "Components",
     "title": "The actuator is a system decision.",
     "excerpt": "Torque matters. So do the interface, operating conditions, mechanical fit, and documentation.",
-    "image": "assets/journal/choosing-actuators-for-a-robot-project-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/choosing-actuators-for-a-robot-project-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Select the actuator together with the mechanism, power system, control interface, and intended duty cycle.",
     "intro": "An actuator rarely succeeds or fails in isolation. It operates inside a mechanism, draws power from a supply, communicates with a controller, and experiences a particular load over time. A component decision becomes stronger when those dependencies are evaluated together rather than after a purchase.",
     "sections": [
@@ -379,11 +379,11 @@
         "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/"
       ]
     ],
-    "imageAlt": "An actuator shaft is linked to power, control, mechanism and load requirements.",
-    "imageCaption": "Select the actuator with its electrical, software and mechanical dependencies.",
-    "inlineImage": "assets/journal/choosing-actuators-for-a-robot-project-02.svg",
-    "inlineAlt": "An unscaled step plot shows conceptual acceleration, holding, rest and movement phases over time.",
-    "inlineCaption": "A duty-cycle description reveals demands that a peak value alone cannot describe."
+    "imageAlt": "An exquisite compact humanoid rotary joint actuator on a charcoal studio workbench, shown three-quarter view with machined aluminium housing, copper motor windings and precision harmonic gearing partially visible through a deliberately removed side cover.",
+    "imageCaption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+    "inlineImage": "assets/journal/choosing-actuators-for-a-robot-project-02-premium.webp",
+    "inlineAlt": "Close-up of a robotics engineer's hands aligning a precision motor module into the open elbow of an ivory humanoid arm on a clean laboratory workbench.",
+    "inlineCaption": "AI-generated editorial concept visualization; fictional unbranded hardware."
   },
   {
     "slug": "dexterous-hands-versus-simple-grippers",
@@ -391,7 +391,7 @@
     "category": "Components",
     "title": "More fingers, or a better fit for the task?",
     "excerpt": "A useful way to evaluate dexterous hands without losing sight of the objects you need to handle.",
-    "image": "assets/journal/dexterous-hands-versus-simple-grippers-01.svg",
+    "image": "assets/journal/dexterous-hands-versus-simple-grippers-01-premium.webp",
     "visual": "HAND / OBJECT / CONTACT",
     "takeaway": "Evaluate the grasping task first. Hand complexity should serve the object set and research objective.",
     "intro": "A dexterous hand can be a compelling part of a humanoid platform. But the decision starts with the objects and interactions, not the number of fingers. A project that studies human-like manipulation has different needs from one that repeatedly transfers a standard container between two fixtures.",
@@ -444,12 +444,12 @@
         "https://shop.unitree.com/collections/humanoid-robot"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "A parallel-jaw gripper around a block is shown beside a stylized hand holding a sphere.",
-    "imageCaption": "Use the object and required action to decide how much hand complexity is useful.",
-    "inlineImage": "assets/journal/dexterous-hands-versus-simple-grippers-02.svg",
-    "inlineAlt": "Four panels illustrate shape, surface texture, starting pose and fragility with distinct test objects.",
-    "inlineCaption": "Include difficult examples and changed starting poses in repeatability trials."
+    "imageClass": "premium-art",
+    "imageAlt": "A custom five-finger humanoid robotic hand gently holding an orange with textured peel, black articulated fingertips and brushed titanium finger links, coherent five digit anatomy with opposable thumb, suspended above a dark robotics lab table.",
+    "imageCaption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+    "inlineImage": "assets/journal/dexterous-hands-versus-simple-grippers-02-premium.webp",
+    "inlineAlt": "Two-finger parallel industrial gripper precisely lifting a machined aluminium cube from a tidy workbench, robotic wrist entering from right, nearby unattended yellow foam ball and small ceramic cup illustrate different physical objects without any graphics.",
+    "inlineCaption": "AI-generated editorial concept visualization; fictional unbranded hardware."
   },
   {
     "slug": "robot-software-access-before-you-buy",
@@ -457,8 +457,8 @@
     "category": "Development",
     "title": "Ask about software access before the robot arrives.",
     "excerpt": "The difference between a demonstration mode, an SDK, and the development permissions your project needs.",
-    "image": "assets/journal/robot-software-access-before-you-buy-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/robot-software-access-before-you-buy-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Treat software access as part of the purchased configuration, not an assumption attached to the model name.",
     "intro": "A robot can be programmable in one sense and restricted in another. A supported high-level application interface may be enough for one team, while another requires access to sensors, joint commands, or a simulation model. “Has an SDK” is the beginning of an evaluation, not the conclusion.",
     "sections": [
@@ -510,11 +510,11 @@
         "https://docs.pollen-robotics.com/"
       ]
     ],
-    "imageAlt": "Four software and hardware layers descend from task application to SDK, low-level interfaces and exact hardware edition.",
-    "imageCaption": "Ask which layers your purchased edition exposes and under what terms.",
-    "inlineImage": "assets/journal/robot-software-access-before-you-buy-02.svg",
-    "inlineAlt": "A baseline-change-validation sequence includes a dashed recovery path returning to the saved baseline.",
-    "inlineCaption": "Preserve versions, settings and recovery instructions alongside API examples."
+    "imageAlt": "An engineer at a refined robotics laboratory workstation beside a full-size unbranded ivory humanoid robot, viewed over the shoulder, monitor displays only abstract blurred colored software windows with no readable text, engineer connecting a cable to the robot's waist service port.",
+    "imageCaption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+    "inlineImage": "assets/journal/robot-software-access-before-you-buy-02-premium.webp",
+    "inlineAlt": "Extreme macro of an open humanoid torso service compartment with neatly organized circuit boards, shielded Ethernet connectors, secured cable looms and a small edge computing module, technician's hand holding an unplugged connector just outside port.",
+    "inlineCaption": "AI-generated editorial concept visualization; fictional unbranded hardware."
   },
   {
     "slug": "simulation-before-physical-testing",
@@ -522,7 +522,7 @@
     "category": "Development",
     "title": "Start in simulation. Keep asking what it leaves out.",
     "excerpt": "Use simulated experiments to reduce friction without confusing them with physical validation.",
-    "image": "assets/journal/simulation-before-physical-testing-01.svg",
+    "image": "assets/journal/simulation-before-physical-testing-01-premium.webp",
     "visual": "MODEL → SIMULATE → MEASURE",
     "takeaway": "Simulation is a repeatable experimental environment. Physical behavior still needs its own evidence.",
     "intro": "Simulation is useful because you can inspect assumptions, repeat experiments, and change a setup without rebuilding a physical scene each time. Its limits are equally important. A successful simulated result says something about the model and controller together; it does not establish that every detail transfers to hardware.",
@@ -571,12 +571,12 @@
         "https://docs.pollen-robotics.com/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "Side-by-side schematic robots represent a simulated model and physical system connected by prediction and measurement arrows.",
-    "imageCaption": "Plan the hardware comparison before treating a simulation result as evidence.",
-    "inlineImage": "assets/journal/simulation-before-physical-testing-02.svg",
-    "inlineAlt": "Four unscaled parameter ranges for contact, mass, friction and latency encourage sensitivity testing.",
-    "inlineCaption": "Track estimated model parameters and test plausible variation."
+    "imageClass": "premium-art",
+    "imageAlt": "A life-size ivory humanoid in a robotics motion capture laboratory facing a large projection of a softly rendered virtual version of the same robot and sparse virtual warehouse, projection has no interface text or grids.",
+    "imageCaption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+    "inlineImage": "assets/journal/simulation-before-physical-testing-02-premium.webp",
+    "inlineAlt": "A graphite humanoid robot foot making contact with a real textured rubber laboratory floor, low macro viewpoint, visible compliant sole compression and precise ankle mechanics, another foot softly out of focus behind, tiny dust particles and realistic contact shadows.",
+    "inlineCaption": "AI-generated editorial concept visualization; fictional unbranded hardware."
   },
   {
     "slug": "teleoperation-and-autonomy",
@@ -584,7 +584,7 @@
     "category": "Industry perspective",
     "title": "Autonomy is a workflow question.",
     "excerpt": "Why buyers should ask when people help, what they do, and how often intervention is needed.",
-    "image": "assets/journal/teleoperation-and-autonomy-01.svg",
+    "image": "assets/journal/teleoperation-and-autonomy-01-premium.webp",
     "takeaway": "Describe human involvement explicitly instead of assigning one autonomy label to an entire robot.",
     "intro": "A robot may perform one action independently, ask for help on another, and use remote control during setup. A single word such as autonomous cannot explain that whole operating model. For buyers and developers, the useful question is where people enter the workflow and what their involvement requires.",
     "sections": [
@@ -632,12 +632,12 @@
         "https://www.1x.tech/order"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "Five workflow stages show an illustrative mix of human confirmation and automatic execution, explicitly labeled as an example.",
-    "imageCaption": "Describe assistance stage by stage instead of assigning a single autonomy label.",
-    "inlineImage": "assets/journal/teleoperation-and-autonomy-02.svg",
-    "inlineAlt": "A three-row intervention ledger records work before, during and after a task, including responsibility.",
-    "inlineCaption": "Include background preparation and recovery when estimating operating effort."
+    "imageClass": "premium-art",
+    "imageAlt": "A human robotics researcher wearing a modest VR headset and two hand tracking gloves, standing in foreground of a bright elegant robotics lab while an unbranded ivory humanoid in the midground mirrors a careful reaching gesture toward a plain cylinder.",
+    "imageCaption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+    "inlineImage": "assets/journal/teleoperation-and-autonomy-02-premium.webp",
+    "inlineAlt": "Close-up of a researcher's hand in a precise sensor glove with slim tracking modules and textile seams, beside a robotic five-finger hand resting above a workbench, both performing similar gentle pinching gesture without touching.",
+    "inlineCaption": "AI-generated editorial concept visualization; fictional unbranded hardware."
   },
   {
     "slug": "planning-a-humanoid-pilot",
@@ -645,7 +645,7 @@
     "category": "Buying guides",
     "title": "A good pilot ends with a decision.",
     "excerpt": "Define a useful test before committing to a larger robot deployment.",
-    "image": "assets/journal/planning-a-humanoid-pilot-01.svg",
+    "image": "assets/journal/planning-a-humanoid-pilot-01-premium.webp",
     "takeaway": "Give the pilot an owner, a bounded workflow, and a decision rule before it begins.",
     "intro": "A pilot should help an organization decide what to do next. Without that decision in view, it can become a long demonstration that produces enthusiasm but little usable evidence. A narrow trial with agreed measurements is easier to interpret than an ambitious project that changes its goal every week.",
     "sections": [
@@ -693,12 +693,12 @@
         "https://www.agilityrobotics.com/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "A clear pilot boundary encloses one workflow, known objects, location, hours and owner; other sites and fleet rollout sit outside.",
-    "imageCaption": "Write down what the pilot includes and what it cannot yet establish.",
-    "inlineImage": "assets/journal/planning-a-humanoid-pilot-02.svg",
-    "inlineAlt": "A review node branches into continue, revise and stop, each with a distinct reason.",
-    "inlineCaption": "A useful pilot supports a decision, including a well-evidenced decision to stop."
+    "imageClass": "premium-art",
+    "imageAlt": "Humanoid robot carrying a gray tote through a controlled industrial pilot cell.",
+    "imageCaption": "AI-generated editorial concept. Humanoid robot carrying a gray tote through a controlled industrial pilot cell.",
+    "inlineImage": "assets/journal/planning-a-humanoid-pilot-02-premium.webp",
+    "inlineAlt": "A robotic hand placing a tote into a fixture while an engineer observes.",
+    "inlineCaption": "AI-generated editorial concept. A robotic hand placing a tote into a fixture while an engineer observes."
   },
   {
     "slug": "battery-runtime-and-uptime",
@@ -706,7 +706,7 @@
     "category": "Hardware explained",
     "title": "Runtime is a number. Uptime is a plan.",
     "excerpt": "Think in working cycles, charging windows, and recovery procedures.",
-    "image": "assets/journal/battery-runtime-and-uptime-01.svg",
+    "image": "assets/journal/battery-runtime-and-uptime-01-premium.webp",
     "visual": "WORK / CHARGE / REPEAT",
     "takeaway": "Plan the full operating cycle rather than treating a headline battery figure as uninterrupted productive time.",
     "intro": "Battery runtime is one part of a larger operating cycle. A robot may also need charging, setup, inspection, or assistance between tasks. Understanding those transitions makes a project plan more useful than multiplying a quoted runtime by the number of robots you intend to purchase.",
@@ -755,12 +755,12 @@
         "https://emanual.robotis.com/docs/en/platform/op3/quick_start/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "An illustrative operating cycle separates work, waiting, charging, inspection and resumed work without numeric duration claims.",
-    "imageCaption": "Log unavailable time by cause to identify useful improvements.",
-    "inlineImage": "assets/journal/battery-runtime-and-uptime-02.svg",
-    "inlineAlt": "A robot route leads to a labeled charging station with clear return and service access.",
-    "inlineCaption": "Include charging and service positions when assessing the operating layout."
+    "imageClass": "premium-art",
+    "imageAlt": "A humanoid robot connected to a charging dock in a quiet workshop.",
+    "imageCaption": "AI-generated editorial concept. A humanoid robot connected to a charging dock in a quiet workshop.",
+    "inlineImage": "assets/journal/battery-runtime-and-uptime-02-premium.webp",
+    "inlineAlt": "Gloved technician inspecting a removable battery cassette and its power connector.",
+    "inlineCaption": "AI-generated editorial concept. Gloved technician inspecting a removable battery cassette and its power connector."
   },
   {
     "slug": "building-a-useful-robot-shortlist",
@@ -768,7 +768,7 @@
     "category": "Buying guides",
     "title": "A shortlist should explain the trade-offs.",
     "excerpt": "Turn a long manufacturer directory into a small set of candidates worth evaluating.",
-    "image": "assets/journal/building-a-useful-robot-shortlist-01.svg",
+    "image": "assets/journal/building-a-useful-robot-shortlist-01-premium.webp",
     "visual": "DISCOVER / FILTER / VERIFY",
     "takeaway": "Separate mandatory requirements, useful preferences, and unresolved questions before scoring candidates.",
     "intro": "A large manufacturer directory is useful for discovery. It becomes a buying tool only when a team can explain why particular platforms remain on the shortlist. That explanation should survive beyond the person who first collected the links, especially when technical and procurement teams evaluate different parts of the decision.",
@@ -817,12 +817,12 @@
         "https://pal-robotics.com/robot/talos/"
       ]
     ],
-    "imageClass": "original-art",
-    "imageAlt": "A three-stage funnel narrows discovered candidates through requirements checks into trade-off comparison.",
-    "imageCaption": "Apply mandatory requirements before scoring optional features.",
-    "inlineImage": "assets/journal/building-a-useful-robot-shortlist-02.svg",
-    "inlineAlt": "A candidate comparison matrix uses confirmed, follow-up and unknown evidence states rather than invented numeric rankings.",
-    "inlineCaption": "Give important unknowns an owner and resolve them before the relevant commitment."
+    "imageClass": "premium-art",
+    "imageAlt": "Three distinct humanoid designs awaiting evaluation in an architectural showroom.",
+    "imageCaption": "AI-generated editorial concept. Three distinct humanoid designs awaiting evaluation in an architectural showroom.",
+    "inlineImage": "assets/journal/building-a-useful-robot-shortlist-02-premium.webp",
+    "inlineAlt": "Dexterous hands and actuator modules arranged for a configuration comparison.",
+    "inlineCaption": "AI-generated editorial concept. Dexterous hands and actuator modules arranged for a configuration comparison."
   },
   {
     "slug": "from-demonstration-to-repeatable-robot-task",
@@ -830,8 +830,8 @@
     "category": "Industry perspective",
     "title": "One impressive run is the start of the experiment.",
     "excerpt": "How to look at robot demonstrations with curiosity and useful evaluation criteria.",
-    "image": "assets/journal/from-demonstration-to-repeatable-robot-task-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/from-demonstration-to-repeatable-robot-task-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Ask what happened across repeated attempts, including setup, intervention, and recovery.",
     "intro": "A well-produced robot demonstration can reveal an interesting mechanism or behavior. It is an invitation to investigate, not a complete description of operational performance. The next step is to ask what conditions made the result possible and whether those conditions resemble the application you have in mind.",
     "sections": [
@@ -879,11 +879,11 @@
         "https://docs.pollen-robotics.com/"
       ]
     ],
-    "imageAlt": "Six explicitly illustrative attempts include completions, a miss and an assisted outcome rather than only highlights.",
-    "imageCaption": "Repeated trials reveal information that a single edited success cannot provide.",
-    "inlineImage": "assets/journal/from-demonstration-to-repeatable-robot-task-02.svg",
-    "inlineAlt": "A central visible-action frame is surrounded by before-stage setup and calibration and after-stage reset and recovery.",
-    "inlineCaption": "Ask who performs the work before and after the filmed action."
+    "imageAlt": "Humanoid robot sorting blocks in a monitored robotics test cell.",
+    "imageCaption": "AI-generated editorial concept. Humanoid robot sorting blocks in a monitored robotics test cell.",
+    "inlineImage": "assets/journal/from-demonstration-to-repeatable-robot-task-02-premium.webp",
+    "inlineAlt": "Articulated robotic fingertips releasing a block into a precision fixture.",
+    "inlineCaption": "AI-generated editorial concept. Articulated robotic fingertips releasing a block into a precision fixture."
   },
   {
     "slug": "what-belongs-in-a-humanoid-marketplace",
@@ -891,8 +891,8 @@
     "category": "Industry perspective",
     "title": "A better robotics marketplace starts with clearer information.",
     "excerpt": "Robots, components, kits, and the context that makes them useful to compare.",
-    "image": "assets/journal/what-belongs-in-a-humanoid-marketplace-01.svg",
-    "imageClass": "original-art",
+    "image": "assets/journal/what-belongs-in-a-humanoid-marketplace-01-premium.webp",
+    "imageClass": "premium-art",
     "takeaway": "Useful discovery connects an identifiable product to a clear commercial path and an accountable source.",
     "intro": "A robotics marketplace has to explain more than product names and prices. Some listings lead to a store, others to a research platform or an enterprise conversation. The value is in making those differences understandable so that engineers, buyers, and curious builders can take an appropriate next step.",
     "sections": [
@@ -940,10 +940,10 @@
         "https://robotis.us/collections/bioloid-1"
       ]
     ],
-    "imageAlt": "Three distinct category panels illustrate a robot, a component shaft and separate kit modules.",
-    "imageCaption": "Category clarity helps visitors find a product suited to their purpose.",
-    "inlineImage": "assets/journal/what-belongs-in-a-humanoid-marketplace-02.svg",
-    "inlineAlt": "A product listing anatomy panel lists exact configuration, category, commercial status, dated source and compatibility questions leading to a supplier conversation.",
-    "inlineCaption": "Discovery becomes useful when visitors can inspect the source and understand the next step."
+    "imageAlt": "Humanoid robot and separate robotics components displayed in a premium showroom.",
+    "imageCaption": "AI-generated editorial concept. Humanoid robot and separate robotics components displayed in a premium showroom.",
+    "inlineImage": "assets/journal/what-belongs-in-a-humanoid-marketplace-02-premium.webp",
+    "inlineAlt": "Actuator, robot hand, depth camera and development kit arranged on a workbench.",
+    "inlineCaption": "AI-generated editorial concept. Actuator, robot hand, depth camera and development kit arranged on a workbench."
   }
 ]

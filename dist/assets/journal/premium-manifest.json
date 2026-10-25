@@ -1,0 +1,367 @@
+{
+  "created": "2026-10-25",
+  "method": "Built-in imagegen",
+  "description": "Original AI-generated editorial concept imagery. Fictional hardware and scenarios; not manufacturer photographs or verified product configurations.",
+  "articles": {
+    "choosing-your-first-humanoid-robot": [
+      {
+        "file": "choosing-your-first-humanoid-robot-01-premium.webp",
+        "alt": "A humanoid transfers a tray during an observed laboratory trial.",
+        "caption": "AI-generated editorial concept. A humanoid transfers a tray during an observed laboratory trial.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. A full-scale unbranded humanoid of ivory ceramic panels and machined graphite joints carefully transferring a shallow aluminum parts tray between two workbenches in a refined robotics pilot laboratory. A human engineer observing in soft background, morning window light, tactile real materials, physically plausible five-finger hands grasp tray edges, 35mm documentary camera, expansive editorial composition. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "choosing-your-first-humanoid-robot-02-premium.webp",
+        "alt": "An articulated robot hand evaluates differently shaped test objects.",
+        "caption": "AI-generated editorial concept. An articulated robot hand evaluates differently shaped test objects.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. Intimate close-up in a robotics evaluation lab: an articulated graphite robot hand hovering above several differently shaped everyday test objects on a pale workbench, one wood block and one metal cylinder, robot's focused optical sensor head softly blurred behind. Side daylight reveals fine anodized machining and fingertip elastomer, shallow depth of field, 85mm premium macro editorial photograph. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "robot-price-vs-total-project-cost": [
+      {
+        "file": "robot-price-vs-total-project-cost-01-premium.webp",
+        "alt": "A robot delivery surrounded by the hardware needed for integration.",
+        "caption": "AI-generated editorial concept. A robot delivery surrounded by the hardware needed for integration.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. A newly delivered elegant ivory humanoid in an open precision transport crate inside a beautiful industrial integration studio. Adjacent workbench holds neatly organized spare actuator, battery module, cables and calibration equipment, engineer working discreetly in background. Clear visual story of the infrastructure behind a robot purchase, muted warm daylight, cinematic architectural photography, tangible materials, wide composition. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "robot-price-vs-total-project-cost-02-premium.webp",
+        "alt": "Integration hardware and service components beside a humanoid platform.",
+        "caption": "AI-generated editorial concept. Integration hardware and service components beside a humanoid platform.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. High-end close-up editorial still life of the hidden hardware behind a humanoid deployment: graphite actuator, removable battery cartridge, precision tool and coiled industrial cable arranged naturally on pale laboratory table, fragment of ivory robot torso at frame edge. Rich brushed metal surfaces and subtle restrained lime status light, natural raking daylight, 70mm lens, no staged sales catalog uniformity. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "how-to-read-a-humanoid-robot-spec-sheet": [
+      {
+        "file": "how-to-read-a-humanoid-robot-spec-sheet-01-premium.webp",
+        "alt": "A humanoid platform undergoing a laboratory assessment.",
+        "caption": "AI-generated editorial concept. A humanoid platform undergoing a laboratory assessment.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. Unbranded ivory and graphite humanoid undergoing careful physical assessment in an advanced robotics metrology laboratory, full body three-quarter composition with optical tracking cameras in background and small non-text measurement markers at joints, engineer adjusting a supported forearm. Precision science documentary mood, soft blue-gray daylight with restrained warm practical lights, superb material realism. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "how-to-read-a-humanoid-robot-spec-sheet-02-premium.webp",
+        "alt": "A close view of an actuator and cable routing inside a robot joint.",
+        "caption": "AI-generated editorial concept. A close view of an actuator and cable routing inside a robot joint.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. Extreme editorial macro photograph of a humanoid elbow joint: exposed precision circular actuator housing, brushed titanium bearing, black cable harness routed in realistic strain relief, ivory outer panel partially removed. Fine machining marks and functional screw heads, soft controlled side light, shallow depth of field, physical engineering realism, elegant charcoal backdrop. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "bipedal-wheeled-or-stationary-humanoid": [
+      {
+        "file": "bipedal-wheeled-or-stationary-humanoid-01-premium.webp",
+        "alt": "Bipedal, wheeled and stationary humanoid concepts in a research hall.",
+        "caption": "AI-generated editorial concept. Bipedal, wheeled and stationary humanoid concepts in a research hall.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. A sophisticated mobility research hall with three clearly different fictional humanoid platform architectures arranged naturally at separate test stations: slender bipedal full-body robot in foreground, wheeled torso robot further back on left, stationary dual-arm torso mounted on a workbench at right. All share understated ivory and graphite material language. Wide architectural documentary photograph, bright skylight, believable proportions and distinct bases, not diagram or collage. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "bipedal-wheeled-or-stationary-humanoid-02-premium.webp",
+        "alt": "A robot foot at a threshold illustrates the importance of ground conditions.",
+        "caption": "AI-generated editorial concept. A robot foot at a threshold illustrates the importance of ground conditions.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. Low-angle close-up of a plausible humanoid robot foot contacting a slightly raised concrete threshold in a beautiful industrial corridor; a compact wheeled robot base softly blurred several meters behind on level floor. Focus on ground contact, machined ankle joint, textured sole and realistic shadows. Cinematic warm afternoon light, 50mm lens, precise mechanical details. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "development-kit-or-complete-research-platform": [
+      {
+        "file": "development-kit-or-complete-research-platform-01-premium.webp",
+        "alt": "A compact robot kit is assembled beside a complete research platform.",
+        "caption": "AI-generated editorial concept. A compact robot kit is assembled beside a complete research platform.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. An inspiring robotics development workshop: compact partially assembled humanoid kit on a dark walnut bench in foreground, with exposed neatly routed electronics and small precision tools, complete elegant research humanoid softly visible standing in background. Human hands carefully fitting a joint module to the kit. Natural window light, high-end editorial photograph, warm ivory and graphite palette, thoughtful engineering atmosphere. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "development-kit-or-complete-research-platform-02-premium.webp",
+        "alt": "A humanoid kit and its components during assembly.",
+        "caption": "AI-generated editorial concept. A humanoid kit and its components during assembly.",
+        "prompt": "Use case: photorealistic-natural. Premium original robotics journal photograph, wide landscape 16:9. Beautiful overhead editorial photograph of a compact humanoid development kit mid-assembly on graphite anti-static workmat: paired articulated arms, torso frame, controller board, tiny fasteners in trays, precision screwdriver and one assembled leg. Components arranged as an authentic active workbench, not a diagram, realistic connections and materials, directional soft daylight, high detail. Fictional unbranded concept visualization; exceptional editorial art direction, physically plausible mechanics, natural subtle wear. No text, no labels, no logos, no watermark, no infographic, no collage, no glowing sci-fi effects.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "choosing-actuators-for-a-robot-project": [
+      {
+        "file": "choosing-actuators-for-a-robot-project-01-premium.webp",
+        "alt": "An exquisite compact humanoid rotary joint actuator on a charcoal studio workbench, shown three-quarter view with machined aluminium housing, copper motor windings and precision harmonic gearing partially visible through a deliberately removed side cover.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. An exquisite compact humanoid rotary joint actuator on a charcoal studio workbench, shown three-quarter view with machined aluminium housing, copper motor windings and precision harmonic gearing partially visible through a deliberately removed side cover. A robotic forearm lies softly out of focus behind. Macro product photography, 85mm lens, dramatic softbox reflection and warm copper against cool grey, grounded real mechanical construction.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "choosing-actuators-for-a-robot-project-02-premium.webp",
+        "alt": "Close-up of a robotics engineer's hands aligning a precision motor module into the open elbow of an ivory humanoid arm on a clean laboratory workbench.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. Close-up of a robotics engineer's hands aligning a precision motor module into the open elbow of an ivory humanoid arm on a clean laboratory workbench. Correct machining, connector pins, restrained bundled cables, fastening holes. Only hands and forearms visible, physically credible inspection, daylight side light, shallow depth of field, beautiful tactile materials.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "dexterous-hands-versus-simple-grippers": [
+      {
+        "file": "dexterous-hands-versus-simple-grippers-01-premium.webp",
+        "alt": "A custom five-finger humanoid robotic hand gently holding an orange with textured peel, black articulated fingertips and brushed titanium finger links, coherent five digit anatomy with opposable thumb, suspended above a dark robotics lab table.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. A custom five-finger humanoid robotic hand gently holding an orange with textured peel, black articulated fingertips and brushed titanium finger links, coherent five digit anatomy with opposable thumb, suspended above a dark robotics lab table. Intimate close-up, dramatic rim light and soft natural fill, elegant precision, realistic contact and gentle grip.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "dexterous-hands-versus-simple-grippers-02-premium.webp",
+        "alt": "Two-finger parallel industrial gripper precisely lifting a machined aluminium cube from a tidy workbench, robotic wrist entering from right, nearby unattended yellow foam ball and small ceramic cup illustrate different physical objects without any graphics.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. Two-finger parallel industrial gripper precisely lifting a machined aluminium cube from a tidy workbench, robotic wrist entering from right, nearby unattended yellow foam ball and small ceramic cup illustrate different physical objects without any graphics. Close low-angle product photo, believable opposing jaw contact, ivory and graphite mechanisms, warm sunlight through lab window.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "robot-software-access-before-you-buy": [
+      {
+        "file": "robot-software-access-before-you-buy-01-premium.webp",
+        "alt": "An engineer at a refined robotics laboratory workstation beside a full-size unbranded ivory humanoid robot, viewed over the shoulder, monitor displays only abstract blurred colored software windows with no readable text, engineer connecting a cable to the robot's waist service port.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. An engineer at a refined robotics laboratory workstation beside a full-size unbranded ivory humanoid robot, viewed over the shoulder, monitor displays only abstract blurred colored software windows with no readable text, engineer connecting a cable to the robot's waist service port. Airy contemporary research room, calm blue-hour window light, tactile physical hardware, sophisticated editorial composition.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "robot-software-access-before-you-buy-02-premium.webp",
+        "alt": "Extreme macro of an open humanoid torso service compartment with neatly organized circuit boards, shielded Ethernet connectors, secured cable looms and a small edge computing module, technician's hand holding an unplugged connector just outside port.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. Extreme macro of an open humanoid torso service compartment with neatly organized circuit boards, shielded Ethernet connectors, secured cable looms and a small edge computing module, technician's hand holding an unplugged connector just outside port. Meticulous plausible electronics, black and brushed aluminium surfaces, beautiful selective focus, cool cyan practical light, no glowing fantasy circuitry.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "simulation-before-physical-testing": [
+      {
+        "file": "simulation-before-physical-testing-01-premium.webp",
+        "alt": "A life-size ivory humanoid in a robotics motion capture laboratory facing a large projection of a softly rendered virtual version of the same robot and sparse virtual warehouse, projection has no interface text or grids.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. A life-size ivory humanoid in a robotics motion capture laboratory facing a large projection of a softly rendered virtual version of the same robot and sparse virtual warehouse, projection has no interface text or grids. Real robot in foreground sharp, simulated world visually distinct and softly luminous behind glass. Wide dramatic cinematic architectural composition, physically believable matte surfaces, restrained teal and warm white.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "simulation-before-physical-testing-02-premium.webp",
+        "alt": "A graphite humanoid robot foot making contact with a real textured rubber laboratory floor, low macro viewpoint, visible compliant sole compression and precise ankle mechanics, another foot softly out of focus behind, tiny dust particles and realistic contact shadows.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. A graphite humanoid robot foot making contact with a real textured rubber laboratory floor, low macro viewpoint, visible compliant sole compression and precise ankle mechanics, another foot softly out of focus behind, tiny dust particles and realistic contact shadows. Elegant studio-like daylight, a small unfocused computer screen in distance suggesting testing, uncompromising tactile realism.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "teleoperation-and-autonomy": [
+      {
+        "file": "teleoperation-and-autonomy-01-premium.webp",
+        "alt": "A human robotics researcher wearing a modest VR headset and two hand tracking gloves, standing in foreground of a bright elegant robotics lab while an unbranded ivory humanoid in the midground mirrors a careful reaching gesture toward a plain cylinder.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. A human robotics researcher wearing a modest VR headset and two hand tracking gloves, standing in foreground of a bright elegant robotics lab while an unbranded ivory humanoid in the midground mirrors a careful reaching gesture toward a plain cylinder. Human left and robot right, one coherent environment, no split screen, soft late afternoon window light, controlled documentary editorial photography.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "teleoperation-and-autonomy-02-premium.webp",
+        "alt": "Close-up of a researcher's hand in a precise sensor glove with slim tracking modules and textile seams, beside a robotic five-finger hand resting above a workbench, both performing similar gentle pinching gesture without touching.",
+        "caption": "AI-generated editorial concept visualization; fictional unbranded hardware.",
+        "prompt": "Premium editorial robotics photograph, cinematic yet physically plausible photoreal CGI, wide landscape 16:9, exceptional detail and coherent precision engineering, real brushed titanium, matte graphite, ivory ceramics, subtle lime accents, controlled highlights, professional luxury technology magazine visual, no text, no lettering, no brand, no logo, no watermark, no diagram, no collage. Close-up of a researcher's hand in a precise sensor glove with slim tracking modules and textile seams, beside a robotic five-finger hand resting above a workbench, both performing similar gentle pinching gesture without touching. Correct human and mechanical anatomy, restrained graphite and ivory materials, premium macro photography, intimate focus, warm lab task light, no holograms.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "planning-a-humanoid-pilot": [
+      {
+        "file": "planning-a-humanoid-pilot-01-premium.webp",
+        "alt": "Humanoid robot carrying a gray tote through a controlled industrial pilot cell.",
+        "caption": "AI-generated editorial concept. Humanoid robot carrying a gray tote through a controlled industrial pilot cell.",
+        "prompt": "Premium robotics journal editorial hero photograph, wide 16:9 landscape. A physically plausible custom unbranded humanoid robot with sculpted ivory composite torso, dark graphite articulated limbs and restrained lime status light is conducting a carefully controlled first pilot in an immaculate real factory loading cell. It carries one small gray tote between a waist-height workbench and a shelf; an engineer in neutral workwear observes quietly several meters behind. Architectural industrial daylight through tall windows, beautiful shafts of warm morning light, concrete and brushed aluminum, precise machinery, expensive magazine photography, believable scale and gravity, 35mm lens, sophisticated restrained cinematic grading, extraordinarily detailed real materials and subtle wear. Frame the full robot in three-quarter profile at right with depth into the workcell. No text, no brands, no labels, no graphics, no watermark, no sci-fi armor, no collage, no glowing holograms. Fictional editorial concept rather than a real product.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "planning-a-humanoid-pilot-02-premium.webp",
+        "alt": "A robotic hand placing a tote into a fixture while an engineer observes.",
+        "caption": "AI-generated editorial concept. A robotic hand placing a tote into a fixture while an engineer observes.",
+        "prompt": "Low eye-level close editorial photograph of a humanoid robot's graphite articulated five-finger hand gently placing a matte gray tote into a simple locating fixture on a brushed steel workbench. Fine exposed cable routing and joint hardware are visible, shallow depth of field behind to an engineer holding a blank tablet; tactile rubber fingertips, mechanically plausible wrist, daylight from factory windows. The scene conveys a carefully scoped robotics pilot and clear physical task boundaries. Wide 16:9 landscape premium robotics magazine photography, physically plausible fictional custom robot hardware, extraordinary photographic realism, sophisticated graphite and ivory palette, minimal restrained lime accent, real metals and polymers, cinematic natural lighting, expertly composed, no text, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no toy aesthetics. Standalone single frame.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "battery-runtime-and-uptime": [
+      {
+        "file": "battery-runtime-and-uptime-01-premium.webp",
+        "alt": "A humanoid robot connected to a charging dock in a quiet workshop.",
+        "caption": "AI-generated editorial concept. A humanoid robot connected to a charging dock in a quiet workshop.",
+        "prompt": "A full ivory and graphite humanoid robot standing calmly in a sophisticated industrial charging alcove at the edge of an empty workshop at blue hour. A substantial physical charging connector attached to a waist port and cable running to a compact wall dock, battery module visible beneath an opened side service panel; real practical cable management. Warm task lights contrast cool skylight, very elegant quiet composition, full robot three-quarter side view, understated lime status indicator. The story is charging infrastructure and operational readiness. Wide 16:9 landscape premium robotics magazine photography, physically plausible fictional custom robot hardware, extraordinary photographic realism, sophisticated graphite and ivory palette, minimal restrained lime accent, real metals and polymers, cinematic natural lighting, expertly composed, no text, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no toy aesthetics. Standalone single frame.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "battery-runtime-and-uptime-02-premium.webp",
+        "alt": "Gloved technician inspecting a removable battery cassette and its power connector.",
+        "caption": "AI-generated editorial concept. Gloved technician inspecting a removable battery cassette and its power connector.",
+        "prompt": "Extraordinary close product editorial photograph of a technician's gloved hands inspecting a removable robot battery cassette on an immaculate dark workbench. Visible sealed graphite battery enclosure, robust orange insulated power connector, fine brushed aluminum cooling fins, fasteners and a translucent protective connector cover; humanoid torso softly out of focus behind. Warm grazing studio-workshop light reveals material texture, high-end mechanical product photography, no exposed loose cells, no sparks. Wide 16:9 landscape premium robotics magazine photography, physically plausible fictional custom robot hardware, extraordinary photographic realism, sophisticated graphite and ivory palette, minimal restrained lime accent, real metals and polymers, cinematic natural lighting, expertly composed, no text, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no toy aesthetics. Standalone single frame.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "building-a-useful-robot-shortlist": [
+      {
+        "file": "building-a-useful-robot-shortlist-01-premium.webp",
+        "alt": "Three distinct humanoid designs awaiting evaluation in an architectural showroom.",
+        "caption": "AI-generated editorial concept. Three distinct humanoid designs awaiting evaluation in an architectural showroom.",
+        "prompt": "Three distinctly engineered full-scale unbranded humanoid robots stand in a serene architectural robotics evaluation showroom: foreground an elegant slim ivory robot, behind a stockier graphite industrial robot and a compact research robot, separated spatially so each silhouette reads clearly. An engineer at center examines their hands. Dramatic daylight through clerestory windows, polished concrete, sophisticated restrained atmosphere. Wide low-angle camera, no duplicates, each design plausible and visibly different. Editorial concept about comparing candidate robots and engineering trade-offs. Premium high-end robotics magazine photograph, standalone wide 16:9 landscape. Photorealistic fictional custom hardware, graphite and ivory palette with only tiny lime indicators, real metal and polymer texture, believable engineering and scale. No text, no letters, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "building-a-useful-robot-shortlist-02-premium.webp",
+        "alt": "Dexterous hands and actuator modules arranged for a configuration comparison.",
+        "caption": "AI-generated editorial concept. Dexterous hands and actuator modules arranged for a configuration comparison.",
+        "prompt": "Close beautifully arranged robotics comparison workbench: two different articulated robot hands, one delicate five-finger anthropomorphic hand and one robust three-finger gripper, with two precision actuator modules and neatly coiled connectors on matte charcoal surface. A human engineer's hand lightly rotates one actuator, ivory humanoid torso softly blurred beyond. Overhead diagonal studio composition, dramatic raking natural light, exquisite machined metal textures and purposeful negative space. Editorial concept about evaluating actual configurations rather than specifications alone. Premium high-end robotics magazine photograph, standalone wide 16:9 landscape. Photorealistic fictional custom hardware, graphite and ivory palette with only tiny lime indicators, real metal and polymer texture, believable engineering and scale. No text, no letters, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "from-demonstration-to-repeatable-robot-task": [
+      {
+        "file": "from-demonstration-to-repeatable-robot-task-01-premium.webp",
+        "alt": "Humanoid robot sorting blocks in a monitored robotics test cell.",
+        "caption": "AI-generated editorial concept. Humanoid robot sorting blocks in a monitored robotics test cell.",
+        "prompt": "An ivory and graphite humanoid robot in profile repeatedly sorting identical matte industrial blocks between two tidy trays in a beautifully lit robotics test laboratory. The current moment shows a mechanically plausible articulated hand gripping one block over a receiving fixture. Two small optical tracking cameras on tripods stand at the edge of the workcell, a researcher observes through glass in the background. Cinematic 50mm lens, warm side light and cool ambient depth, exact physical geometry, restrained realistic engineering. Editorial concept about repeatable testing, no multiple exposure, no motion trails. Premium high-end robotics magazine photograph, standalone wide 16:9 landscape. Photorealistic fictional custom hardware, graphite and ivory palette with only tiny lime indicators, real metal and polymer texture, believable engineering and scale. No text, no letters, no logos, no labels, no diagrams, no watermarks, no collage, no holograms, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "from-demonstration-to-repeatable-robot-task-02-premium.webp",
+        "alt": "Articulated robotic fingertips releasing a block into a precision fixture.",
+        "caption": "AI-generated editorial concept. Articulated robotic fingertips releasing a block into a precision fixture.",
+        "prompt": "Macro low-angle photograph of a humanoid robot's finely engineered five-finger hand releasing a small brushed aluminum block into a precision fixture. Distinct tactile fingertip pads, polished bearings at wrist and neatly protected tendons; several identical blocks lined in a receiving tray, a compact industrial camera focused on the action at rear. Crisp focus on object contact, beautiful defocused laboratory background. Editorial about repeatability, recovery and measurement. Standalone single frame, wide 16:9 landscape, premium photorealistic robotics magazine photography of fictional custom unbranded engineering. Realistic materials, plausible mechanics and scale, restrained tiny lime status light only. No text, no letters, no logos, no labels, no diagrams, no watermark, no collage, no holograms, no cartoon, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "what-belongs-in-a-humanoid-marketplace": [
+      {
+        "file": "what-belongs-in-a-humanoid-marketplace-01-premium.webp",
+        "alt": "Humanoid robot and separate robotics components displayed in a premium showroom.",
+        "caption": "AI-generated editorial concept. Humanoid robot and separate robotics components displayed in a premium showroom.",
+        "prompt": "Architectural high-end robotics showroom photographed at dusk, an elegant ivory humanoid stands on a low circular graphite platform at right; at left a gorgeous long brushed-steel display bench presents a dexterous hand, precision actuator, depth camera and small open robot development kit as separate real objects. Warm overhead spotlights, dark glass, distant cool windows, premium automotive campaign quality, moody sophisticated scene about a marketplace spanning robots, parts and kits. Each object physically distinct, no graphics. Standalone single frame, wide 16:9 landscape, premium photorealistic robotics magazine photography of fictional custom unbranded engineering. Realistic materials, plausible mechanics and scale, restrained tiny lime status light only. No text, no letters, no logos, no labels, no diagrams, no watermark, no collage, no holograms, no cartoon, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "what-belongs-in-a-humanoid-marketplace-02-premium.webp",
+        "alt": "Actuator, robot hand, depth camera and development kit arranged on a workbench.",
+        "caption": "AI-generated editorial concept. Actuator, robot hand, depth camera and development kit arranged on a workbench.",
+        "prompt": "Extraordinary premium editorial still life of robotics parts: precision graphite actuator with exposed aluminum output flange, articulated five-finger robot hand, compact stereo depth camera with two lenses, and a carefully assembled small humanoid robot development kit on a warm gray laboratory workbench. Product-photography level surfaces and fasteners, ivory and graphite polymers, neatly coiled wires; warm directional sunlight from right and subtle cool fill. Close three-quarter camera composition, tactile realism, purposeful object spacing, story of thoughtful robotics discovery. Standalone single frame, wide 16:9 landscape, premium photorealistic robotics magazine photography of fictional custom unbranded engineering. Realistic materials, plausible mechanics and scale, restrained tiny lime status light only. No text, no letters, no logos, no labels, no diagrams, no watermark, no collage, no holograms, no cartoon, no science fiction armor.",
+        "method": "Built-in imagegen",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ]
+  }
+}
