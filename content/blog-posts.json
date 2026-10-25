@@ -1,0 +1,949 @@
+[
+  {
+    "slug": "choosing-your-first-humanoid-robot",
+    "date": "2026-10-22",
+    "category": "Buying guides",
+    "title": "Your first humanoid starts with a better question.",
+    "excerpt": "Before you compare robots, define the job. A practical guide to moving from a compelling demo to the right platform.",
+    "image": "assets/journal/choosing-your-first-humanoid-robot-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Buy a platform for a defined workflow, not a collection of impressive demonstrations.",
+    "intro": "The first question in a humanoid purchase should be surprisingly ordinary: what needs to happen, where, and how often? A robot can look remarkably capable on video while being a poor match for the task you actually need to solve. A clear operating brief makes the entire evaluation more useful.",
+    "sections": [
+      [
+        "Describe a complete task",
+        "“Pick up a box” is a movement. A workflow includes finding the right box, recognizing an unsuitable one, reaching the destination, and recovering when something changes. Write down the starting conditions and the finished result. Then identify which parts of that sequence the platform must perform without help."
+      ],
+      [
+        "Match the platform to the team",
+        "A development platform and a finished business solution solve different problems. One may give engineers access to low-level control; another may offer a supported application with fewer customization options. Ask who will own integration, training, maintenance, and daily operation. Include that work in the buying decision."
+      ],
+      [
+        "Request a representative demonstration",
+        "Provide a small test set with realistic objects, lighting, surfaces, and interruptions. Record successful completions, human interventions, and reset time. A useful trial includes the ordinary failures you expect in practice, rather than repeating only the cleanest successful run. Agree on the evaluation criteria before the demonstration."
+      ],
+      [
+        "Make the shortlist explainable",
+        "For each candidate, capture the exact configuration, available interfaces, service path, and unanswered questions. A missing specification is a question to resolve, not a zero. Keep manufacturer claims separate from observations made during your own trial. The best shortlist explains why each platform belongs on it."
+      ],
+      [
+        "Turn a task into an acceptance brief",
+        "Imagine a small research team moving reusable trays between two benches. Its brief should describe the tray dimensions, permitted starting positions, destination tolerance, and what counts as a completed transfer. It should also describe an empty tray, an occupied destination, and an object placed across the route. These are proposed evaluation conditions, not claims about any particular robot. Give each condition an owner who can explain why it matters. A supplier can then discuss a concrete application instead of answering a vague question about whether its platform can help in a laboratory. Keep the first brief short enough to use during every demonstration."
+      ],
+      [
+        "Separate a useful trial from a purchasing promise",
+        "Before the evaluation, agree on what the team will learn and what commitment follows from a successful result. A trial might establish that the robot can reach both benches and execute a supported transfer example. It may leave service arrangements, production integration, or unattended operation unresolved. Write those boundaries beside the results. If a demonstration uses an engineer to position every tray, include that work in the observed workflow. The team can still value the result while understanding its conditions. Ask for the tested configuration in writing, including the hand, software edition, external computer, and accessories used to obtain it."
+      ],
+      [
+        "Use a decision log when opinions differ",
+        "A robot purchase brings together people with different priorities. An engineer may favor an accessible control interface, an operations manager may focus on recovery time, and a purchasing colleague may need a clear replacement path. Create a decision log with four columns: requirement, evidence, unresolved question, and responsible person. Record disagreements as tradeoffs that need evidence. For example, an attractive compact platform might need a new workstation layout, while a larger one might fit the existing process. Neither observation needs a numerical score immediately. Resolve the requirements that could rule out a candidate before spending time ranking optional features or polishing a presentation."
+      ],
+      [
+        "Design the first month before delivery",
+        "Sketch the first month as a sequence of small, reviewable outcomes. Begin with receiving inspection and the supplier's setup procedure, then reproduce a documented example, then introduce the team's own objects and environment. Give each milestone an observable result and a recovery plan if it fails. Reserve time for documentation, operator practice, and ordinary questions to the supplier. Avoid making the arrival date the same day that a public demonstration must succeed. A practical first-month plan reveals whether the team has enough time and ownership to use the purchase well. It also gives a successful delivery a meaning beyond a crate arriving at the door."
+      ]
+    ],
+    "checklist": [
+      "Write a one-page workflow brief.",
+      "Name the person responsible for integration.",
+      "Agree on measurable trial criteria."
+    ],
+    "sources": [
+      [
+        "Boston Dynamics: Atlas",
+        "https://bostondynamics.com/products/atlas/"
+      ],
+      [
+        "Pollen Robotics: Reachy 2 documentation",
+        "https://docs.pollen-robotics.com/"
+      ]
+    ],
+    "imageAlt": "Three linked panels connect input object, workflow and finished result, with lighting, surfaces, exceptions and frequency below.",
+    "imageCaption": "Write down the task boundary and operating conditions before reviewing robots.",
+    "inlineImage": "assets/journal/choosing-your-first-humanoid-robot-02.svg",
+    "inlineAlt": "A three-step staircase rises from documentation through representative trial to configuration review.",
+    "inlineCaption": "Each step should answer a specific question before the next commitment."
+  },
+  {
+    "slug": "robot-price-vs-total-project-cost",
+    "date": "2026-10-12",
+    "category": "Buying guides",
+    "title": "The robot price is only the beginning.",
+    "excerpt": "Build a useful project budget by looking beyond the number on the product page.",
+    "image": "assets/journal/robot-price-vs-total-project-cost-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Compare complete project scopes in the seller’s original currency before comparing headline prices.",
+    "intro": "A published robot price is a starting point, not a complete project budget. It may describe a base configuration, exclude shipping, or omit the software access your team needs. A better budget follows the robot from the manufacturer’s listing to a working, supported application in your environment.",
+    "sections": [
+      [
+        "Start with an exact configuration",
+        "Record the model name, hardware revision, included end effectors, controller, and development permissions. Two offers with the same family name can contain different hardware or software rights. Request an itemized quote so that the scope remains clear after accessories, support, or quantities change."
+      ],
+      [
+        "Separate acquisition and integration",
+        "Acquisition can include freight, import handling, taxes, and site delivery. Integration can include fixtures, engineering time, training, network preparation, and application development. Keep these categories separate: doing so makes it easier to see whether a cheaper purchase creates more work elsewhere."
+      ],
+      [
+        "Budget for operation and interruption",
+        "Ask about service coverage, spare parts, replacement batteries where applicable, and recurring software fees. Include the time spent supervising the application and restoring operation after a fault. An inexpensive part can still create an expensive interruption if it has a long replacement lead time."
+      ],
+      [
+        "Compare like with like",
+        "Retain the original currency and quote date. If you create a converted budget, record the exchange rate separately rather than presenting the conversion as the seller’s price. Use a simple scope table to compare what is included, excluded, optional, and still unknown for each candidate."
+      ],
+      [
+        "Build the budget around one working scenario",
+        "Start with a hypothetical single-robot pilot at one workstation. Make a worksheet with separate rows for the purchased platform, required accessories, delivery, installation, application engineering, training, and support. Add an owner and an evidence status to every row. A quoted amount belongs in a different state from an internal estimate or an unresolved question. This makes the budget useful before every number is known. It also stops an apparently complete total from hiding missing work. Describe the number of trial weeks and the expected operating schedule so that everyone understands the scope behind the estimate before comparing it with another proposal."
+      ],
+      [
+        "Show internal time as a real dependency",
+        "A team may already employ the engineers who will integrate the robot, but their time still has consequences for the project. Record expected activities rather than assigning one unexplained engineering allowance. Examples include reproducing a supported software example, designing a fixture, preparing sample objects, collecting trial results, and writing recovery instructions. Ask the people doing the work to review those assumptions. If the organization chooses to absorb that effort internally, the decision remains visible. This helps distinguish a platform that is cheaper to buy from one that is easier for this particular team to put into useful operation."
+      ],
+      [
+        "Make uncertainty visible without inventing precision",
+        "Use a small number of scenarios when important costs remain unclear. A base case might assume that existing infrastructure is suitable; a second case could include a dedicated workstation or additional supplier assistance. Explain the assumption that changes between them. Do not attach precise probabilities simply to make the table appear sophisticated. Instead, identify the next piece of evidence that would narrow the range, such as a site review or an itemized service proposal. Set a date for revisiting the budget after that evidence arrives. A clearly explained range is more useful than a single total assembled from incompatible levels of confidence."
+      ],
+      [
+        "Agree on what happens after the pilot",
+        "The end of a pilot can create its own costs and decisions. Ask whether equipment remains with the buyer, must be returned, or moves into a different support arrangement. Record who handles packaging, transport, data export, and removal of temporary fixtures where those activities apply. For a continuing project, build a separate operating estimate that reflects the observed trial rather than copying the initial purchase budget. Include any recurring service commitments in the commercial comparison. Keeping these decisions visible helps the team judge the whole evaluation and its possible outcomes, instead of treating the initial payment as the only meaningful financial event."
+      ]
+    ],
+    "checklist": [
+      "Get an itemized, dated quote.",
+      "Separate acquisition, integration, and recurring costs.",
+      "Assign a budget owner to unresolved items."
+    ],
+    "sources": [
+      [
+        "Unitree: G1 official listing",
+        "https://shop.unitree.com/products/unitree-g1"
+      ],
+      [
+        "1X: NEO order options",
+        "https://www.1x.tech/order"
+      ]
+    ],
+    "imageAlt": "Three equal-width budget bands show acquisition, integration and operation without implying numeric cost proportions.",
+    "imageCaption": "Keep acquisition, integration and operating scope visible as separate budget lines.",
+    "inlineImage": "assets/journal/robot-price-vs-total-project-cost-02.svg",
+    "inlineAlt": "An illustrative quote comparison table distinguishes included, optional and unconfirmed scope for two anonymous offers.",
+    "inlineCaption": "A missing line item is a supplier question, not a zero-cost assumption."
+  },
+  {
+    "slug": "how-to-read-a-humanoid-robot-spec-sheet",
+    "date": "2026-10-05",
+    "category": "Hardware explained",
+    "title": "Read the spec sheet. Then read between the numbers.",
+    "excerpt": "Payload, runtime, degrees of freedom: what the headline figures leave unanswered.",
+    "image": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-01.svg",
+    "takeaway": "A specification becomes useful when you know its configuration, test conditions, and relevance to your task.",
+    "intro": "Specifications compress a complex machine into a few numbers. That is useful for discovery, but it can hide the conditions behind the measurement. The goal is not to collect the highest values. It is to understand which figures describe the operating conditions you actually expect.",
+    "sections": [
+      [
+        "Ask what the payload means",
+        "Check whether the stated payload is per arm or total, whether it is sustained or momentary, and where the object is held. Reach and posture can change what a useful handling task looks like. Ask the manufacturer to demonstrate the exact combination of object, motion, and duration you require."
+      ],
+      [
+        "Give runtime a workload",
+        "Standing, walking, manipulating, and running onboard computation are different operating conditions. A runtime figure without a workload is difficult to use in planning. Request the test scenario, charging approach, and any battery exchange procedure. Then map those conditions onto a typical working cycle."
+      ],
+      [
+        "Treat degrees of freedom as a design description",
+        "A joint count describes aspects of a mechanism, not its ability to complete your application. It does not replace information about joint limits, control access, sensing, or hand design. A platform with fewer joints can still suit a specific task better if its reach and interfaces match the job."
+      ],
+      [
+        "Keep an evidence column",
+        "Add a source URL, configuration, and review date beside each value in your comparison sheet. Distinguish manufacturer-stated figures from your own measurements. Where conditions are absent, write a question. That habit prevents a tidy spreadsheet from becoming more certain than the underlying information."
+      ],
+      [
+        "Translate every important number into a question",
+        "Take a proposed shelf-transfer task and annotate its comparison sheet in ordinary language. A reach value becomes a question about reaching the back of the intended shelf from an allowed standing position. A mass value becomes a question about delivery, installation, and the workspace arrangement. A runtime figure becomes a question about completing the planned session with the actual sequence of movement and waiting. This translation does not replace engineering analysis. It makes the purpose of that analysis clear. If nobody can explain how a specification affects the project, keep it as background information rather than allowing it to dominate the purchasing discussion."
+      ],
+      [
+        "Compare configurations before comparing columns",
+        "A product family can appear across a brochure, a store page, a research paper, and an older demonstration. Create one record for the exact configuration being considered, then attach each source to that record. Note when a detail applies to a different hand, battery arrangement, control edition, or hardware revision. Ask the supplier which document governs the quoted configuration when sources disagree. Leave both observations visible until the discrepancy is resolved. Copying the most attractive number from each page can create an imaginary robot that no one offers. A coherent configuration is more valuable than a spreadsheet containing only the strongest isolated figures."
+      ],
+      [
+        "Distinguish dimensions from usable workspace",
+        "A diagram can help a team explore whether a platform fits a task, but it is a starting point for a more complete layout. Include the object, fixture, cable routing, approach direction, and places where people need access. For a tabletop example, mark the positions where the object is picked up and released, then consider how the robot moves between them. Ask which motions are represented by the supplier's documentation and which need application-specific evaluation. Keep a sketch alongside the specification sheet. It is often easier to resolve a misunderstanding about operating space when everyone can point to the same proposed arrangement."
+      ],
+      [
+        "Keep a small specification audit trail",
+        "When an important figure changes, preserve the previous value, its source, and the reason for the update. An engineering team should be able to tell whether it corrected a copying mistake, received a new configuration proposal, or measured something during a trial. Record units explicitly and keep converted values separate from original source values. Add the person who reviewed the entry and the date of that review. This modest discipline becomes especially useful when a project pauses and resumes months later. The next reader can reconstruct what the team actually knew without relying on someone remembering which brochure or conversation supplied a number."
+      ]
+    ],
+    "checklist": [
+      "Record measurement conditions.",
+      "Check model and hardware revision.",
+      "Translate each specification into a task requirement."
+    ],
+    "sources": [
+      [
+        "Boston Dynamics: Atlas product specifications",
+        "https://bostondynamics.com/products/atlas/"
+      ],
+      [
+        "PAL Robotics: TALOS datasheet",
+        "https://pal-robotics.com/datasheet/talos/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "Two schematic arms hold identical blocks at different horizontal reaches; no numeric capacity is asserted.",
+    "imageCaption": "Payload figures need posture and measurement conditions to become useful.",
+    "inlineImage": "assets/journal/how-to-read-a-humanoid-robot-spec-sheet-02.svg",
+    "inlineAlt": "A central specification node connects to model revision, test workload, measurement method and source date.",
+    "inlineCaption": "Preserve the context beside each specification in your comparison sheet."
+  },
+  {
+    "slug": "bipedal-wheeled-or-stationary-humanoid",
+    "date": "2026-09-28",
+    "category": "Hardware explained",
+    "title": "Two legs are one option. Start with the environment.",
+    "excerpt": "Choosing between bipedal, wheeled, and stationary humanoid platforms.",
+    "image": "assets/journal/bipedal-wheeled-or-stationary-humanoid-01.svg",
+    "takeaway": "Choose mobility around the route and the work, rather than treating a human-like silhouette as the requirement.",
+    "intro": "The word humanoid covers more than walking robots. A platform can have a human-like upper body on wheels, a stationary base, or a bipedal lower body. Those choices change the integration problem. The right starting point is the environment in which useful work must happen.",
+    "sections": [
+      [
+        "Map the route before the robot",
+        "Document floor transitions, narrow passages, ramps, doors, stairs, and working heights. Include areas where the platform will turn, wait, charge, or receive assistance. A route that looks straightforward to a person can contain important constraints for a machine. Measure it instead of relying on a floor-plan impression."
+      ],
+      [
+        "Consider whether mobility is needed",
+        "If every useful task occurs at one workstation, a stationary upper-body platform may deserve a place on the shortlist. If the robot must travel between stations, investigate the route as part of the application. Adding mobility creates questions about navigation, traffic, recovery, and infrastructure."
+      ],
+      [
+        "Compare demonstrated operating conditions",
+        "A mobility demonstration is most informative when its terrain resembles your site. Ask how the platform handles the transitions and disturbances that matter to your project. Do not assume that a video of stair climbing establishes suitability for an entire building or every surface condition."
+      ],
+      [
+        "Keep human interaction in the brief",
+        "Think about where people will approach the robot, cross its path, or exchange objects with it. Ask the supplier how the proposed application should be assessed and supervised. Mobility is only one part of a complete system that includes people, procedures, and the physical workspace."
+      ],
+      [
+        "Compare complete routes with complete workstations",
+        "Consider a hypothetical application that moves objects between two stations on the same floor. Draw the route and both working areas, then list every transition between them. Include the place where the robot starts, where it waits for an occupied station, and where someone can assist it. Compare that scenario with an alternative in which objects are brought to a stationary platform. The second arrangement may shift work to another part of the process, so describe that work honestly. The aim is to compare two complete operating ideas. Choosing a mobility style becomes easier when the surrounding assumptions are as visible as the robot itself."
+      ],
+      [
+        "Treat changes to the building as a tradeoff",
+        "A team can sometimes change its environment instead of asking a robot to overcome every existing constraint. It might relocate a task, standardize a container, or create a dedicated handover point. These are design options to discuss with the people who use the space. They also have costs and consequences: a dedicated route may interrupt another activity, while a new workstation may change the flow of materials. Record the adjustment and the benefit it is intended to create. This prevents an apparently capable platform from receiving credit for a task that became easier only after substantial changes elsewhere in the operation."
+      ],
+      [
+        "Plan recovery as part of movement",
+        "Ask the supplier to explain how the proposed platform is recovered when it cannot continue its route or complete a transfer. Discuss who is permitted to assist, what instructions apply, and where the recovery can occur. Do not improvise physical handling based on the robot's appearance. A route assessment should include access for the documented recovery procedure, not just room for successful travel. During a trial, log where interruptions happen and what restores normal operation. A platform that completes an attractive route demonstration still needs an operating plan for the less attractive moments when the route or the task does not proceed as expected."
+      ],
+      [
+        "Choose the simplest informative pilot layout",
+        "For an initial comparison, select a small area that represents the important constraints without combining every difficulty in the building. Use a defined route, a limited object set, and agreed handover locations. Document the conditions excluded from the pilot, such as a different floor or an unusually crowded corridor. Evaluate changes one at a time so the team can explain why a result improves or worsens. The resulting evidence may support a broader trial, a revised layout, or a stationary configuration. Those are all useful outcomes when they follow from a clear question about where mobility contributes to the actual work."
+      ]
+    ],
+    "checklist": [
+      "Measure routes and workstations.",
+      "Evaluate stationary options when movement adds no value.",
+      "Include charging and recovery locations in the layout."
+    ],
+    "sources": [
+      [
+        "Apptronik: Apollo 2 configurations",
+        "https://apptronik.com/apollo/apollo-2"
+      ],
+      [
+        "Sanctuary AI: Phoenix Gen 8 wheeled platform",
+        "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "Three stylized humanoid upper bodies are paired with legs, a wheeled base and a workstation pedestal.",
+    "imageCaption": "Evaluate mobility as a system choice tied to routes and workstations.",
+    "inlineImage": "assets/journal/bipedal-wheeled-or-stationary-humanoid-02.svg",
+    "inlineAlt": "A simple floor plan marks a dashed route between workstation and charging, with a doorway, turning space and floor transition.",
+    "inlineCaption": "Include charging, passage widths and recovery access in the route survey."
+  },
+  {
+    "slug": "development-kit-or-complete-research-platform",
+    "date": "2026-09-14",
+    "category": "Development",
+    "title": "Build a kit, or start with a platform?",
+    "excerpt": "Find the right balance between hands-on learning and time spent on your actual research.",
+    "image": "assets/journal/development-kit-or-complete-research-platform-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Choose how much of the hardware problem you want to own before choosing the hardware itself.",
+    "intro": "A robot kit and an assembled research platform can both be excellent starting points. They simply place the learning effort in different places. A kit may make the mechanism and assembly process central to the project. A platform may help a team reach its software or interaction experiments sooner.",
+    "sections": [
+      [
+        "Define the learning objective",
+        "If the goal is to understand assembly, actuator configuration, or mechanical design, the build process is part of the value. If the goal is to study perception or a manipulation policy, assembly may be a dependency rather than the main activity. Make that distinction explicit before comparing products."
+      ],
+      [
+        "Count the resources you already have",
+        "Look at tools, workspace, supervision, programming experience, and available time. A well-documented kit can still demand careful setup and troubleshooting. An assembled platform can still require substantial software integration. Neither route removes the need to understand the manufacturer’s operating instructions."
+      ],
+      [
+        "Inspect the documentation before buying",
+        "Open the installation guide, sample projects, and recovery instructions. Check that they match the current hardware version. Ask whether the development environment is maintained and whether replacement parts can be obtained in your region. Documentation quality is something you can begin evaluating before the robot arrives."
+      ],
+      [
+        "Plan a small first result",
+        "Choose one modest milestone that proves the entire setup works. For a kit, that might mean a documented assembly and calibration sequence. For a research platform, it might mean a supported example with recorded outputs. A narrow first result creates a useful baseline for later changes."
+      ],
+      [
+        "Write two milestone plans before deciding",
+        "Create one plan for a kit and another for an assembled platform. Both should end at the same useful result, such as recording a repeatable supported motion or running a small perception experiment. For the kit, include inventory, assembly, configuration, calibration, and troubleshooting. For the platform, include receiving checks, environment installation, interface familiarization, and reproduction of a documented example. Ask the intended team to estimate the effort and identify unfamiliar steps. The comparison becomes more honest when neither option begins with an imaginary assumption that everything works immediately. It also reveals which route teaches the skills the team actually wants to acquire."
+      ],
+      [
+        "Choose a kit whose build is part of the lesson",
+        "A kit is particularly useful when the participants need to understand how mechanical decisions, wiring, configuration, and software interact. Give those activities explicit learning outcomes rather than treating assembly as a race to reach movement. For example, the team could document each subassembly, explain the purpose of each connection, and record the configuration before testing. Choose an appropriately scoped first build and follow the supplied instructions. If the real objective is an unrelated experiment with a fixed deadline, be cautious about making an unfamiliar build its critical dependency. The value of hands-on work depends on having enough time and support to learn from it."
+      ],
+      [
+        "Keep the first successful setup reproducible",
+        "Once the documented example works, capture the environment before making ambitious changes. Save the setup steps, relevant software versions, configuration files, and a short description of the observed result. Include the exact hardware variant and any accessories required. Another team member should be able to follow the record without relying on the original builder's memory. This is useful for an assembled platform as well as a kit: both can drift into a state that works only on one person's computer. A reproducible baseline gives later experiments a dependable point of comparison and makes support questions easier to explain."
+      ],
+      [
+        "Think about the second builder and the second semester",
+        "A purchase often outlives the first person who configures it. Before choosing, consider who will maintain the assembly record, preserve small parts, and introduce the next user. Check how replacement components are identified and how the supplier documents changes between versions. For a shared lab, decide which modifications are allowed and how they are recorded. For a teaching project, prepare a way to return the equipment to a known starting condition. These practical decisions influence whether the hardware remains useful after the first demonstration. The best choice is the one whose ownership requirements fit the team over time, not only during an enthusiastic opening week."
+      ]
+    ],
+    "checklist": [
+      "Write the learning goal in one sentence.",
+      "Inspect the actual setup instructions.",
+      "Choose a first milestone that fits the team’s resources."
+    ],
+    "sources": [
+      [
+        "ROBOTIS: BIOLOID series",
+        "https://robotis.us/collections/bioloid-1"
+      ],
+      [
+        "Pollen Robotics: Reachy 2 documentation",
+        "https://docs.pollen-robotics.com/"
+      ]
+    ],
+    "imageAlt": "Separated actuator-like modules in a kit panel contrast with an assembled schematic robot in a research-platform panel.",
+    "imageCaption": "Both paths need setup; the learning effort sits in different places.",
+    "inlineImage": "assets/journal/development-kit-or-complete-research-platform-02.svg",
+    "inlineAlt": "Four milestone cards progress through assembly, configuration, example execution and a single controlled change.",
+    "inlineCaption": "Plan a first result that demonstrates the complete setup, then preserve it."
+  },
+  {
+    "slug": "choosing-actuators-for-a-robot-project",
+    "date": "2026-08-31",
+    "category": "Components",
+    "title": "The actuator is a system decision.",
+    "excerpt": "Torque matters. So do the interface, operating conditions, mechanical fit, and documentation.",
+    "image": "assets/journal/choosing-actuators-for-a-robot-project-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Select the actuator together with the mechanism, power system, control interface, and intended duty cycle.",
+    "intro": "An actuator rarely succeeds or fails in isolation. It operates inside a mechanism, draws power from a supply, communicates with a controller, and experiences a particular load over time. A component decision becomes stronger when those dependencies are evaluated together rather than after a purchase.",
+    "sections": [
+      [
+        "Describe the joint’s actual work",
+        "Start with the motion range, load, speed, and time spent moving or holding position. Include the geometry between the joint and the object being moved. A headline torque value is only one input to that description. Seek engineering support where the load case or operating limits are unclear."
+      ],
+      [
+        "Confirm the interface and variant",
+        "Model suffixes can identify meaningful interface differences. Read the exact variant’s documentation, connector information, and communication requirements. Check the controller and cabling together. A mechanically suitable actuator can still be the wrong choice if it cannot communicate with the rest of the system as intended."
+      ],
+      [
+        "Check the integration work",
+        "Inspect mounting dimensions, available brackets, compatible power arrangements, and documented setup tools. Identify how the actuator reports state and how faults are handled. These details influence how quickly your team can diagnose a problem without dismantling assumptions made during the initial design."
+      ],
+      [
+        "Preserve a known baseline",
+        "Record the component model, firmware, settings, supply conditions, and mechanical installation. Change one controlled aspect at a time during evaluation. A repeatable baseline is valuable when comparing alternatives or investigating unexpected behavior. Follow the manufacturer’s limits instead of treating an early successful motion as validation."
+      ],
+      [
+        "Create an integration worksheet for each candidate",
+        "Put the proposed joint and each actuator candidate on a worksheet that links mechanical, electrical, and software assumptions. Record the intended movement, mounting approach, cable route, supply arrangement, communication interface, and information available from the actuator. Add a link to the exact manufacturer's documentation for every confirmed item. Leave unresolved dependencies visible, particularly where an adapter, external controller, or custom bracket is proposed. This worksheet is a conversation aid for the people designing different parts of the system. It helps catch a mismatch while it is still a drawing or a question, before several components arrive with incompatible assumptions attached to them."
+      ],
+      [
+        "Use a representative evaluation sequence",
+        "A useful early evaluation follows the planned application in a controlled, appropriately designed setup. Describe the sequence of movement, holding, waiting, and repetition that matters to the project, then ask the supplier or a qualified engineer how to evaluate it within the documented limits. Record the starting configuration and the conditions of each run. Do not treat an unloaded motion on a desk as evidence for a loaded robot joint. The early test can still establish communication, configuration, and observation of reported state. Give each stage a limited purpose so that the evidence supports a specific conclusion rather than an undefined claim that the actuator works."
+      ],
+      [
+        "Plan the wiring and service access together",
+        "A compact mechanism can be difficult to support if connectors disappear behind brackets or cables cannot be inspected without dismantling the assembly. Include connection access and the manufacturer's cable requirements in the mechanical discussion. Identify how a component will be disconnected, replaced, configured, and returned to service using approved procedures. Label the installed variants and keep an accessible diagram that matches the actual build. These details are easy to postpone because they do not make a demonstration more impressive. They become valuable when several similar joints are installed and a team must identify a configuration problem without guessing which cable or component belongs to which record."
+      ],
+      [
+        "Keep component comparisons tied to project priorities",
+        "The strongest candidate depends on what the project needs to learn or deliver. A familiar interface and clear documentation may matter more to a short teaching project than a feature the team will never use. A custom research mechanism may justify additional engineering work because it needs a particular form or sensing arrangement. State that tradeoff explicitly instead of presenting one component as universally superior. Keep the evaluation record, source documents, and unresolved questions with the design files. When a substitution becomes necessary, the team can then revisit the original reasoning and check every affected dependency rather than assuming a similar headline specification makes two components interchangeable."
+      ]
+    ],
+    "checklist": [
+      "Document the load case.",
+      "Match the exact interface variant.",
+      "Keep a record of configuration and operating conditions."
+    ],
+    "sources": [
+      [
+        "ROBOTIS: XM430-W210-T/R manual",
+        "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/"
+      ]
+    ],
+    "imageAlt": "An actuator shaft is linked to power, control, mechanism and load requirements.",
+    "imageCaption": "Select the actuator with its electrical, software and mechanical dependencies.",
+    "inlineImage": "assets/journal/choosing-actuators-for-a-robot-project-02.svg",
+    "inlineAlt": "An unscaled step plot shows conceptual acceleration, holding, rest and movement phases over time.",
+    "inlineCaption": "A duty-cycle description reveals demands that a peak value alone cannot describe."
+  },
+  {
+    "slug": "dexterous-hands-versus-simple-grippers",
+    "date": "2026-08-17",
+    "category": "Components",
+    "title": "More fingers, or a better fit for the task?",
+    "excerpt": "A useful way to evaluate dexterous hands without losing sight of the objects you need to handle.",
+    "image": "assets/journal/dexterous-hands-versus-simple-grippers-01.svg",
+    "visual": "HAND / OBJECT / CONTACT",
+    "takeaway": "Evaluate the grasping task first. Hand complexity should serve the object set and research objective.",
+    "intro": "A dexterous hand can be a compelling part of a humanoid platform. But the decision starts with the objects and interactions, not the number of fingers. A project that studies human-like manipulation has different needs from one that repeatedly transfers a standard container between two fixtures.",
+    "sections": [
+      [
+        "Build an object set",
+        "Collect representative objects with different sizes, shapes, surfaces, and weights. Include awkward examples rather than only the easiest ones. Define how the robot will encounter each object and how it should leave it. The same object can present a very different problem when its starting pose changes."
+      ],
+      [
+        "Separate holding from manipulating",
+        "Picking up an object, rotating it within the hand, and using it as a tool are different requirements. Decide which actions the project actually needs. That distinction helps keep a shortlist focused and prevents an impressive capability from becoming a requirement without a practical reason."
+      ],
+      [
+        "Inspect the whole control path",
+        "Ask about the hand’s interface, sensing, calibration, and supported examples. Check how it connects mechanically and electrically to the chosen arm. A hand offered in a manufacturer’s catalog is not automatically compatible with every platform. Integration responsibilities should be explicit in the proposed configuration."
+      ],
+      [
+        "Measure repeatability and recovery",
+        "Run the same object set repeatedly and record successful outcomes, damaged objects, and human interventions. Include recovery from an unsuccessful grasp. The value of a manipulation system depends on what happens after a miss as well as what happens during its best demonstration."
+      ],
+      [
+        "Build an object card before selecting hardware",
+        "Give each representative object a simple record: dimensions, mass as measured for the trial, surface description, permitted contact areas, starting orientation, and desired final state. Add any project-specific restrictions, such as avoiding contact with a visible label or keeping the object upright. A photograph with reference measurements can help different team members discuss the same example. Keep the object set stable for an initial comparison, then introduce variation deliberately. This gives a supplier something concrete to evaluate and helps explain why a particular hand or gripper belongs on the shortlist. It also prevents the easiest objects from quietly becoming the entire test."
+      ],
+      [
+        "Match the evaluation to the intended manipulation",
+        "If the application only transfers a standard item, test the complete transfer and release. If the research question involves changing an object's orientation within a hand, make that behavior an explicit part of the trial. Do not infer it from a successful pickup. Describe whether objects arrive in a known pose, a fixture, or a varied arrangement, because the surrounding perception and planning work is part of the application. Compare candidates using the same starting conditions wherever practical. A dexterous hand may be interesting for exploring several interaction strategies, while a simpler mechanism may deserve evaluation for a narrower operation. The test should make that distinction understandable."
+      ],
+      [
+        "Include release, misses, and object condition",
+        "It is easy to focus on the moment an object leaves a table and overlook what happens next. Define a successful release: the object reaches the intended location, has the required orientation, and remains suitable for the next step. Record drops, incomplete releases, unexpected contact, and any visible changes to the object. Include the work required to clear a failed attempt and restore the starting conditions. Use appropriate objects and the supplier's procedures when planning the trial. The resulting log describes a complete interaction instead of collecting only successful grasp images. It can reveal that the difficult part of an application occurs at the destination rather than at pickup."
+      ],
+      [
+        "Treat the hand as part of an integrated platform",
+        "Ask who owns the connection between the hand, wrist, arm, power arrangement, controller, and application software. A product page can establish that a hand exists without establishing a supported configuration for your robot. Record the exact interface and mechanical arrangement proposed by the supplier, including any custom work. For a research team, decide whether developing that integration is part of the intended contribution or simply a dependency. Keep calibration and configuration records with the experiment. When comparing a new hand later, this documentation helps separate improvements in the end effector from changes in the arm behavior, object presentation, or control software around it."
+      ]
+    ],
+    "checklist": [
+      "Create a representative object set.",
+      "Define whether in-hand manipulation is necessary.",
+      "Confirm mechanical, electrical, and software compatibility."
+    ],
+    "sources": [
+      [
+        "RobotEra: official product range",
+        "https://www.robotera.com/en/"
+      ],
+      [
+        "Unitree: official humanoid hardware collection",
+        "https://shop.unitree.com/collections/humanoid-robot"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "A parallel-jaw gripper around a block is shown beside a stylized hand holding a sphere.",
+    "imageCaption": "Use the object and required action to decide how much hand complexity is useful.",
+    "inlineImage": "assets/journal/dexterous-hands-versus-simple-grippers-02.svg",
+    "inlineAlt": "Four panels illustrate shape, surface texture, starting pose and fragility with distinct test objects.",
+    "inlineCaption": "Include difficult examples and changed starting poses in repeatability trials."
+  },
+  {
+    "slug": "robot-software-access-before-you-buy",
+    "date": "2026-08-03",
+    "category": "Development",
+    "title": "Ask about software access before the robot arrives.",
+    "excerpt": "The difference between a demonstration mode, an SDK, and the development permissions your project needs.",
+    "image": "assets/journal/robot-software-access-before-you-buy-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Treat software access as part of the purchased configuration, not an assumption attached to the model name.",
+    "intro": "A robot can be programmable in one sense and restricted in another. A supported high-level application interface may be enough for one team, while another requires access to sensors, joint commands, or a simulation model. “Has an SDK” is the beginning of an evaluation, not the conclusion.",
+    "sections": [
+      [
+        "Write the interfaces your project requires",
+        "List the information you need to read and the behaviors you need to control. Include update rates only where they matter to the application. A clear interface list is easier for a supplier to answer than a broad request for full access. Ask for documentation that maps to the exact edition."
+      ],
+      [
+        "Distinguish examples from permissions",
+        "An example project shows a supported workflow. It does not necessarily establish what you can modify, redistribute, or deploy commercially. Review the relevant software terms and ask the supplier to resolve ambiguities. Keep any promised access in the quote or written configuration description."
+      ],
+      [
+        "Look at setup and recovery",
+        "Find out how the environment is installed, how versions are managed, and how a failed update is handled. Ask which parts depend on external services. Good recovery documentation matters because development inevitably involves changing software, not simply running the first example successfully."
+      ],
+      [
+        "Evaluate with the team that will use it",
+        "Have the intended engineers read a real API example and trace one task from command to observation. Record unclear dependencies. This small exercise can reveal integration questions while they are still inexpensive to resolve, before shipping dates and hardware commitments limit the available choices."
+      ],
+      [
+        "Trace one experiment through the interface",
+        "Choose a small proposed experiment and describe its complete path through the software. For example, the team may want to request a supported motion, read the resulting state, save observations, and repeat the sequence with one changed parameter. Ask which documented interfaces support each step and which configuration includes them. Identify any external computer, account, service, or optional software package required. This exercise is more revealing than collecting a list of programming languages. It connects software access to a real result the team wants to produce and gives the supplier a precise set of questions to resolve before purchase."
+      ],
+      [
+        "Separate the development environment from the robot configuration",
+        "Record both the software installed on the developer's computer and the software configuration on the platform. Include versions, supported operating environments, and the installation instructions used. Ask how those two sides are kept compatible when one changes. A team can lose time diagnosing an apparent hardware issue that actually follows from an undocumented environment change. Preserve the first working setup and reproduce it on another suitable machine before heavily modifying the project. The goal is a repeatable development process. A successful example that depends on one unrecorded laptop configuration is a useful first step, but it is a fragile foundation for shared research or long-term maintenance."
+      ],
+      [
+        "Ask how experiments leave useful records",
+        "Before the first trial, decide what information must be saved to understand a result. That might include commands issued, timestamps, reported state, application messages, configuration, and the software revision. Confirm which observations are actually available through the purchased interface. Choose a simple recording format that the team can inspect after the experiment and keep it with the conditions of the run. Do not promise analyses that rely on signals the platform does not expose. A well-documented small record is more valuable than a large collection of unexplained files. It also makes a support request clearer because the supplier can see what the team requested and observed."
+      ],
+      [
+        "Evaluate ownership after the first developer leaves",
+        "A software purchase decision should account for the person who will maintain the project next year. Ask where installation instructions, credentials where applicable, source files, and configuration records will be stored under the organization's normal practices. Assign responsibility for updates and for reviewing changes to the supported environment. Establish how a new team member can reproduce a documented example without borrowing a previous developer's personal setup. Where licenses or service access matter, have the appropriate person review the actual terms for the intended use. These steps turn software access into an operational capability that belongs to the team, instead of a collection of permissions and habits understood by only one developer."
+      ]
+    ],
+    "checklist": [
+      "Define required read and control interfaces.",
+      "Confirm development rights for the exact edition.",
+      "Review setup, versioning, and recovery documentation."
+    ],
+    "sources": [
+      [
+        "Unitree: G1 configuration and development notes",
+        "https://shop.unitree.com/products/unitree-g1"
+      ],
+      [
+        "Pollen Robotics: Reachy 2 SDK resources",
+        "https://docs.pollen-robotics.com/"
+      ]
+    ],
+    "imageAlt": "Four software and hardware layers descend from task application to SDK, low-level interfaces and exact hardware edition.",
+    "imageCaption": "Ask which layers your purchased edition exposes and under what terms.",
+    "inlineImage": "assets/journal/robot-software-access-before-you-buy-02.svg",
+    "inlineAlt": "A baseline-change-validation sequence includes a dashed recovery path returning to the saved baseline.",
+    "inlineCaption": "Preserve versions, settings and recovery instructions alongside API examples."
+  },
+  {
+    "slug": "simulation-before-physical-testing",
+    "date": "2026-07-20",
+    "category": "Development",
+    "title": "Start in simulation. Keep asking what it leaves out.",
+    "excerpt": "Use simulated experiments to reduce friction without confusing them with physical validation.",
+    "image": "assets/journal/simulation-before-physical-testing-01.svg",
+    "visual": "MODEL → SIMULATE → MEASURE",
+    "takeaway": "Simulation is a repeatable experimental environment. Physical behavior still needs its own evidence.",
+    "intro": "Simulation is useful because you can inspect assumptions, repeat experiments, and change a setup without rebuilding a physical scene each time. Its limits are equally important. A successful simulated result says something about the model and controller together; it does not establish that every detail transfers to hardware.",
+    "sections": [
+      [
+        "Choose the question before the scene",
+        "A simulation study becomes more useful when it answers a specific question about reach, interaction, or control behavior. Define what output would support the decision you need to make. Avoid spending the entire project making a scene look realistic when the important assumption has not been identified."
+      ],
+      [
+        "Record the model’s assumptions",
+        "Keep track of geometry, mass properties, contact settings, and actuator representations. Note which values come from documentation and which are estimates. When a result changes, those records help explain whether the cause is the controller, the model, or an experimental setting."
+      ],
+      [
+        "Use variation to challenge the result",
+        "Try plausible changes to the setup rather than one ideal condition. The goal is to learn which assumptions the approach depends on most strongly. Treat a fragile result as useful information about where a physical trial needs closer observation, not merely as a simulation to tune until it passes."
+      ],
+      [
+        "Design the hardware comparison early",
+        "Choose observations that can be recorded in both simulated and physical experiments. Begin physical work within the platform’s documented procedures and appropriate supervision. Compare what happened with what the model predicted. A discrepancy is an opportunity to improve the model or narrow the claim being made."
+      ],
+      [
+        "Build a ladder of experiments",
+        "Imagine a project that transfers a container between two shelves. Begin with a question that can be answered without detailed contact behavior: can the proposed arm configuration reach both locations while respecting the joint limits represented in the model? Next, introduce the container and examine the planned approach. Only then add more demanding questions about grasping and placement. This sequence gives each experiment a clear purpose and makes a failure easier to locate. A complicated scene that fails immediately can conceal several unrelated problems. A sequence of small experiments lets the team preserve useful results while investigating the next uncertainty.\n\nKeep a short experiment card for each step. Write the question, the parameters you changed, the observations you saved, and the decision the result supports. Include a screenshot or trajectory plot when it clarifies the observation. The card should be understandable to someone who did not build the scene."
+      ],
+      [
+        "Separate tuning from evaluation",
+        "A controller repeatedly adjusted against the same starting arrangement may become very good at that arrangement. Set aside a second collection of conditions before tuning begins. For the shelf example, that could mean different container positions and modestly different shelf heights within the intended workspace. Label these conditions as evaluation cases and avoid using them as the everyday tuning target. The point is to discover whether the approach works beyond the exact example used to develop it.\n\nRecord the outcome of every evaluation case, including incomplete attempts. If a change improves one case while breaking another, preserve that trade-off in the report. A single average can hide a recurring problem at the edge of the workspace. A small table of outcomes is often more useful than a polished video of the best run."
+      ],
+      [
+        "Turn discrepancies into the next experiment",
+        "Suppose a simulated placement finishes cleanly but the physical trial requires a manual reset. Resist the urge to change several settings until the difference disappears. First describe the mismatch in observable terms: the object stopped short, the motion took longer, or the final pose differed. Then identify which assumptions could plausibly affect that observation and design a smaller comparison. This keeps the investigation connected to evidence.\n\nMaintain a transfer log with the simulation version, hardware configuration, measured difference, and next question. Some differences may justify improving the model; others may justify narrowing the operating conditions. Both can be useful outcomes. The final report should distinguish what simulation helped select, what the physical trial established, and what remains unresolved. That distinction gives the next engineer a reliable starting point."
+      ]
+    ],
+    "checklist": [
+      "Define one experimental question.",
+      "Track model assumptions and versions.",
+      "Plan comparable measurements before the hardware trial."
+    ],
+    "sources": [
+      [
+        "MuJoCo: official overview",
+        "https://mujoco.readthedocs.io/en/stable/overview.html"
+      ],
+      [
+        "Pollen Robotics: simulation resources",
+        "https://docs.pollen-robotics.com/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "Side-by-side schematic robots represent a simulated model and physical system connected by prediction and measurement arrows.",
+    "imageCaption": "Plan the hardware comparison before treating a simulation result as evidence.",
+    "inlineImage": "assets/journal/simulation-before-physical-testing-02.svg",
+    "inlineAlt": "Four unscaled parameter ranges for contact, mass, friction and latency encourage sensitivity testing.",
+    "inlineCaption": "Track estimated model parameters and test plausible variation."
+  },
+  {
+    "slug": "teleoperation-and-autonomy",
+    "date": "2026-07-06",
+    "category": "Industry perspective",
+    "title": "Autonomy is a workflow question.",
+    "excerpt": "Why buyers should ask when people help, what they do, and how often intervention is needed.",
+    "image": "assets/journal/teleoperation-and-autonomy-01.svg",
+    "takeaway": "Describe human involvement explicitly instead of assigning one autonomy label to an entire robot.",
+    "intro": "A robot may perform one action independently, ask for help on another, and use remote control during setup. A single word such as autonomous cannot explain that whole operating model. For buyers and developers, the useful question is where people enter the workflow and what their involvement requires.",
+    "sections": [
+      [
+        "Break the task into stages",
+        "Consider setup, perception, task execution, exception handling, and recovery separately. Ask which stages are automatic and which need an operator. A system can be useful with human assistance, provided that assistance is understood and included in the operating plan."
+      ],
+      [
+        "Make interventions measurable",
+        "Record the number, duration, and cause of interventions during a representative trial. Include help given before a task starts or after a failure, not only direct control during motion. Those records create a clearer basis for estimating staffing and evaluating improvements over time."
+      ],
+      [
+        "Understand the connection requirements",
+        "Where remote assistance is part of the design, ask how connectivity, permissions, and service availability affect operation. Discuss what the system does when the connection is interrupted. For projects using cameras or microphones, establish the organization’s expectations for access and recording before the trial."
+      ],
+      [
+        "Keep progress claims specific",
+        "A reduction in help for one object set is valuable, but it should be described with the conditions that produced it. Avoid expanding a narrow result into a claim about every environment. A precise account of the task and intervention pattern is more useful than a broad statement about intelligence."
+      ],
+      [
+        "Create an intervention ledger",
+        "For a practical trial, give each task attempt an identifier and record when assistance begins and ends. Add a short reason such as object not found, route unclear, grasp recovery, or application reset. Record who provided help and whether that person needed specialist knowledge. This creates a useful picture of the operating model without trying to reduce every behavior to one autonomy score. Two systems with similar completion rates may require very different kinds of support.\n\nInclude preparation that happens between attempts. If an operator consistently repositions objects before pressing start, that work belongs in the ledger. Likewise, record assistance that restores the scene after a completed movement. Otherwise, a task can appear independent simply because the human contribution sits outside the camera frame or the chosen timing window. Agree on those boundaries before comparing results."
+      ],
+      [
+        "Walk through a remote assistance scenario",
+        "Consider a robot that encounters an unfamiliar container. Write the proposed sequence from uncertainty to resolution: the robot requests help, an authorized operator sees the relevant context, the operator supplies guidance, and the system resumes or ends the attempt. Identify the information the operator needs at each stage. A distant operator may have a different view of the workspace from a person standing beside it. That difference should shape the trial.\n\nRun a tabletop exercise before the physical session. Ask what happens if the request is unanswered, if the operator cannot identify the object, or if assistance arrives after the task has become irrelevant. Capture the intended outcome in plain language. This exercise often reveals missing ownership or unclear handoffs without requiring a new robot capability or a complex integration project."
+      ],
+      [
+        "Compare operating models with the same workload",
+        "When evaluating two approaches, give them the same object set and a comparable task schedule. Count completed work alongside operator time, waiting time, and unresolved requests. Keep dedicated supervision separate from brief interventions, because an operator who must remain available throughout a session represents a different staffing commitment from one who can return to other work. Describe those assumptions alongside any comparison.\n\nA useful pilot report can include three short narratives: a routine success, a recoverable exception, and an attempt that had to stop. For each, show what the robot did and what people contributed. These examples make the numbers easier to interpret and help a team identify the next improvement. The improvement might be clearer instructions, a better object presentation, or a revised support process. It does not always require increasing autonomous behavior across the entire workflow."
+      ]
+    ],
+    "checklist": [
+      "Map human involvement by task stage.",
+      "Count both visible and background interventions.",
+      "Confirm the operating model when connectivity is unavailable."
+    ],
+    "sources": [
+      [
+        "Pollen Robotics: teleoperation documentation",
+        "https://docs.pollen-robotics.com/"
+      ],
+      [
+        "1X: NEO and Expert Mode information",
+        "https://www.1x.tech/order"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "Five workflow stages show an illustrative mix of human confirmation and automatic execution, explicitly labeled as an example.",
+    "imageCaption": "Describe assistance stage by stage instead of assigning a single autonomy label.",
+    "inlineImage": "assets/journal/teleoperation-and-autonomy-02.svg",
+    "inlineAlt": "A three-row intervention ledger records work before, during and after a task, including responsibility.",
+    "inlineCaption": "Include background preparation and recovery when estimating operating effort."
+  },
+  {
+    "slug": "planning-a-humanoid-pilot",
+    "date": "2026-06-22",
+    "category": "Buying guides",
+    "title": "A good pilot ends with a decision.",
+    "excerpt": "Define a useful test before committing to a larger robot deployment.",
+    "image": "assets/journal/planning-a-humanoid-pilot-01.svg",
+    "takeaway": "Give the pilot an owner, a bounded workflow, and a decision rule before it begins.",
+    "intro": "A pilot should help an organization decide what to do next. Without that decision in view, it can become a long demonstration that produces enthusiasm but little usable evidence. A narrow trial with agreed measurements is easier to interpret than an ambitious project that changes its goal every week.",
+    "sections": [
+      [
+        "Choose a bounded application",
+        "Specify the objects, locations, operating hours, and conditions included in the trial. Identify what remains outside the scope. A narrow boundary does not make the pilot less ambitious; it gives the team a way to understand the result and distinguish integration issues from broader limitations."
+      ],
+      [
+        "Set the baseline and the threshold",
+        "Describe how the work is currently done and what improvement would justify continuing. Select a small number of useful measures, such as completed tasks, interventions, and time to recover. Agree on how those measures will be collected and who can approve changes to the test."
+      ],
+      [
+        "Assign operational ownership",
+        "Name the people responsible for the robot, the workspace, supplier coordination, and data collection. Define the process for pausing work and investigating an unexpected event. Follow the supplier’s procedures and the site’s applicable requirements when designing the application and supervision arrangements."
+      ],
+      [
+        "Plan the end before the start",
+        "Set a review date and the possible outcomes: continue, revise the application, extend the evaluation for a specific reason, or stop. Record unresolved questions with owners. A pilot that rules out an unsuitable configuration can be a useful result if it prevents a larger commitment based on weak assumptions."
+      ],
+      [
+        "Write a pilot charter that fits on one page",
+        "A useful charter names the workflow, the test area, the duration, the responsible people, and the decision expected at the end. Add the main assumptions in a separate box. For example, a trial may assume that containers arrive in an agreed position and that a trained person is available for resets. Those assumptions are part of the proposed application. Making them visible prevents a narrow trial from being mistaken for evidence about unrestricted operation.\n\nInclude a simple change process. If the team changes the objects, software version, or success definition halfway through the pilot, record when and why. It may be sensible to make the change, but the resulting observations should not silently merge into the earlier dataset. A clear record lets reviewers understand whether performance improved or the task became easier."
+      ],
+      [
+        "Design an evidence package before the first run",
+        "Choose a compact record for each attempt: task identifier, starting conditions, configuration, outcome, elapsed time, intervention, and recovery note. Decide where logs will be stored and who will check their completeness. If a recording is useful, explain what it is intended to establish rather than collecting footage without a review plan. The evidence package should answer the pilot's decision question with as little interpretation as practical.\n\nPrepare an example report using an imaginary attempt before the robot arrives. Ask the operations owner and technical owner to read it independently. If they draw different conclusions, revise the definitions. Words such as success, interruption, and available can mean different things to different teams. Resolving those differences early is cheaper than trying to reinterpret several weeks of inconsistent notes."
+      ],
+      [
+        "Use decision gates instead of an open-ended trial",
+        "Divide the pilot into a setup gate, a representative task gate, and a final review. At the setup gate, confirm that the intended configuration and evidence collection are working. At the task gate, check whether the agreed workflow can be evaluated meaningfully. The final review considers the accumulated results and the unanswered questions. Give each gate a named decision owner so that a promising demonstration does not automatically become a larger commitment.\n\nAn extension should answer a specific remaining question. For example, the team may need another session with a wider range of container positions or a replacement component. State what new evidence would justify the extra work and set a new review date. If the extension has no distinct question, it may simply postpone a difficult decision. A disciplined stop, redesign, or narrower application can be a valuable result of the pilot."
+      ]
+    ],
+    "checklist": [
+      "State the decision the pilot must support.",
+      "Agree on a baseline and review date.",
+      "Assign owners for operation and evidence collection."
+    ],
+    "sources": [
+      [
+        "Boston Dynamics: Atlas customer journey",
+        "https://bostondynamics.com/products/atlas/"
+      ],
+      [
+        "Agility Robotics: industrial automation approach",
+        "https://www.agilityrobotics.com/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "A clear pilot boundary encloses one workflow, known objects, location, hours and owner; other sites and fleet rollout sit outside.",
+    "imageCaption": "Write down what the pilot includes and what it cannot yet establish.",
+    "inlineImage": "assets/journal/planning-a-humanoid-pilot-02.svg",
+    "inlineAlt": "A review node branches into continue, revise and stop, each with a distinct reason.",
+    "inlineCaption": "A useful pilot supports a decision, including a well-evidenced decision to stop."
+  },
+  {
+    "slug": "battery-runtime-and-uptime",
+    "date": "2026-06-08",
+    "category": "Hardware explained",
+    "title": "Runtime is a number. Uptime is a plan.",
+    "excerpt": "Think in working cycles, charging windows, and recovery procedures.",
+    "image": "assets/journal/battery-runtime-and-uptime-01.svg",
+    "visual": "WORK / CHARGE / REPEAT",
+    "takeaway": "Plan the full operating cycle rather than treating a headline battery figure as uninterrupted productive time.",
+    "intro": "Battery runtime is one part of a larger operating cycle. A robot may also need charging, setup, inspection, or assistance between tasks. Understanding those transitions makes a project plan more useful than multiplying a quoted runtime by the number of robots you intend to purchase.",
+    "sections": [
+      [
+        "Define a typical cycle",
+        "Write down the sequence of travel, waiting, manipulation, and return activity for the application. Note whether the workload changes during a shift. Ask the manufacturer which runtime conditions resemble that cycle and which assumptions would need to be checked in a trial."
+      ],
+      [
+        "Include charging in the layout",
+        "Identify where charging occurs and how the robot reaches that location. Consider space, access, and the manufacturer’s installation instructions. If a battery exchange is supported, ask who performs it, what equipment is required, and how the procedure fits the actual application."
+      ],
+      [
+        "Track productive and unavailable time separately",
+        "A useful operation log distinguishes completed work from waiting, charging, faults, and recovery. That separation shows where an application needs improvement. A short interruption repeated throughout the day may matter more than a longer event that happens infrequently."
+      ],
+      [
+        "Ask about the service path",
+        "Confirm how batteries and related parts are supported, replaced, and shipped in your region. Use only the manufacturer’s approved procedures and compatible equipment. Keep responsibility for inspection and service explicit so that routine upkeep is part of the operating plan from the beginning."
+      ],
+      [
+        "Build a shift timeline",
+        "Start with a sketch of a working day rather than a battery specification. Mark planned task periods, breaks, setup, inspection, charging, and any supported battery exchange. Then place the robot's expected operating cycle on that timeline using assumptions supplied for the proposed configuration. The sketch may reveal that a charging window aligns naturally with a work break, or that the application needs service at precisely the time the team expects continuous output.\n\nKeep uncertain durations visible. A planning worksheet can have separate columns for a supplier estimate, a trial observation, and the value used in the schedule. Do not quietly substitute the most optimistic number. If a project depends on an unmeasured transition, such as returning to a charger from a distant workstation, make that transition a named item in the trial."
+      ],
+      [
+        "Give every interruption a useful label",
+        "A single uptime percentage can conceal very different operating problems. Separate planned charging from waiting for work, waiting for an operator, application faults, and maintenance. Include the beginning and end of each event so that overlapping interruptions do not get counted twice. Agree on whether the denominator is scheduled working time, powered time, or another clearly defined period. Consistent definitions matter more than making the report look precise.\n\nFor example, a robot may be charged and ready while no suitable containers are available. That is an application scheduling issue, not evidence of a battery limitation. Another robot may spend a short period charging but then wait much longer for someone to restart the task. Those cases suggest different improvements. An interruption log should help the team decide what to change, rather than merely produce a headline figure."
+      ],
+      [
+        "Make service readiness part of the plan",
+        "Create a small responsibility sheet for routine inspection, approved charging equipment, service contacts, and the process for taking a unit out of use. Keep the relevant manufacturer instructions accessible to the people who perform those activities. If the supplier supports multiple power arrangements, record the exact one included in the project. A schedule based on an optional configuration is unreliable when that option has not actually been purchased or installed.\n\nAt the end of a trial, compare the planned shift timeline with the observed one. Identify the largest unexplained gaps and assign follow-up questions. A modest difference in one transition may be easy to address; several repeated delays can change the entire staffing plan. The useful outcome is a schedule supported by observations, together with a clear list of conditions under which that schedule is expected to hold."
+      ]
+    ],
+    "checklist": [
+      "Describe the workload behind runtime assumptions.",
+      "Include charging and service locations in the floor plan.",
+      "Log interruptions by cause rather than as one total."
+    ],
+    "sources": [
+      [
+        "Boston Dynamics: Atlas power and operating information",
+        "https://bostondynamics.com/products/atlas/"
+      ],
+      [
+        "ROBOTIS: OP3 setup documentation",
+        "https://emanual.robotis.com/docs/en/platform/op3/quick_start/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "An illustrative operating cycle separates work, waiting, charging, inspection and resumed work without numeric duration claims.",
+    "imageCaption": "Log unavailable time by cause to identify useful improvements.",
+    "inlineImage": "assets/journal/battery-runtime-and-uptime-02.svg",
+    "inlineAlt": "A robot route leads to a labeled charging station with clear return and service access.",
+    "inlineCaption": "Include charging and service positions when assessing the operating layout."
+  },
+  {
+    "slug": "building-a-useful-robot-shortlist",
+    "date": "2026-05-25",
+    "category": "Buying guides",
+    "title": "A shortlist should explain the trade-offs.",
+    "excerpt": "Turn a long manufacturer directory into a small set of candidates worth evaluating.",
+    "image": "assets/journal/building-a-useful-robot-shortlist-01.svg",
+    "visual": "DISCOVER / FILTER / VERIFY",
+    "takeaway": "Separate mandatory requirements, useful preferences, and unresolved questions before scoring candidates.",
+    "intro": "A large manufacturer directory is useful for discovery. It becomes a buying tool only when a team can explain why particular platforms remain on the shortlist. That explanation should survive beyond the person who first collected the links, especially when technical and procurement teams evaluate different parts of the decision.",
+    "sections": [
+      [
+        "Use requirements before rankings",
+        "Write down the conditions a platform must satisfy to enter the evaluation. Keep preferences in a separate list. Otherwise, an appealing feature can compensate for a missing requirement in a scoring sheet even though it cannot compensate for it in the real application."
+      ],
+      [
+        "Track the exact model",
+        "A company may offer multiple hardware families or generations. Record the representative model, configuration, and official source for each candidate. Do not mix specifications from one generation with prices or availability statements for another. Manufacturer names alone are not precise enough for a technical comparison."
+      ],
+      [
+        "Treat missing information consistently",
+        "Use a visible “not confirmed” state. Assign an owner to important unanswered questions and establish whether they must be resolved before a trial or before purchase. Avoid guessing values simply to make every row look complete. A clear gap can guide the next supplier conversation."
+      ],
+      [
+        "Keep the comparison small and revisable",
+        "Select a few candidates that represent meaningful trade-offs, such as development access, support, or suitability for the workspace. Revisit the shortlist when evidence changes. The aim is a better decision process, not a permanent leaderboard of companies with different products and commercial stages."
+      ],
+      [
+        "Write requirements that can be answered",
+        "A requirement such as easy to integrate is difficult to verify. Translate it into questions that connect to your team's work: is there a documented example for the intended interface, can the team obtain the required development access, and who supports installation? Likewise, replace suitable for our building with measured route and workstation conditions. A supplier can respond more usefully to a concrete operating brief than to an attractive but undefined adjective.\n\nKeep the first pass short. Five meaningful requirements can be more useful than fifty loosely defined preferences. For each requirement, record the evidence needed to keep a candidate in the evaluation. Some answers may come from a manual; others may need a written supplier response or a trial. This turns the shortlist into a sequence of questions that can actually be resolved."
+      ],
+      [
+        "Compare packages, not isolated specifications",
+        "Imagine two candidate platforms. One includes the development access your team needs but requires additional integration work. The other offers a more complete application but leaves a required interface unconfirmed. A simple score can hide the difference. Write a short configuration narrative for each candidate, explaining what is included, what your team would build, and what depends on the supplier. That narrative makes the trade-off understandable to technical and purchasing colleagues.\n\nUse the same comparison date and scope wherever possible. Record optional equipment separately from the base configuration and retain the original currency of any quote. When a candidate changes configuration, update its narrative and evidence links together. Otherwise, a shortlist can accidentally combine the attractive parts of several different offers into a product that no supplier has actually proposed."
+      ],
+      [
+        "Use a deliberate elimination review",
+        "Before reducing the list, ask a colleague to challenge each proposed exclusion. Was the platform ruled out by a confirmed requirement, a missing answer, or a personal preference? These are different reasons and should remain distinguishable. A candidate with an unanswered question might deserve a supplier conversation; a confirmed mismatch may justify ending the evaluation immediately. Recording the reason avoids repeated research when another team member discovers the same company later.\n\nFor the final few candidates, list the smallest next action that could change the decision. It might be reading a specific manual, obtaining a configuration quote, or testing one representative object. Give that action an owner and a deadline. The shortlist is then an active evaluation tool rather than a static ranking. Its value comes from making the next decision easier and from preserving why the team made its previous choices."
+      ]
+    ],
+    "checklist": [
+      "Separate requirements from preferences.",
+      "Link every record to an exact model.",
+      "Give important unknowns an owner and a deadline."
+    ],
+    "sources": [
+      [
+        "HUMANOID manufacturer directory",
+        "../manufacturers.html"
+      ],
+      [
+        "PAL Robotics: TALOS platform information",
+        "https://pal-robotics.com/robot/talos/"
+      ]
+    ],
+    "imageClass": "original-art",
+    "imageAlt": "A three-stage funnel narrows discovered candidates through requirements checks into trade-off comparison.",
+    "imageCaption": "Apply mandatory requirements before scoring optional features.",
+    "inlineImage": "assets/journal/building-a-useful-robot-shortlist-02.svg",
+    "inlineAlt": "A candidate comparison matrix uses confirmed, follow-up and unknown evidence states rather than invented numeric rankings.",
+    "inlineCaption": "Give important unknowns an owner and resolve them before the relevant commitment."
+  },
+  {
+    "slug": "from-demonstration-to-repeatable-robot-task",
+    "date": "2026-05-11",
+    "category": "Industry perspective",
+    "title": "One impressive run is the start of the experiment.",
+    "excerpt": "How to look at robot demonstrations with curiosity and useful evaluation criteria.",
+    "image": "assets/journal/from-demonstration-to-repeatable-robot-task-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Ask what happened across repeated attempts, including setup, intervention, and recovery.",
+    "intro": "A well-produced robot demonstration can reveal an interesting mechanism or behavior. It is an invitation to investigate, not a complete description of operational performance. The next step is to ask what conditions made the result possible and whether those conditions resemble the application you have in mind.",
+    "sections": [
+      [
+        "Identify what the demonstration actually shows",
+        "Describe the visible action without adding assumptions about how it was controlled. Note the environment, objects, starting positions, and apparent human involvement. If the control method or editing is not explained, keep those points open instead of treating a smooth sequence as evidence of a broader capability."
+      ],
+      [
+        "Ask for repeated attempts",
+        "A repeatable task includes variation. Request a trial that changes object positions or other conditions relevant to your use case. Record both completed attempts and unsuccessful ones. A result becomes more interpretable when the evaluation includes the cases where the system needs help."
+      ],
+      [
+        "Include the time outside the action",
+        "Setup, calibration, reset, and recovery are part of the workflow. A short successful action may depend on preparation that matters in real operation. Ask who performs that work and how often it is required. Those questions help translate a demonstration into an application plan."
+      ],
+      [
+        "Use the evidence for the right decision",
+        "An early demonstration may justify a technical discussion or a small trial. It may not yet justify a fleet rollout. Match the size of the next commitment to the strength of the available evidence. That approach lets a team stay open to promising technology while making its assumptions visible."
+      ],
+      [
+        "Turn the video into a testable statement",
+        "Begin by writing one sentence that describes the visible result: a particular robot moved a particular object between two locations under the shown conditions. Then create a separate list of unanswered questions. These might include whether the starting pose was fixed, whether an operator selected the object, and how often the attempt had been repeated. Keeping observation and interpretation separate helps a team discuss an impressive demonstration without either dismissing it or assigning unsupported capabilities to it.\n\nUse the statement to propose a small follow-up experiment. If the useful question concerns object recognition, vary the object presentation. If it concerns placement, keep the object constant and vary the destination within the intended task area. Changing everything at once makes it harder to understand what a successful or unsuccessful result means. A good follow-up isolates the uncertainty that matters to the project."
+      ],
+      [
+        "Agree on attempt boundaries",
+        "A repeated trial needs an agreed beginning and end. Does an attempt start when an operator places the object, when the robot receives a command, or when the robot begins searching? Does it end at release, at verification, or after the scene is ready for the next task? Write those boundaries down. They determine whether setup and recovery are included in the result and make comparisons between sessions more meaningful.\n\nGive every attempt a row in the record. Include abandoned attempts and cases where a person intervenes before motion begins. If an observation cannot be classified, preserve a short note rather than forcing it into the nearest success category. A transparent small dataset is easier to learn from than a larger collection whose definitions change whenever the system encounters an awkward case."
+      ],
+      [
+        "Preserve the ordinary runs",
+        "Keep a representative selection of complete runs alongside the highlight clip. A routine success shows what the normal process looks like. A recoverable miss shows the work needed to resume. An unresolved attempt shows the current boundary of the application. Together, these examples help colleagues interpret the outcome table and identify which part of the workflow deserves attention next. They also make supplier discussions more specific.\n\nEnd the evaluation with a proportional next step. A promising first demonstration may justify access to documentation or a controlled trial. A repeated task with recorded interventions may justify a more realistic pilot. Each stage should answer a new question before the project expands. This approach gives new technology room to prove useful while keeping commitments tied to evidence. It also makes progress visible when the improvement is better recovery or clearer setup rather than a more spectacular action."
+      ]
+    ],
+    "checklist": [
+      "Describe only what is demonstrated.",
+      "Ask about control method and preparation.",
+      "Record repeated outcomes and recovery work."
+    ],
+    "sources": [
+      [
+        "Toyota: humanoid robotics research",
+        "https://www.toyota-europe.com/innovation/mobility-solutions/robotics"
+      ],
+      [
+        "Pollen Robotics: research and teleoperation resources",
+        "https://docs.pollen-robotics.com/"
+      ]
+    ],
+    "imageAlt": "Six explicitly illustrative attempts include completions, a miss and an assisted outcome rather than only highlights.",
+    "imageCaption": "Repeated trials reveal information that a single edited success cannot provide.",
+    "inlineImage": "assets/journal/from-demonstration-to-repeatable-robot-task-02.svg",
+    "inlineAlt": "A central visible-action frame is surrounded by before-stage setup and calibration and after-stage reset and recovery.",
+    "inlineCaption": "Ask who performs the work before and after the filmed action."
+  },
+  {
+    "slug": "what-belongs-in-a-humanoid-marketplace",
+    "date": "2026-04-28",
+    "category": "Industry perspective",
+    "title": "A better robotics marketplace starts with clearer information.",
+    "excerpt": "Robots, components, kits, and the context that makes them useful to compare.",
+    "image": "assets/journal/what-belongs-in-a-humanoid-marketplace-01.svg",
+    "imageClass": "original-art",
+    "takeaway": "Useful discovery connects an identifiable product to a clear commercial path and an accountable source.",
+    "intro": "A robotics marketplace has to explain more than product names and prices. Some listings lead to a store, others to a research platform or an enterprise conversation. The value is in making those differences understandable so that engineers, buyers, and curious builders can take an appropriate next step.",
+    "sections": [
+      [
+        "Keep different hardware categories visible",
+        "A complete robot, a component, and a development kit answer different needs. Organize them so visitors can discover the right category without assuming that everything is a ready-to-deploy solution. A useful component listing also explains that compatibility depends on the surrounding system."
+      ],
+      [
+        "Describe the commercial path",
+        "Distinguish a published price from a quote request, a reservation, or a technology showcase. A deposit is not the full cost of a robot. A future delivery plan is not current stock. These distinctions make a catalog more useful without requiring it to invent certainty where the seller has not provided it."
+      ],
+      [
+        "Make the source easy to inspect",
+        "Link to the manufacturer’s exact product or documentation page where possible. Record the configuration and the date on which information was reviewed. Give unknown values a clear label. Visitors should be able to understand the basis for a claim without searching through a generic company homepage."
+      ],
+      [
+        "Support the next conversation",
+        "A good discovery experience helps someone arrive at a manufacturer with better questions. It can support a shortlist, a configuration discussion, or a development plan. That is a meaningful first step even when procurement, integration, and deployment still happen through a more detailed business process."
+      ],
+      [
+        "Design a listing around a buyer's questions",
+        "A useful listing begins with an identifiable product and the role it plays in a system. For a complete robot, that might mean a research platform or an application offered through a sales conversation. For a component, it might mean an actuator, sensor, hand, or controller. For a kit, explain whether the package is intended for assembly, software development, or experimentation with a particular subsystem. The category should help visitors understand what they would actually receive.\n\nAdd a compact configuration note where the product name alone is ambiguous. An interface variant or optional hand can materially change a technical evaluation. Link the claim to the relevant official page and show when it was reviewed. These details make a marketplace more useful as a discovery tool even when the final purchase happens directly with the supplier."
+      ],
+      [
+        "Give compatibility its own evidence",
+        "A component appearing beside a robot in a catalog does not establish that they work together. A useful compatibility record would identify the robot model, component variant, required adapter or controller, and the source supporting that combination. Where those details have not been confirmed, say that integration needs evaluation. This gives visitors a practical question to take to the manufacturer rather than an assumption that may fail after purchase.\n\nConsider a development controller listed near a dexterous hand. Both may be relevant to robotics research, but the connection depends on interfaces, power arrangements, software support, and the intended control approach. The marketplace can help by making those information fields visible. It should not imply a tested bundle merely because two products share a category, a communication term, or a visually similar connector."
+      ],
+      [
+        "Make maintenance part of catalog quality",
+        "Product information needs an update process. Keep a source review date, preserve the exact model designation, and record when an official link no longer resolves to the expected product. A changed link should trigger a review rather than an automatic rewrite based on a search result. If a manufacturer introduces a new generation, create a clear distinction instead of silently replacing the specifications attached to an older listing.\n\nA useful review queue can prioritize records with published prices, time-sensitive availability language, or broken source links. Visitors should also have a straightforward way to report an unclear listing. Over time, these small maintenance habits matter as much as the size of the directory. A catalog with fewer well-explained records can support better decisions than a much larger collection that obscures variants, commercial states, and the age of its evidence. Growth should improve the visitor's next conversation as well as increase the number of cards on the page."
+      ]
+    ],
+    "checklist": [
+      "Separate product categories and commercial states.",
+      "Connect claims to model-specific sources.",
+      "Help visitors identify their next useful question."
+    ],
+    "sources": [
+      [
+        "Unitree: official humanoid collection",
+        "https://shop.unitree.com/collections/humanoid-robot"
+      ],
+      [
+        "ROBOTIS: educational kit range",
+        "https://robotis.us/collections/bioloid-1"
+      ]
+    ],
+    "imageAlt": "Three distinct category panels illustrate a robot, a component shaft and separate kit modules.",
+    "imageCaption": "Category clarity helps visitors find a product suited to their purpose.",
+    "inlineImage": "assets/journal/what-belongs-in-a-humanoid-marketplace-02.svg",
+    "inlineAlt": "A product listing anatomy panel lists exact configuration, category, commercial status, dated source and compatibility questions leading to a supplier conversation.",
+    "inlineCaption": "Discovery becomes useful when visitors can inspect the source and understand the next step."
+  }
+]

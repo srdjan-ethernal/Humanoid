@@ -39,3 +39,6 @@ Journal articles were prepared on October 24, 2026. Displayed April–October da
 Manufacturer photos and trademarks belong to their respective owners. Source URLs are recorded in the asset manifest. No license to redistribute third-party imagery is implied by this repository.
 
 Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 49 components, 15 kits and development platforms. New sources reviewed 2026-10-25.
+
+Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words, with two original SVG editorial illustrations per article. Rebuild with node scripts/build-blog.cjs from content/blog-posts.json. Illustration provenance is recorded in dist/assets/journal/manifest.json.
+
