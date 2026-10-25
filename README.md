@@ -46,3 +46,12 @@ Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words
 
 Premium imagery: 30 unique built-in imagegen assets, 1672 x 941 source resolution, optimized WebP delivery. Captions distinguish fictional concept scenes from manufacturer photography. Images within stories support click / keyboard enlargement.
 
+
+## Languages
+
+The site supports English, Serbian (Latin), German, French, Spanish, Italian, Simplified Chinese, and Japanese. Full text dictionaries are shipped in dist/locales; English remains the source content. Serbian editorial corrections are retained in content/sr-editorial-overrides.json. Brand names and model identifiers remain original.
+
+On a first visit, country-level IP lookup through https://api.country.is/ selects a supported language. Unmapped countries, failed lookups and unavailable dictionaries fall back to English. No GPS prompt is used. Country detection is cached for 24 hours; an explicit language choice persists and takes priority. Choose Automatic to return to location-based selection. No live translation service is required for page content.
+
+Run node scripts/check-i18n.cjs to verify country mapping, fallback, manual preference, caching and dictionary coverage.
+
