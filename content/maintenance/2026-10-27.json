@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-27",
+  "article": "camera-to-hand-calibration-for-humanoid-robots",
+  "words": 967,
+  "addedProducts": [
+    "orbbec-gemini-435le"
+  ],
+  "newLinks": [
+    "https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html",
+    "https://github.com/ros2/geometry2",
+    "https://www.orbbec.com/gemini-435le/",
+    "https://store.orbbec.com/products/gemini-435le"
+  ],
+  "note": "New catalog discovery, not a claim that this product launched today. No existing link removed based on transient HTTP failures.",
+  "improvedSourceLinks": [
+    {
+      "previous": "https://www.magiclab.top/en",
+      "current": "https://www.magiclab.top/",
+      "reason": "Verified current official source; original retained in provenance."
+    },
+    {
+      "previous": "https://www.deeprobotics.cn/en/index/dr02.html",
+      "current": "https://developer.deeprobotics.cn/docs/dr02/",
+      "reason": "Verified current official source; original retained in provenance."
+    },
+    {
+      "previous": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "current": "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
+      "reason": "Verified current official source; original retained in provenance."
+    }
+  ],
+  "validation": {
+    "i18n": "passed",
+    "articleWords": 967,
+    "images": "two originals inspected; files and references verified",
+    "responsiveBrowserQA": "unverified: browser webview attachment timed out; no alternate browser infrastructure substituted",
+    "linkAudit": {
+      "checked": 216,
+      "initiallyReachable": 192,
+      "initiallyUnconfirmed": 24,
+      "officialSourceImprovements": 3
+    },
+    "notes": "No claims of universal compatibility; no link removed solely due to blocking or transient errors."
+  }
+}

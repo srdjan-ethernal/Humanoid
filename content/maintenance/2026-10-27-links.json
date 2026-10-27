@@ -1,0 +1,1545 @@
+{
+  "date": "2026-10-27",
+  "total": 216,
+  "reachable": 192,
+  "unconfirmed": 24,
+  "policy": "Failures may reflect blocking, throttling or network conditions. No removal or rewrite based on a single failed request.",
+  "results": [
+    {
+      "url": "https://addverb.com/us/press-release/10-years-of-addverb-us-expansion-humanoid-robotics/",
+      "status": 200,
+      "finalUrl": "https://addverb.com/us/press-release/10-years-of-addverb-us-expansion-humanoid-robotics/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://agibot.com/products/X2",
+      "status": 500,
+      "finalUrl": "https://agibot.com/products/X2",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 500,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://akribis-sys.de/uploads/files/website/Motors_and_Stages_for_OEMs_EN-23.8.1.pdf",
+      "status": 200,
+      "finalUrl": "https://www.akribis-sys.com/de/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://allegrohand.com/",
+      "status": 200,
+      "finalUrl": "https://allegrohand.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://allient.com/humanoid-robot-motors-and-motion-solutions/",
+      "status": 200,
+      "finalUrl": "https://allient.com/humanoid-robot-motors-and-motion-solutions/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://ams-osram.com/news/press-releases/new-high-resolution-dtof",
+      "status": 200,
+      "finalUrl": "https://ams-osram.com/news/press-releases/new-high-resolution-dtof",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://apptronik.com/apollo/apollo-2",
+      "status": 200,
+      "finalUrl": "https://apptronik.com/apollo/apollo-2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://asimovrobotics.com/products.php?id=33",
+      "status": 200,
+      "finalUrl": "https://asimovrobotics.com/products.php?id=33",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://beta.lumosbot.tech/about/",
+      "status": 200,
+      "finalUrl": "https://beta.lumosbot.tech/about/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://bostondynamics.com/products/atlas/",
+      "status": 200,
+      "finalUrl": "https://bostondynamics.com/products/atlas/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://casbot.tech/about",
+      "status": 200,
+      "finalUrl": "https://casbot.tech/about",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://category.yahboom.net/products/dofbot-se",
+      "status": 200,
+      "finalUrl": "https://www.yahboom.store/products/dofbot-se",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://cherymotor.com.au/about-us/chery-robots",
+      "status": 200,
+      "finalUrl": "https://cherymotor.com.au/about-us/chery-robots",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://contactile.com/products/",
+      "status": 200,
+      "finalUrl": "https://contactile.com/products/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://corp.wirobotics.com/en/product/allex",
+      "status": 200,
+      "finalUrl": "https://corp.wirobotics.com/en/product/allex",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://dataai.dataarobotics.com/en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TypeError",
+      "checked": "2026-10-27",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://docs.ai2robotics.com/en/alphabot2/hardware/architecture/",
+      "status": 200,
+      "finalUrl": "https://docs.ai2robotics.com/en/alphabot2/hardware/architecture/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.arduino.cc/hardware/alvik",
+      "status": 200,
+      "finalUrl": "https://docs.arduino.cc/hardware/alvik",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.booster.tech/docs/product-manual/t1/getting-started/overview/",
+      "status": 200,
+      "finalUrl": "https://docs.booster.tech/docs/product-manual/t1/getting-started/overview/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.hebi.us/hardware.html",
+      "status": 200,
+      "finalUrl": "https://docs.hebi.us/hardware.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.luxonis.com/hardware/products/OAK-D%20Pro",
+      "status": 200,
+      "finalUrl": "https://docs.luxonis.com/hardware/products/OAK-D%20Pro",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html",
+      "status": 200,
+      "finalUrl": "https://docs.opencv.org/4.13.0/d9/d0c/group__calib3d.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.pollen-robotics.com/",
+      "status": 200,
+      "finalUrl": "https://docs.pollen-robotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://docs.prophesee.ai/stable/hw/evk/evk4.html",
+      "status": 200,
+      "finalUrl": "https://docs.prophesee.ai/stable/hw/evk/evk4.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/",
+      "status": 200,
+      "finalUrl": "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+      "status": 200,
+      "finalUrl": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/platform/op3/quick_start/",
+      "status": 200,
+      "finalUrl": "https://emanual.robotis.com/docs/en/platform/op3/quick_start/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.dexforce.com/",
+      "status": 200,
+      "finalUrl": "https://en.dexforce.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf",
+      "status": 403,
+      "finalUrl": "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.engineai.com.cn/",
+      "status": 200,
+      "finalUrl": "https://en.engineai.com.cn/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.eyoubot.com/",
+      "status": 200,
+      "finalUrl": "https://eyoubot.com/en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.ids-imaging.com/ueye-industrial-cameras.html",
+      "status": 403,
+      "finalUrl": "https://en.ids-imaging.com/ueye-industrial-cameras.html",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://en.inspire-robots.com/product/rh56dfx/",
+      "status": 200,
+      "finalUrl": "https://en.inspire-robots.com/product/rh56dfx/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://enchanted.tools/",
+      "status": 200,
+      "finalUrl": "https://enchanted.tools/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://engineeredarts.com/uk/robots/ameca",
+      "status": 200,
+      "finalUrl": "https://engineeredarts.com/uk/robots/ameca",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://faunarobotics.com/news",
+      "status": 200,
+      "finalUrl": "https://faunarobotics.com/news",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://flexiv.com/news/Flexiv%20to%20Unveil%20Next-Generation%20Adaptive%20Robots%20at%20Automate%202026",
+      "status": 200,
+      "finalUrl": "https://flexiv.com/news/Flexiv%20to%20Unveil%20Next-Generation%20Adaptive%20Robots%20at%20Automate%202026",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://foundation.bot/",
+      "status": 200,
+      "finalUrl": "https://foundation.bot/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://galaxea-dynamics.com/",
+      "status": 200,
+      "finalUrl": "https://galaxea-dynamics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://galbot.com/g1/",
+      "status": 200,
+      "finalUrl": "https://galbot.com/g1/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://gbionics.ai/gene01/",
+      "status": 403,
+      "finalUrl": "https://gbionics.ai/gene01/",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://github.com/ros2/geometry2",
+      "status": 200,
+      "finalUrl": "https://github.com/ros2/geometry2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver",
+      "status": 200,
+      "finalUrl": "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://global.kawasaki.com/en/corp/profile/division/robot/history.html",
+      "status": 200,
+      "finalUrl": "https://global.kawasaki.com/en/corp/profile/division/robot/history.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://info.renishaw.com/Encoders-Robotics",
+      "status": 200,
+      "finalUrl": "https://info.renishaw.com/Encoders-Robotics",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://kokoro-dreams.co.jp/rt_tokutyu/actroid/",
+      "status": 200,
+      "finalUrl": "https://kokoro-dreams.co.jp/rt_tokutyu/actroid/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://kondo-robot.com/faq/khr-3hv_downloadset_v7",
+      "status": 403,
+      "finalUrl": "https://kondo-robot.com/faq/khr-3hv_downloadset_v7",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://microstrain.com/sites/default/files/GX5%20AR.pdf",
+      "status": 403,
+      "finalUrl": "https://www.hbkworld.com/microstrain",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://mujoco.readthedocs.io/en/stable/overview.html",
+      "status": 200,
+      "finalUrl": "https://mujoco.readthedocs.io/en/stable/overview.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://neura-robotics.com/products/4ne1/",
+      "status": 200,
+      "finalUrl": "https://neura-robotics.com/products/4ne1/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://new.c.mi.com/global/post/103648",
+      "status": 200,
+      "finalUrl": "https://new.c.mi.com/global/post/103648",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://novanta.com/robotics-automation/product/everest/",
+      "status": 200,
+      "finalUrl": "https://novanta.com/robotics-automation/product/everest/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://onrobot.com/en/products/rg2-finger-gripper",
+      "status": 200,
+      "finalUrl": "https://onrobot.com/en/products/rg2-finger-gripper",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://ouster.com/products/hardware/os0",
+      "status": 200,
+      "finalUrl": "https://ouster.com/products/hardware/os0",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://pal-robotics.com/datasheet/talos/",
+      "status": 200,
+      "finalUrl": "https://pal-robotics.com/wp-content/uploads/2025/09/TALOS-DataSheet-1.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://pal-robotics.com/robot/talos/",
+      "status": 200,
+      "finalUrl": "https://pal-robotics.com/robot/talos/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://pib.rocks/build/",
+      "status": 200,
+      "finalUrl": "https://pib.rocks/build/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://pndbotics.com/",
+      "status": 200,
+      "finalUrl": "https://pndbotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://press.igus.com/2025/04/29/iggy-rob-humanoid/",
+      "status": 200,
+      "finalUrl": "https://press.igus.com/2025/04/29/iggy-rob-humanoid/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://pressureprofile.com/sensors",
+      "status": 200,
+      "finalUrl": "https://pressureprofile.com/sensors",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://qbrobotics.com/product/qb-softhand-industry/",
+      "status": 200,
+      "finalUrl": "https://qbrobotics.com/product/qb-softhand-industry/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://rainbowrobotics1.cafe24.com/hubo2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TypeError",
+      "checked": "2026-10-27",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://robosen.com/us/k1-pro-interstellar-scout",
+      "status": 200,
+      "finalUrl": "https://www.robosen.com/us/k1-pro-interstellar-scout",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robosense-robotics.github.io/product-manual/E1/",
+      "status": 200,
+      "finalUrl": "https://robosense-robotics.github.io/product-manual/E1/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robotical.io/shop/",
+      "status": 200,
+      "finalUrl": "https://robotical.io/shop/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robotics.hexagon.com/product/",
+      "status": 200,
+      "finalUrl": "https://robotics.hexagon.com/product/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robotiq.com/physical-ai-grippers",
+      "status": 200,
+      "finalUrl": "https://robotiq.com/physical-ai-grippers",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robotis.us/collections/bioloid-1",
+      "status": 200,
+      "finalUrl": "https://robotis.us/collections/bioloid-1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://robotis.us/collections/xm",
+      "status": 200,
+      "finalUrl": "https://robotis.us/collections/xm",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/",
+      "status": 200,
+      "finalUrl": "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://shadowrobot.com/dexterous-hand-series/",
+      "status": 200,
+      "finalUrl": "https://shadowrobot.com/dexterous-hand-series/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://shop.botasys.com/product-portfolio",
+      "status": 200,
+      "finalUrl": "https://shop.botasys.com/product-portfolio",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://shop.unitree.com/collections/humanoid-robot",
+      "status": 200,
+      "finalUrl": "https://shop.unitree.com/collections/humanoid-robot",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://shop.unitree.com/products/unitree-g1",
+      "status": 200,
+      "finalUrl": "https://shop.unitree.com/products/unitree-g1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://shop.unitree.com/products/unitree-r1",
+      "status": 200,
+      "finalUrl": "https://shop.unitree.com/products/unitree-r1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://store.freenove.com/collections/robot-kits",
+      "status": 200,
+      "finalUrl": "https://store.freenove.com/collections/robot-kits",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://store.orbbec.com/products/gemini-435le",
+      "status": 200,
+      "finalUrl": "https://store.orbbec.com/products/gemini-435le",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://store.trossenrobotics.com/products/stationary-ai-base-model-1",
+      "status": 200,
+      "finalUrl": "https://store.trossenrobotics.com/products/stationary-ai-base-model-1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://support.fftai.com/en/gr3/getting-started/general-information",
+      "status": 200,
+      "finalUrl": "https://support.fftai.com/en/gr3/getting-started/general-information",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://us.softbankrobotics.com/pepper",
+      "status": 200,
+      "finalUrl": "https://us.softbankrobotics.com/pepper",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://vinmotion.net/",
+      "status": 200,
+      "finalUrl": "https://vinmotion.net/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://wlrobo.com/module2",
+      "status": 200,
+      "finalUrl": "https://wlrobo.com/module2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.1x.tech/order",
+      "status": 200,
+      "finalUrl": "https://www.1x.tech/order",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.advancednavigation.com/press-kit/",
+      "status": 200,
+      "finalUrl": "https://www.advancednavigation.com/press-kit/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.aeolusbot.com/",
+      "status": 200,
+      "finalUrl": "https://www.aeolusbot.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.agilityrobotics.com/",
+      "status": 200,
+      "finalUrl": "https://www.agilityrobotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.aheadform.com/zh/home",
+      "status": 200,
+      "finalUrl": "https://www.aheadform.com/zh/home",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.alvaindustries.com/slimtorq-motors",
+      "status": 200,
+      "finalUrl": "https://www.alvaindustries.com/slimtorq-motors",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.analog.com/en/products/adis16470.html",
+      "status": 403,
+      "finalUrl": "https://www.analog.com/en/products/adis16470.html",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.astribot.com/index.html",
+      "status": 200,
+      "finalUrl": "https://www.astribot.com/index.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.baslerweb.com/en/cameras/dart/",
+      "status": 406,
+      "finalUrl": "https://www.baslerweb.com/en/cameras/dart/",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088",
+      "status": 200,
+      "finalUrl": "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.brainco.cn/en-US/products/brain-robotics",
+      "status": 200,
+      "finalUrl": "https://www.brainco.tech/en-US/products/bionic-hand",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.broadcom.com/products/motion-control-encoders/absolute-encoders",
+      "status": 200,
+      "finalUrl": "https://www.broadcom.com/products/motion-control-encoders/absolute-encoders",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.clonerobotics.com/pre-order/",
+      "status": 200,
+      "finalUrl": "https://www.clonerobotics.com/pre-order/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.codroid.ai/en/",
+      "status": 200,
+      "finalUrl": "https://www.codroid.ai/en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.cubemars.com/categorys/robotic-actuator",
+      "status": 200,
+      "finalUrl": "https://www.cubemars.com/categorys/robotic-actuator",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.deeprobotics.cn/en/index/dr02.html",
+      "status": 404,
+      "finalUrl": "https://www.deeprobotics.cn/en/index/dr02.html",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 404,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.dfrobot.com/product-2026.html",
+      "status": 200,
+      "finalUrl": "https://www.dfrobot.com/product-2026.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.digit.com.cn/",
+      "status": 200,
+      "finalUrl": "https://www.digit.com.cn/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.diligentrobots.com/blog",
+      "status": 200,
+      "finalUrl": "https://www.diligentrobots.com/blog",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.dobot-robots.com/products/humanoid-robots/atom.html",
+      "status": 200,
+      "finalUrl": "https://www.dobot-robots.com/products/humanoid-robots/atom.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.droidup.com/about",
+      "status": 200,
+      "finalUrl": "https://www.droidup.com/about",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.dunkermotoren.com/en/products/interfaces",
+      "status": 403,
+      "finalUrl": "https://www.dunkermotoren.com/en/products/interfaces",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.elephantrobotics.com/en/mercury-x1-en/",
+      "status": 200,
+      "finalUrl": "https://www.elephantrobotics.com/en/mercury-x1-en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.elmomc.com/applications/powerful-servo-drives-implemented-in-humanoid-robot/",
+      "status": 200,
+      "finalUrl": "https://www.elmomc.com/applications/powerful-servo-drives-implemented-in-humanoid-robot/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+      "status": 200,
+      "finalUrl": "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.figure.ai/figure",
+      "status": 200,
+      "finalUrl": "https://www.figure.ai/figure",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.furhatrobotics.com/furhat-robot",
+      "status": 200,
+      "finalUrl": "https://www.furhatrobotics.com/furhat-robot",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.gagc.com.cn/en/news/detail?baseid=18970",
+      "status": 200,
+      "finalUrl": "https://www.gacgroup.com/en/news/detail?baseid=18970",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.gelsight.com/tactile-sensing-technology/",
+      "status": 200,
+      "finalUrl": "https://www.gelsight.com/tactile-sensing-technology/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.gotokepler.com/productDetailK2?id=2",
+      "status": 200,
+      "finalUrl": "https://www.gotokepler.com/productDetailK2?id=2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.hansonrobotics.com/sophia-utility",
+      "status": 200,
+      "finalUrl": "https://www.hansonrobotics.com/sophia-utility",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "status": 200,
+      "finalUrl": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.heidenhain.com/industries/robotics",
+      "status": 200,
+      "finalUrl": "https://www.heidenhain.com/industries/robotics",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.heidenhain.com/products/encoders/rotary-encoders/internal/kci-120-dplus",
+      "status": 200,
+      "finalUrl": "https://www.heidenhain.com/products/encoders/rotary-encoders/internal/kci-120-dplus",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.hesaitech.com/product/jt128/",
+      "status": 200,
+      "finalUrl": "https://www.hesaitech.com/product/jt128/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.hiwin.tw/news_content.aspx?newsID=25598",
+      "status": 200,
+      "finalUrl": "https://www.hiwin.tw/news_content.aspx?newsID=25598",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.hiwonder.com/products/tonypi",
+      "status": 200,
+      "finalUrl": "https://www.hiwonder.com/products/tonypi",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v",
+      "status": 200,
+      "finalUrl": "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.kawadarobot.co.jp/en/nextage/",
+      "status": 200,
+      "finalUrl": "https://www.kawadarobot.co.jp/en/nextage/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.keenon.com/en/product/XMAN-R1",
+      "status": 200,
+      "finalUrl": "https://www.keenon.com/en/product/XMAN-R1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.keyence.com/products/measure/laser-2d/lj-x8000/models",
+      "status": 200,
+      "finalUrl": "https://www.keyence.com/products/measure/laser-2d/lj-x8000/models",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.knowinai.com/en/product.html",
+      "status": 200,
+      "finalUrl": "https://www.knowinai.com/en/product.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots",
+      "status": 403,
+      "finalUrl": "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.laifual.com/fsn/",
+      "status": 200,
+      "finalUrl": "https://www.laifual.com/fsn/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.laifual.com/product/harmonic-reducer/",
+      "status": 200,
+      "finalUrl": "https://www.laifual.com/product/harmonic-reducer/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.leaderdrive.com/app/8.html",
+      "status": 200,
+      "finalUrl": "https://www.leaderdrive.com/app/8.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.lejurobot.com/en",
+      "status": 200,
+      "finalUrl": "https://www.lejurobot.com/en",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200",
+      "status": 200,
+      "finalUrl": "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.lgcorp.com/media/release/29751",
+      "status": 200,
+      "finalUrl": "https://www.lgcorp.com/media/release/29751",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.limxdynamics.com/en",
+      "status": 200,
+      "finalUrl": "https://www.limxdynamics.com/en",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.linkerbot.cn/",
+      "status": 200,
+      "finalUrl": "https://www.linkerbot.cn/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.livoxtech.com/support/mid-360",
+      "status": 200,
+      "finalUrl": "https://www.livoxtech.com/support/mid-360",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.maccorobotics.com/",
+      "status": 200,
+      "finalUrl": "https://www.maccorobotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.magiclab.top/en",
+      "status": 404,
+      "finalUrl": "https://www.magiclab.top/en/en",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 404,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.makeblock.com/products/buy-mbot2",
+      "status": 200,
+      "finalUrl": "https://www.makeblock.com/products/buy-mbot2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "status": 200,
+      "finalUrl": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.memsic.com/about",
+      "status": 200,
+      "finalUrl": "https://www.memsic.com/about",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.minebeamitsumi.com/english/news/press/2025/1210639_20344.html",
+      "status": 200,
+      "finalUrl": "https://www.minebeamitsumi.com/english/news/press/2025/1210639_20344.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.mitraai.com/",
+      "status": 200,
+      "finalUrl": "https://www.mitraai.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.mobileye.com/products/mentee/",
+      "status": 200,
+      "finalUrl": "https://www.mobileye.com/products/mentee/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf",
+      "status": 404,
+      "finalUrl": "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 404,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.myactuator.com/rmd-x-planetarymotor",
+      "status": 200,
+      "finalUrl": "https://www.myactuator.com/rmd-x-planetarymotor",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.nabtesco.com/en/news/20251202-17329/",
+      "status": 200,
+      "finalUrl": "https://www.nabtesco.com/en/news/20251202-17329/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf",
+      "status": 200,
+      "finalUrl": "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.nidec.com/en/value/technology/physical-ai/",
+      "status": 200,
+      "finalUrl": "https://www.nidec.com/en/value/technology/physical-ai/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.noetixrobotics.com/en/source/",
+      "status": 200,
+      "finalUrl": "https://www.noetixrobotics.com/en/source/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.nsk.com/content/dam/nsk/common/virtualexpo/robot/pdf/2_linear_e.pdf",
+      "status": 200,
+      "finalUrl": "https://www.nsk.com/content/dam/nsk/common/virtualexpo/robot/pdf/2_linear_e.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "status": 200,
+      "finalUrl": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.onerobot.com/solution",
+      "status": 200,
+      "finalUrl": "https://www.onerobot.com/solution",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.openloong.net/",
+      "status": 200,
+      "finalUrl": "https://www.openloong.net/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.orbbec.com/gemini-435le/",
+      "status": 200,
+      "finalUrl": "https://www.orbbec.com/gemini-435le/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/",
+      "status": 200,
+      "finalUrl": "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.orientalmotor.eu/uk/download/catalog",
+      "status": 403,
+      "finalUrl": "https://www.orientalmotor.eu/uk/download/catalog",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.oversonicrobotics.com/?lang=en",
+      "status": 200,
+      "finalUrl": "https://www.oversonicrobotics.com/?lang=en",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.paxini.com/en/",
+      "status": 200,
+      "finalUrl": "https://www.paxini.com/en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.pepperl-fuchs.com/de/landingpage/industrial-sensors/r2000-series-gp27391",
+      "status": 403,
+      "finalUrl": "https://www.pepperl-fuchs.com/de/landingpage/industrial-sensors/r2000-series-gp27391",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.piab.com/en-us/news/unique-vacuum-based-soft-gripper-for-handling-sensitive-and-delicate-objects",
+      "status": 200,
+      "finalUrl": "https://www.piab.com/en-us/news/unique-vacuum-based-soft-gripper-for-handling-sensitive-and-delicate-objects",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.posital.com/en/products/kit-encoders",
+      "status": 200,
+      "finalUrl": "https://www.posital.com/en/products/kit-encoders",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.posital.com/en/products/kit-encoders/KTD-BC00B-1617-LE4A-BAQ/3433212",
+      "status": 200,
+      "finalUrl": "https://www.posital.com/en/products/kit-encoders/KTD-BC00B-1617-LE4A-BAQ/3433212",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf",
+      "status": 200,
+      "finalUrl": "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.psyonic.io/",
+      "status": 200,
+      "finalUrl": "https://www.psyonic.io/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.pudurobotics.com/en/products/d9",
+      "status": 200,
+      "finalUrl": "https://www.pudurobotics.com/en/products/d9",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.raspberrypi.com/products/ai-hat/",
+      "status": 403,
+      "finalUrl": "https://www.raspberrypi.com/products/ai-hat/",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.realbotix.com/",
+      "status": 200,
+      "finalUrl": "https://www.realbotix.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/",
+      "status": 200,
+      "finalUrl": "https://www.realsenseai.com/product-family/450-series/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.reflexrobotics.com/",
+      "status": 200,
+      "finalUrl": "https://www.reflexrobotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "status": 404,
+      "finalUrl": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.richtechrobotics.com/adam",
+      "status": 200,
+      "finalUrl": "https://richtechrobotics.com/solutions/adam",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.robbyant.com/",
+      "status": 200,
+      "finalUrl": "https://www.robbyant.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.roborn.com/?page_id=961",
+      "status": 200,
+      "finalUrl": "https://www.roborn.com/?page_id=961",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.robotera.com/en/",
+      "status": 200,
+      "finalUrl": "https://www.robotera.com/en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.robstride.com/products/robStride04",
+      "status": 200,
+      "finalUrl": "https://www.robstride.com/products/robStride04",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sbg-systems.com/pulse-series/",
+      "status": 200,
+      "finalUrl": "https://www.sbg-systems.com/pulse-series/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/",
+      "status": 200,
+      "finalUrl": "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.schmalz.com/en-pl/products/automation-743270/vacuum-grippers-746238/gripping-systems-and-end-of-arm-tooling-eoat-746240/area-gripping-systems-fqe-312036",
+      "status": 200,
+      "finalUrl": "https://www.schmalz.com/en-pl/products/automation-743270/vacuum-grippers-746238/gripping-systems-and-end-of-arm-tooling-eoat-746240/area-gripping-systems-fqe-312036",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.seedrobotics.com/rh8d-adult-robot-hand",
+      "status": 200,
+      "finalUrl": "https://www.seedrobotics.com/rh8d-adult-robot-hand",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html",
+      "status": 403,
+      "finalUrl": "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056",
+      "status": 200,
+      "finalUrl": "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sony-semicon.com/en/products/is/industry/",
+      "status": 200,
+      "finalUrl": "https://www.sony-semicon.com/en/products/is/industry/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html",
+      "status": 200,
+      "finalUrl": "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html",
+      "status": 200,
+      "finalUrl": "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.stereolabs.com/products/zed-x",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sunday.ai/",
+      "status": 200,
+      "finalUrl": "https://www.sunday.ai/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.sunfounder.com/products/picrawler-robot-kit",
+      "status": 200,
+      "finalUrl": "https://www.sunfounder.com/products/picrawler-robot-kit",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.synapticon.com/en/products/actilink-jd",
+      "status": 200,
+      "finalUrl": "https://www.synapticon.com/en/products/actilink-jd",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.t-robotics.net/products/list.php?category=works",
+      "status": 200,
+      "finalUrl": "https://www.t-robotics.net/products/list.php?category=works",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.tecnotion.com/products/",
+      "status": 200,
+      "finalUrl": "https://www.tecnotion.com/products/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0",
+      "status": 200,
+      "finalUrl": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.tesla.com/AI",
+      "status": 403,
+      "finalUrl": "https://www.tesla.com/AI",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026",
+      "status": 200,
+      "finalUrl": "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.thk.com/jp/en/journal/products/article-02072025-1.html",
+      "status": 200,
+      "finalUrl": "https://www.thk.com/jp/en/journal/products/article-02072025-1.html",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.tmsuk.co.jp/en/",
+      "status": 200,
+      "finalUrl": "https://www.tmsuk.co.jp/en/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.topstarmachine.com/about-us/",
+      "status": 200,
+      "finalUrl": "https://www.topstarmachine.com/about-us/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.touchlab.io/",
+      "status": 200,
+      "finalUrl": "https://www.touchlab.io/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.toyota-europe.com/innovation/mobility-solutions/robotics",
+      "status": 200,
+      "finalUrl": "https://www.toyota-europe.com/innovation/mobility-solutions/robotics",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.tq-group.com/en/products/tq-robodrive/",
+      "status": 200,
+      "finalUrl": "https://www.tq-group.com/en/products/tq-robodrive/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.trossenrobotics.com/stationary-ai",
+      "status": 200,
+      "finalUrl": "https://www.trossenrobotics.com/stationary-ai",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.ubtrobot.com/en/humanoid/products/walker-s1",
+      "status": 200,
+      "finalUrl": "https://www.ubtrobot.com/en/humanoid/products/walker-s1",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.unixai.net/",
+      "status": 200,
+      "finalUrl": "https://www.unixai.net/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf",
+      "status": 200,
+      "finalUrl": "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.vstone.co.jp/products/sota/",
+      "status": 200,
+      "finalUrl": "https://www.vstone.co.jp/products/sota/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.wandercraft.eu/articles/wandercraft-secures-12-calvin-40-customers-as-it-accelerates-commercial-dominance-in-industrial-humanoids",
+      "status": 200,
+      "finalUrl": "https://www.wandercraft.eu/articles/wandercraft-secures-12-calvin-40-customers-as-it-accelerates-commercial-dominance-in-industrial-humanoids",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.waveshare.com/product/ai/robots/roarm-m3.htm",
+      "status": 200,
+      "finalUrl": "https://www.waveshare.com/product/ai/robots/roarm-m3.htm",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.weaverobotics.com/",
+      "status": 200,
+      "finalUrl": "https://www.weaverobotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.weiss-robotics.com/en/servo-electric/wsg-series/",
+      "status": 200,
+      "finalUrl": "https://www.weiss-robotics.com/en/servo-electric/wsg-series/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.westwoodrobotics.io/themis/",
+      "status": 200,
+      "finalUrl": "https://www.westwoodrobotics.io/themis/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.x-humanoid.com/en",
+      "status": 200,
+      "finalUrl": "https://www.x-humanoid.com/en",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.xpeng.com/au/technology/ai_robot_iron",
+      "status": 200,
+      "finalUrl": "https://www.xpeng.com/au/technology/ai_robot_iron",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.xsens.com/products/sensor-modules/xsens-sirius-series",
+      "status": 200,
+      "finalUrl": "https://www.xsens.com/products/sensor-modules/xsens-sirius-series",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.zerith.com/human",
+      "status": 404,
+      "finalUrl": "https://www.zerith.com/human",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-27",
+      "retryStatus": 404,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.zj-humanoid.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.zwgearbox.com/news-exhibitions/zhaowei-motor-china-2021",
+      "status": 200,
+      "finalUrl": "https://www.zwgearbox.com/news-exhibitions/zhaowei-motor-china-2021",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://x2robot.com/product/quantum2",
+      "status": 200,
+      "finalUrl": "https://x2robot.com/product/quantum2",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://xelarobotics.com/",
+      "status": 200,
+      "finalUrl": "https://xelarobotics.com/",
+      "outcome": "reachable",
+      "checked": "2026-10-27"
+    }
+  ]
+}

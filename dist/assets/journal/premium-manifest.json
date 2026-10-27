@@ -362,6 +362,28 @@
           "height": 941
         }
       }
+    ],
+    "camera-to-hand-calibration-for-humanoid-robots": [
+      {
+        "file": "camera-to-hand-calibration-for-humanoid-robots-01-premium.webp",
+        "method": "Built-in imagegen",
+        "created": "2026-10-27",
+        "caption": "AI-generated editorial concept. Fictional calibration scene; no manufacturer affiliation or verified hardware test.",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "file": "camera-to-hand-calibration-for-humanoid-robots-02-premium.webp",
+        "method": "Built-in imagegen",
+        "created": "2026-10-27",
+        "caption": "AI-generated editorial concept. Fictional calibration scene; no manufacturer affiliation or verified hardware test.",
+        "sourceDimensions": {
+          "width": 1672,
+          "height": 941
+        }
+      }
     ]
   }
 }

@@ -537,10 +537,11 @@ window.HM_DATA = {
       "company": "MagicLab",
       "country": "China",
       "flagship_model": "MagicBot X1 / Z1",
-      "official_url": "https://www.magiclab.top/en",
+      "official_url": "https://www.magiclab.top/",
       "availability": "Manufacturer purchase link",
       "evidence_notes": "Official homepage lists MagicBot X1 and Z1 with Purchase buttons. Do not infer immediate stock.",
       "source_urls": [
+        "https://www.magiclab.top/",
         "https://www.magiclab.top/en"
       ],
       "checked_date": "2026-10-24",
@@ -549,7 +550,8 @@ window.HM_DATA = {
       "focus": "Development & industry",
       "id": 32,
       "directory_category": "Robots",
-      "supplier_type": "Robot manufacturer"
+      "supplier_type": "Robot manufacturer",
+      "link_checked_date": "2026-10-27"
     },
     {
       "company": "Galbot",
@@ -825,10 +827,11 @@ window.HM_DATA = {
       "company": "DEEP Robotics",
       "country": "China",
       "flagship_model": "DR02",
-      "official_url": "https://www.deeprobotics.cn/en/index/dr02.html",
+      "official_url": "https://developer.deeprobotics.cn/docs/dr02/",
       "availability": "Inquiry",
       "evidence_notes": "Official product page describes DR02 full-size industrial humanoid with modular components. No public price or stock inferred.",
       "source_urls": [
+        "https://developer.deeprobotics.cn/docs/dr02/",
         "https://www.deeprobotics.cn/en/index/dr02.html"
       ],
       "checked_date": "2026-10-24",
@@ -837,7 +840,8 @@ window.HM_DATA = {
       "focus": "Development & industry",
       "id": 48,
       "directory_category": "Robots",
-      "supplier_type": "Robot manufacturer"
+      "supplier_type": "Robot manufacturer",
+      "link_checked_date": "2026-10-27"
     },
     {
       "company": "Lumos Robotics",
@@ -3481,12 +3485,13 @@ window.HM_DATA = {
       "company": "Resense",
       "country": "Germany",
       "flagship_model": "HEX 21",
-      "official_url": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "official_url": "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
       "availability": "Contact manufacturer",
       "form_factor": "Force / torque sensor",
       "focus": "Robot sensing & integration",
       "evidence_notes": "Compact six-axis force/torque sensor kit documented for robotic hand and haptic research.",
       "source_urls": [
+        "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
         "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf"
       ],
       "checked_date": "2026-10-25",
@@ -3494,7 +3499,8 @@ window.HM_DATA = {
       "supplier_type": "Components",
       "component_category": "sensors",
       "id": 188,
-      "directory_category": "Parts"
+      "directory_category": "Parts",
+      "link_checked_date": "2026-10-27"
     },
     {
       "company": "Tekscan",
@@ -4361,9 +4367,13 @@ window.HM_DATA = {
       "desc": "Official homepage lists MagicBot X1 and Z1 with Purchase buttons. Do not infer immediate stock.",
       "note": "Official homepage lists MagicBot X1 and Z1 with Purchase buttons. Do not infer immediate stock.",
       "form": "Humanoid platform",
-      "source": "https://www.magiclab.top/en",
+      "source": "https://www.magiclab.top/",
       "checked": "2026-10-24",
-      "specs": {}
+      "specs": {},
+      "source_urls": [
+        "https://www.magiclab.top/"
+      ],
+      "link_checked_date": "2026-10-27"
     },
     {
       "id": "m33",
@@ -4633,9 +4643,13 @@ window.HM_DATA = {
       "desc": "Official product page describes DR02 full-size industrial humanoid with modular components. No public price or stock inferred.",
       "note": "Official product page describes DR02 full-size industrial humanoid with modular components. No public price or stock inferred.",
       "form": "Humanoid platform",
-      "source": "https://www.deeprobotics.cn/en/index/dr02.html",
+      "source": "https://developer.deeprobotics.cn/docs/dr02/",
       "checked": "2026-10-24",
-      "specs": {}
+      "specs": {},
+      "source_urls": [
+        "https://developer.deeprobotics.cn/docs/dr02/"
+      ],
+      "link_checked_date": "2026-10-27"
     },
     {
       "id": "m49",
@@ -5945,8 +5959,9 @@ window.HM_DATA = {
     {
       "maker": "Resense",
       "name": "HEX 21",
-      "source": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+      "source": "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
       "source_urls": [
+        "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
         "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf"
       ],
       "desc": "Compact six-axis force/torque sensor kit documented for robotic hand and haptic research.",
@@ -5961,7 +5976,8 @@ window.HM_DATA = {
       "checked": "2026-10-25",
       "checked_date": "2026-10-25",
       "id": "component56",
-      "makerId": 188
+      "makerId": 188,
+      "link_checked_date": "2026-10-27"
     },
     {
       "maker": "Tekscan",
@@ -6025,6 +6041,31 @@ window.HM_DATA = {
       "checked_date": "2026-10-25",
       "id": "component59",
       "makerId": 194
+    },
+    {
+      "id": "orbbec-gemini-435le",
+      "maker": "Orbbec",
+      "makerId": 167,
+      "name": "Gemini 435Le",
+      "category": "Parts",
+      "use": "Industrial",
+      "status": "Manufacturer store",
+      "price": 499,
+      "currency": "USD",
+      "desc": "Industrial stereo vision camera with Gigabit Ethernet, PoE and an IP67-rated enclosure, according to Orbbec. Integration with a particular humanoid must be confirmed separately.",
+      "note": "Official Orbbec store price checked 27 October 2026. Taxes and shipping are additional. Confirm configuration, regional delivery, availability and host support before ordering. No universal humanoid compatibility is claimed.",
+      "form": "Industrial stereo depth camera",
+      "source": "https://store.orbbec.com/products/gemini-435le",
+      "source_urls": [
+        "https://store.orbbec.com/products/gemini-435le",
+        "https://www.orbbec.com/gemini-435le/"
+      ],
+      "checked": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "specs": {
+        "Connectivity": "Gigabit Ethernet / PoE",
+        "Protection": "IP67 (manufacturer rating)"
+      }
     }
   ]
 };

@@ -536,10 +536,11 @@
     "company": "MagicLab",
     "country": "China",
     "flagship_model": "MagicBot X1 / Z1",
-    "official_url": "https://www.magiclab.top/en",
+    "official_url": "https://www.magiclab.top/",
     "availability": "Manufacturer purchase link",
     "evidence_notes": "Official homepage lists MagicBot X1 and Z1 with Purchase buttons. Do not infer immediate stock.",
     "source_urls": [
+      "https://www.magiclab.top/",
       "https://www.magiclab.top/en"
     ],
     "checked_date": "2026-10-24",
@@ -548,7 +549,8 @@
     "focus": "Development & industry",
     "id": 32,
     "directory_category": "Robots",
-    "supplier_type": "Robot manufacturer"
+    "supplier_type": "Robot manufacturer",
+    "link_checked_date": "2026-10-27"
   },
   {
     "company": "Galbot",
@@ -824,10 +826,11 @@
     "company": "DEEP Robotics",
     "country": "China",
     "flagship_model": "DR02",
-    "official_url": "https://www.deeprobotics.cn/en/index/dr02.html",
+    "official_url": "https://developer.deeprobotics.cn/docs/dr02/",
     "availability": "Inquiry",
     "evidence_notes": "Official product page describes DR02 full-size industrial humanoid with modular components. No public price or stock inferred.",
     "source_urls": [
+      "https://developer.deeprobotics.cn/docs/dr02/",
       "https://www.deeprobotics.cn/en/index/dr02.html"
     ],
     "checked_date": "2026-10-24",
@@ -836,7 +839,8 @@
     "focus": "Development & industry",
     "id": 48,
     "directory_category": "Robots",
-    "supplier_type": "Robot manufacturer"
+    "supplier_type": "Robot manufacturer",
+    "link_checked_date": "2026-10-27"
   },
   {
     "company": "Lumos Robotics",
@@ -3480,12 +3484,13 @@
     "company": "Resense",
     "country": "Germany",
     "flagship_model": "HEX 21",
-    "official_url": "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf",
+    "official_url": "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
     "availability": "Contact manufacturer",
     "form_factor": "Force / torque sensor",
     "focus": "Robot sensing & integration",
     "evidence_notes": "Compact six-axis force/torque sensor kit documented for robotic hand and haptic research.",
     "source_urls": [
+      "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
       "https://www.resense.io/fileadmin/06-Downloads/Resense/Flyer/resense-flyer-hex21.pdf"
     ],
     "checked_date": "2026-10-25",
@@ -3493,7 +3498,8 @@
     "supplier_type": "Components",
     "component_category": "sensors",
     "id": 188,
-    "directory_category": "Parts"
+    "directory_category": "Parts",
+    "link_checked_date": "2026-10-27"
   },
   {
     "company": "Tekscan",
