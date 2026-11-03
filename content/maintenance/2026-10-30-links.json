@@ -1,0 +1,1545 @@
+{
+  "date": "2026-10-30",
+  "total": 216,
+  "reachable": 13,
+  "unconfirmed": 203,
+  "policy": "Failures may reflect blocking, throttling or network conditions. No removal or rewrite based on a single failed request.",
+  "results": [
+    {
+      "url": "https://addverb.com/us/press-release/10-years-of-addverb-us-expansion-humanoid-robotics/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://agibot.com/products/X2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://akribis-sys.de/uploads/files/website/Motors_and_Stages_for_OEMs_EN-23.8.1.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://allegrohand.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://allient.com/humanoid-robot-motors-and-motion-solutions/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://ams-osram.com/news/press-releases/new-high-resolution-dtof",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://apptronik.com/apollo/apollo-2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://asimovrobotics.com/products.php?id=33",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://beta.lumosbot.tech/about/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://bostondynamics.com/products/atlas/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://casbot.tech/about",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://category.yahboom.net/products/dofbot-se",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://cherymotor.com.au/about-us/chery-robots",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://contactile.com/products/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://corp.wirobotics.com/en/product/allex",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://dataai.dataarobotics.com/en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://developer.deeprobotics.cn/docs/dr02/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.ai2robotics.com/en/alphabot2/hardware/architecture/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.arduino.cc/hardware/alvik",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.booster.tech/docs/product-manual/t1/getting-started/overview/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.hebi.us/hardware.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.luxonis.com/hardware/products/OAK-D%20Pro",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.pollen-robotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://docs.prophesee.ai/stable/hw/evk/evk4.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://emanual.robotis.com/docs/en/platform/op3/quick_start/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.dexforce.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.dh-robotics.com/wp-content/uploads/2022/03/Servo-Electric-Gripper_DH-Robotics_EN.23.01.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.engineai.com.cn/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.eyoubot.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.ids-imaging.com/ueye-industrial-cameras.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://en.inspire-robots.com/product/rh56dfx/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://enchanted.tools/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://engineeredarts.com/uk/robots/ameca",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://faunarobotics.com/news",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://flexiv.com/news/Flexiv%20to%20Unveil%20Next-Generation%20Adaptive%20Robots%20at%20Automate%202026",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://foundation.bot/",
+      "status": 200,
+      "finalUrl": "https://foundation.bot/",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://galaxea-dynamics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://galbot.com/g1/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://gbionics.ai/gene01/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/ros2/geometry2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://global.kawasaki.com/en/corp/profile/division/robot/history.html",
+      "status": 200,
+      "finalUrl": "https://global.kawasaki.com/en/corp/profile/division/robot/history.html",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://info.renishaw.com/Encoders-Robotics",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://kokoro-dreams.co.jp/rt_tokutyu/actroid/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://kondo-robot.com/faq/khr-3hv_downloadset_v7",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://microstrain.com/sites/default/files/GX5%20AR.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://mujoco.readthedocs.io/en/stable/overview.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://neura-robotics.com/products/4ne1/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://new.c.mi.com/global/post/103648",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://novanta.com/robotics-automation/product/everest/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://onrobot.com/en/products/rg2-finger-gripper",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://ouster.com/products/hardware/os0",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://pal-robotics.com/datasheet/talos/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://pal-robotics.com/robot/talos/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://pib.rocks/build/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://pndbotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://press.igus.com/2025/04/29/iggy-rob-humanoid/",
+      "status": 200,
+      "finalUrl": "https://press.igus.com/2025/04/29/iggy-rob-humanoid/",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://pressureprofile.com/sensors",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://qbrobotics.com/product/qb-softhand-industry/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://rainbowrobotics1.cafe24.com/hubo2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TypeError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robosen.com/us/k1-pro-interstellar-scout",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robosense-robotics.github.io/product-manual/E1/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robotical.io/shop/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robotics.hexagon.com/product/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robotiq.com/physical-ai-grippers",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robotis.us/collections/bioloid-1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://robotis.us/collections/xm",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://sanctuary.ai/news/sanctuary-ai-releases-new-generation-of-ai-robots-for-high-quality-data-capture/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://shadowrobot.com/dexterous-hand-series/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://shop.botasys.com/product-portfolio",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://shop.unitree.com/collections/humanoid-robot",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://shop.unitree.com/products/unitree-g1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://shop.unitree.com/products/unitree-r1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://store.freenove.com/collections/robot-kits",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://store.orbbec.com/products/gemini-435le",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://store.trossenrobotics.com/products/stationary-ai-base-model-1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://support.fftai.com/en/gr3/getting-started/general-information",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://us.softbankrobotics.com/pepper",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://vinmotion.net/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://wlrobo.com/module2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.1x.tech/order",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.advancednavigation.com/press-kit/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.aeolusbot.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.agilityrobotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.aheadform.com/zh/home",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.alvaindustries.com/slimtorq-motors",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.analog.com/en/products/adis16470.html",
+      "status": 200,
+      "finalUrl": "https://www.analog.com/en/products/adis16470.html",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.astribot.com/index.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.baslerweb.com/en/cameras/dart/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.brainco.cn/en-US/products/brain-robotics",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.broadcom.com/products/motion-control-encoders/absolute-encoders",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.clonerobotics.com/pre-order/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.codroid.ai/en/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.cubemars.com/categorys/robotic-actuator",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.dfrobot.com/product-2026.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.digit.com.cn/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.diligentrobots.com/blog",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.dobot-robots.com/products/humanoid-robots/atom.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.droidup.com/about",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.dunkermotoren.com/en/products/interfaces",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.elephantrobotics.com/en/mercury-x1-en/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.elmomc.com/applications/powerful-servo-drives-implemented-in-humanoid-robot/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.faulhaber.com/en/products/brushless-dc-motors/bxt/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.figure.ai/figure",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.furhatrobotics.com/furhat-robot",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.gagc.com.cn/en/news/detail?baseid=18970",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.gelsight.com/tactile-sensing-technology/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.gotokepler.com/productDetailK2?id=2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.hansonrobotics.com/sophia-utility",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "status": 200,
+      "finalUrl": "https://www.harmonicdrive.net/_hd/content/documents1/CSD_GearUnits.pdf",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.heidenhain.com/industries/robotics",
+      "status": 200,
+      "finalUrl": "https://www.heidenhain.com/industries/robotics",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.heidenhain.com/products/encoders/rotary-encoders/internal/kci-120-dplus",
+      "status": 200,
+      "finalUrl": "https://www.heidenhain.com/products/encoders/rotary-encoders/internal/kci-120-dplus",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.hesaitech.com/product/jt128/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.hiwin.tw/news_content.aspx?newsID=25598",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.hiwonder.com/products/tonypi",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.invensense.tdk.com/en-us/products/6-axis/icm-42688-v",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.kawadarobot.co.jp/en/nextage/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.keenon.com/en/product/XMAN-R1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.keyence.com/products/measure/laser-2d/lj-x8000/models",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.knowinai.com/en/product.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.kollmorgen.com/en-us/solutions/robotics/humanoid-robots",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.laifual.com/fsn/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.laifual.com/product/harmonic-reducer/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.leaderdrive.com/app/8.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.lejurobot.com/en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200",
+      "status": 200,
+      "finalUrl": "https://www.leuze.com/en-uk/products/safety/safety-laser-scanners/rsl-200",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.lgcorp.com/media/release/29751",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.limxdynamics.com/en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.linkerbot.cn/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.livoxtech.com/support/mid-360",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.maccorobotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.magiclab.top/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.makeblock.com/products/buy-mbot2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "status": 200,
+      "finalUrl": "https://www.maxongroup.com/en/news-and-events/news/maxon-presents-a-humanoid-robot-and-current-product-highlights-at-sps-2024-252728",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.memsic.com/about",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.minebeamitsumi.com/english/news/press/2025/1210639_20344.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.mitraai.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.mobileye.com/products/mentee/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf",
+      "status": 404,
+      "finalUrl": "https://www.moog.com/content/dam/moog/literature/ICD/Moog_IntegratedSmartActuator.pdf",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.myactuator.com/rmd-x-planetarymotor",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.nabtesco.com/en/news/20251202-17329/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.nanotec.com/fileadmin/files/Katalog/new-products-en.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.nidec.com/en/value/technology/physical-ai/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.noetixrobotics.com/en/source/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.nsk.com/content/dam/nsk/common/virtualexpo/robot/pdf/2_linear_e.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "status": 200,
+      "finalUrl": "https://www.nvidia.com/en-eu/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.onerobot.com/solution",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.openloong.net/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.orbbec.com/gemini-435le/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.orbbec.com/products/stereo-vision-camera/gemini-335/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.orientalmotor.eu/uk/download/catalog",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.oversonicrobotics.com/?lang=en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.paxini.com/en/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.pepperl-fuchs.com/de/landingpage/industrial-sensors/r2000-series-gp27391",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.piab.com/en-us/news/unique-vacuum-based-soft-gripper-for-handling-sensitive-and-delicate-objects",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.posital.com/en/products/kit-encoders",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.posital.com/en/products/kit-encoders/KTD-BC00B-1617-LE4A-BAQ/3433212",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.prensilia.com/wp-content/uploads/2024/11/DATA-SHEET_MIA-HAND_industrial_rev01.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.psyonic.io/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.pudurobotics.com/en/products/d9",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.raspberrypi.com/products/ai-hat/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.realbotix.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.realsenseai.com/products/real-sense-depth-camera-d455f/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.reflexrobotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.resense.io/fileadmin/resense/Force_Torque_Sensors/Datenblaetter/ForceTorqueSensors_ResenseFlyer_HEX21.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.richtechrobotics.com/adam",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.robbyant.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.roborn.com/?page_id=961",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.robotera.com/en/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.robstride.com/products/robStride04",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sbg-systems.com/pulse-series/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/",
+      "status": 200,
+      "finalUrl": "https://www.schaeffler.com/en/technology-innovation/technology/humanoid-robots/",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.schmalz.com/en-pl/products/automation-743270/vacuum-grippers-746238/gripping-systems-and-end-of-arm-tooling-eoat-746240/area-gripping-systems-fqe-312036",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.seedrobotics.com/rh8d-adult-robot-hand",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.seeedstudio.com/reComputer-Robotics-J4012-p-6505.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056",
+      "status": 429,
+      "finalUrl": "https://www.sick.com/sg/en/catalog/products/safety/safety-laser-scanners/nanoscan3/c/g507056",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sony-semicon.com/en/products/is/industry/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.st.com/en/mems-and-sensors/lsm6dsv16x.html",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.stereolabs.com/products/zed-x",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sunday.ai/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.sunfounder.com/products/picrawler-robot-kit",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.synapticon.com/en/products/actilink-jd",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.t-robotics.net/products/list.php?category=works",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.tecnotion.com/products/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.tekscan.com/products-solutions/force-sensors/flexiforce-a201-sensor-0",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.tesla.com/AI",
+      "status": 403,
+      "finalUrl": "https://www.tesla.com/AI",
+      "outcome": "unconfirmed",
+      "checked": "2026-10-30",
+      "retryStatus": 403,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.tesollo.com/news/notice/tesollo-to-exhibit-at-robex-2026-and-wins-top-innovation-award-at-fix-2026",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.thk.com/jp/en/journal/products/article-02072025-1.html",
+      "status": 200,
+      "finalUrl": "https://www.thk.com/jp/en/journal/products/article-02072025-1.html",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.tmsuk.co.jp/en/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.topstarmachine.com/about-us/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.touchlab.io/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.toyota-europe.com/innovation/mobility-solutions/robotics",
+      "status": 200,
+      "finalUrl": "https://www.toyota-europe.com/innovation/mobility-solutions/robotics",
+      "outcome": "reachable",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.tq-group.com/en/products/tq-robodrive/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.trossenrobotics.com/stationary-ai",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.ubtrobot.com/en/humanoid/products/walker-s1",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30",
+      "retryStatus": null,
+      "retryOutcome": "unconfirmed"
+    },
+    {
+      "url": "https://www.unixai.net/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.vectornav.com/docs/default-source/product-brief/vn-100-product-brief.pdf",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.vstone.co.jp/products/sota/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.wandercraft.eu/articles/wandercraft-secures-12-calvin-40-customers-as-it-accelerates-commercial-dominance-in-industrial-humanoids",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.waveshare.com/product/ai/robots/roarm-m3.htm",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.weaverobotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.weiss-robotics.com/en/servo-electric/wsg-series/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.westwoodrobotics.io/themis/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.x-humanoid.com/en",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.xpeng.com/au/technology/ai_robot_iron",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.xsens.com/products/sensor-modules/xsens-sirius-series",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.zerith.com/human",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.zj-humanoid.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.zwgearbox.com/news-exhibitions/zhaowei-motor-china-2021",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://x2robot.com/product/quantum2",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://xelarobotics.com/",
+      "status": null,
+      "outcome": "unconfirmed",
+      "reason": "TimeoutError",
+      "checked": "2026-10-30"
+    }
+  ]
+}

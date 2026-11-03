@@ -1,5 +1,14 @@
 [
   {
+    "title": "The robot moves. Can its cables keep up?",
+    "slug": "serviceable-cable-routing-for-humanoid-robots",
+    "date": "2026-10-30",
+    "category": "Components",
+    "words": 960,
+    "updated": "2026-11-03",
+    "originalImages": 2
+  },
+  {
     "title": "The camera sees it. Does the hand know where it is?",
     "slug": "camera-to-hand-calibration-for-humanoid-robots",
     "date": "2026-10-27",

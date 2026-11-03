@@ -384,6 +384,20 @@
           "height": 941
         }
       }
+    ],
+    "serviceable-cable-routing-for-humanoid-robots": [
+      {
+        "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/oct30images/serviceable-cable-routing-for-humanoid-robots-01.png",
+        "alt": "An engineer inspects the neatly routed harness inside a fictional humanoid shoulder assembly.",
+        "caption": "AI-generated editorial concept. A fictional humanoid with accessible cable routing and a removable shoulder cover.",
+        "prompt": "Photoreal humanoid shoulder harness inspection in a workshop."
+      },
+      {
+        "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/oct30images/serviceable-cable-routing-for-humanoid-robots-02.png",
+        "alt": "Close view of a fictional robot wrist assembly with braided cable sleeves, connectors and protective routing brackets.",
+        "caption": "AI-generated editorial concept. Serviceable connectors and a protected harness beside a removable robot cover.",
+        "prompt": "Photoreal macro of serviceable robot wrist harness and connectors."
+      }
     ]
   }
 }

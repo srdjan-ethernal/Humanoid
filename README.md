@@ -16,7 +16,7 @@ Open http://127.0.0.1:4173. The server binds to localhost by default; use the `P
 
 - `dist/index.html`: marketplace, product filters, favorites, comparison, and browser-local draft listings.
 - `dist/manufacturers.html`: searchable directory of 200 manufacturer entries, with CSV export.
-- `dist/blog.html` and `dist/blog/`: journal and 16 standalone English articles.
+- `dist/blog.html` and `dist/blog/`: journal and 17 standalone English articles.
 - `dist/catalog.js`: shared manufacturer directory and 116 product/platform records.
 - `dist/manufacturers.json`: source-linked directory, including review dates and evidence notes.
 - `dist/blog-index.json`: article index and editorial archive dates.
@@ -58,3 +58,5 @@ Run node scripts/check-i18n.cjs to verify country mapping, fallback, manual pref
 
 Maintenance 27 October 2026: one 967-word calibration guide, two original imagegen illustrations, all eight languages, one verified Orbbec component listing and three improved official source links. Link audit details are in content/maintenance/2026-10-27-links.json; blocked or unresolved URLs were retained.
 
+
+Maintenance 3 November 2026: completed the unpublished 30 October cable-routing guide, with two original AI illustrations, seven additional translations and two official igus reference links. No additional article was created for the failed October run.

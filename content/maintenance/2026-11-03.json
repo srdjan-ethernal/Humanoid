@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-03",
+  "status": "validated_ready_to_publish",
+  "articleSlug": "serviceable-cable-routing-for-humanoid-robots",
+  "prepared": "2026-10-30",
+  "referencesReviewed": "2026-11-03",
+  "englishWords": 960,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newOfficialLinks": [
+    "https://www.igus.com/product/triflex-TRC",
+    "https://www.igus.com/robot-dress-pack/retraction-systems"
+  ],
+  "linkAudit": {
+    "attempted": 218,
+    "reachable": 199,
+    "unconfirmed": 19,
+    "removed": 0
+  },
+  "catalog": {
+    "suppliers": 200,
+    "products": 116
+  },
+  "browserQA": "Attempted local preview; in-app Browser webview attach timed out. Desktop/mobile rendering and interactive filters not visually verified. Existing filter and language runtime unchanged.",
+  "checks": [
+    "check-i18n.cjs passed",
+    "two original images visually inspected",
+    "source links both HTTP 200",
+    "17 unique article slugs",
+    "earlier article source records preserved"
+  ],
+  "publication": "main push and existing private Sites deployment; verify hosting after publish"
+}

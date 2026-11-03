@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "status": "draft_completed_on_2026-11-03",
+  "articleSlug": "serviceable-cable-routing-for-humanoid-robots",
+  "englishWords": 960,
+  "originalImages": 2,
+  "previousBlockers": [
+    "Sites source server unavailable",
+    "Translation service connection timeout"
+  ],
+  "completionRecord": "2026-11-03.json"
+}
