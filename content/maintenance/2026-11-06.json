@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-06",
+  "articleSlug": "diagnosing-delayed-sensor-data-in-humanoid-robots",
+  "title": "The image is sharp. Is it already too old?",
+  "englishWords": 1035,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newCatalogItem": "robotis-openmanipulator-x",
+  "catalogRecords": 117,
+  "kits": 16,
+  "suppliers": 200,
+  "newOfficialLinks": [
+    "https://design.ros2.org/articles/clock_and_time.html",
+    "https://github.com/ros2/message_filters/blob/rolling/doc/index.rst",
+    "https://github.com/ros2/rosbag2",
+    "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
+    "https://github.com/ROBOTIS-GIT/open_manipulator"
+  ],
+  "correctedLink": {
+    "from": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+    "to": "https://docs.robotis.com/docs/systems/op3/introduction/",
+    "evidence": "Official e-Manual migration notice and HTTP 200 on the new official OP3 documentation; old URL preserved in supplier source_urls."
+  },
+  "linkAudit": {
+    "attempted": 218,
+    "reachable": 186,
+    "unconfirmed": 32,
+    "removed": 0
+  },
+  "checks": [
+    "check-i18n.cjs",
+    "catalog search/category/translated search/price filters",
+    "all earlier article records unchanged",
+    "two original images visually inspected"
+  ],
+  "browserQA": "Unavailable: in-app browser returned Browser is not available: iab. Desktop/mobile visual verification could not be completed.",
+  "publication": "Prepared for main push, GitHub Pages and existing owner-private Sites publication; verify deployed results separately."
+}

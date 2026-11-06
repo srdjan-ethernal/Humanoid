@@ -398,6 +398,22 @@
         "caption": "AI-generated editorial concept. Serviceable connectors and a protected harness beside a removable robot cover.",
         "prompt": "Photoreal macro of serviceable robot wrist harness and connectors."
       }
+    ],
+    "diagnosing-delayed-sensor-data-in-humanoid-robots": [
+      {
+        "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov06images/diagnosing-delayed-sensor-data-in-humanoid-robots-01.png",
+        "alt": "An engineer reviews abstract sensor traces beside a fictional humanoid robot at a laboratory workbench.",
+        "caption": "AI-generated editorial concept. A fictional humanoid and engineer preparing a sensor timing investigation.",
+        "prompt": "Use case: photorealistic-natural. Asset type: premium editorial photograph for a humanoid robotics engineering journal, 16:9 landscape. A fictional ivory and graphite humanoid robot is stationary at a meticulously organized contemporary robotics laboratory bench; its head has realistic twin camera lenses and its open forearm shows plausible brushed metal mechanisms. In foreground, a professional engineer in a navy work shirt reviews sensor timing on a laptop whose screen shows only soft abstract colored traces, no readable text. Robot, engineer, and simple test object are clearly framed as one experiment. Warm daylight from tall side windows mixed with subtle cool task lighting, rich black tones, restrained lime status indicator accents, tactile real metal and ceramic surfaces, shallow depth of field, high-end documentary product photography, 50mm lens, physically convincing joints, natural hands. Wide composition, full visual quality, no text, numbers, labels, watermarks or logos. This is a fictional conceptual scene, not a recognizable manufacturer robot. No holograms, no sci-fi glowing effects.",
+        "source": "C:/Users/Srdjan/.codex/generated_images/01a1b143-787e-7fd2-b0c5-92d902f2aa6f/exec-ec450643-2508-4521-ae04-c50173f42150.png"
+      },
+      {
+        "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov06images/diagnosing-delayed-sensor-data-in-humanoid-robots-02.png",
+        "alt": "A fictional humanoid head with exposed camera modules sits beside a compact data interface on a workbench.",
+        "caption": "AI-generated editorial concept. Fictional camera electronics and a logging interface; no commercial compatibility is implied.",
+        "prompt": "Use case: photorealistic-natural. Asset type: second premium editorial journal photograph, 16:9 landscape. Extreme close-up in a real-looking humanoid robotics laboratory: the ivory faceplate of a fictional humanoid head is open on a grounded dark workbench fixture, revealing a beautifully engineered twin camera module, precisely routed black cables, brushed aluminum supports and a small generic embedded computer. To the right a hand belonging to an engineer connects a tidy data cable to a compact metal logging interface; the hand has natural realistic anatomy. A closed robot hand rests out of focus in the background, clarifying humanoid integration. Warm sidelight and subtle cool overhead lab light, rich graphite background, tactile machining marks, realistic glass optics, restrained lime indicator accent, high-end macro product photography, 85mm lens, accurate perspective, shallow depth of field, editorial realism. No readable text, no labels, no numbers, no logos, no watermark, no holograms, no excessive glowing lights. Fictional conceptual hardware rather than a recognizable commercial product. Distinct composition from a wide lab scene.",
+        "source": "C:/Users/Srdjan/.codex/generated_images/01a1b143-787e-7fd2-b0c5-92d902f2aa6f/exec-40d1a7bf-1938-4b76-a58f-6b38e0bfa79a.png"
+      }
     ]
   }
 }

@@ -1,5 +1,14 @@
 [
   {
+    "title": "The image is sharp. Is it already too old?",
+    "slug": "diagnosing-delayed-sensor-data-in-humanoid-robots",
+    "date": "2026-11-06",
+    "category": "Software",
+    "words": 1004,
+    "updated": "2026-11-06",
+    "originalImages": 2
+  },
+  {
     "title": "The robot moves. Can its cables keep up?",
     "slug": "serviceable-cable-routing-for-humanoid-robots",
     "date": "2026-10-30",

@@ -275,18 +275,22 @@
     "company": "ROBOTIS",
     "country": "South Korea",
     "flagship_model": "OP3",
-    "official_url": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+    "official_url": "https://docs.robotis.com/docs/systems/op3/introduction/",
     "availability": "Research documentation",
     "form_factor": "Bipedal",
     "focus": "Research & education",
     "source_urls": [
-      "https://emanual.robotis.com/docs/en/platform/op3/introduction/"
+      "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+      "https://docs.robotis.com/docs/systems/op3/introduction/",
+      "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
+      "https://github.com/ROBOTIS-GIT/open_manipulator"
     ],
     "checked_date": "2026-10-24",
     "price": null,
     "id": 17,
     "directory_category": "Robots",
-    "supplier_type": "Robot manufacturer"
+    "supplier_type": "Robot manufacturer",
+    "link_checked_date": "2026-11-06"
   },
   {
     "company": "Rainbow Robotics",

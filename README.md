@@ -16,8 +16,8 @@ Open http://127.0.0.1:4173. The server binds to localhost by default; use the `P
 
 - `dist/index.html`: marketplace, product filters, favorites, comparison, and browser-local draft listings.
 - `dist/manufacturers.html`: searchable directory of 200 manufacturer entries, with CSV export.
-- `dist/blog.html` and `dist/blog/`: journal and 17 standalone English articles.
-- `dist/catalog.js`: shared manufacturer directory and 116 product/platform records.
+- `dist/blog.html` and `dist/blog/`: journal and 18 standalone English articles.
+- `dist/catalog.js`: shared manufacturer directory and 117 product/platform records.
 - `dist/manufacturers.json`: source-linked directory, including review dates and evidence notes.
 - `dist/blog-index.json`: article index and editorial archive dates.
 - `dist/assets/assets.json`: imagery provenance and manufacturer source links.
@@ -38,7 +38,7 @@ Journal articles were prepared on October 24, 2026. Displayed April–October da
 
 Manufacturer photos and trademarks belong to their respective owners. Source URLs are recorded in the asset manifest. No license to redistribute third-party imagery is implied by this repository.
 
-Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 50 components, 15 kits and development platforms. New sources reviewed 2026-10-25.
+Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 50 components, 16 kits and development platforms. New sources reviewed 2026-10-25.
 
 Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words, with two original AI-generated photographic editorial illustrations per article. Rebuild with node scripts/build-blog.cjs from content/blog-posts.json. Illustration provenance is recorded in dist/assets/journal/premium-manifest.json.
 
@@ -60,3 +60,5 @@ Maintenance 27 October 2026: one 967-word calibration guide, two original imageg
 
 
 Maintenance 3 November 2026: completed the unpublished 30 October cable-routing guide, with two original AI illustrations, seven additional translations and two official igus reference links. No additional article was created for the failed October run.
+
+Maintenance 6 November 2026: new sensor timing guide, two original AI illustrations, eight languages, OpenMANIPULATOR-X development listing and verified ROBOTIS documentation migration.

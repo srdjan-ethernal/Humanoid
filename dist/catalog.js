@@ -276,18 +276,22 @@ window.HM_DATA = {
       "company": "ROBOTIS",
       "country": "South Korea",
       "flagship_model": "OP3",
-      "official_url": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+      "official_url": "https://docs.robotis.com/docs/systems/op3/introduction/",
       "availability": "Research documentation",
       "form_factor": "Bipedal",
       "focus": "Research & education",
       "source_urls": [
-        "https://emanual.robotis.com/docs/en/platform/op3/introduction/"
+        "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
+        "https://docs.robotis.com/docs/systems/op3/introduction/",
+        "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
+        "https://github.com/ROBOTIS-GIT/open_manipulator"
       ],
       "checked_date": "2026-10-24",
       "price": null,
       "id": 17,
       "directory_category": "Robots",
-      "supplier_type": "Robot manufacturer"
+      "supplier_type": "Robot manufacturer",
+      "link_checked_date": "2026-11-06"
     },
     {
       "company": "Rainbow Robotics",
@@ -4112,8 +4116,8 @@ window.HM_DATA = {
       "desc": "A compact humanoid platform with documented software and robotics research resources.",
       "note": "Official documentation. Confirm ordering, hardware generation, and regional support with ROBOTIS.",
       "form": "Bipedal",
-      "source": "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
-      "checked": "2026-10-24",
+      "source": "https://docs.robotis.com/docs/systems/op3/introduction/",
+      "checked": "2026-11-06",
       "specs": {}
     },
     {
@@ -6066,6 +6070,27 @@ window.HM_DATA = {
         "Connectivity": "Gigabit Ethernet / PoE",
         "Protection": "IP67 (manufacturer rating)"
       }
+    },
+    {
+      "id": "robotis-openmanipulator-x",
+      "maker": "ROBOTIS",
+      "makerId": 17,
+      "name": "OpenMANIPULATOR-X",
+      "category": "Kits",
+      "use": "Research",
+      "status": "Research documentation",
+      "price": null,
+      "currency": "USD",
+      "image": null,
+      "source": "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
+      "desc": "An open-source robotic arm development platform with DYNAMIXEL-X actuators, hardware files and documented software workflows for manipulation experiments.",
+      "note": "A separate arm development platform. This listing does not establish compatibility with a humanoid. Confirm the selected software distribution, controller, base plate, computer, package contents and current purchase terms with ROBOTIS.",
+      "form": "Development platform",
+      "specs": {
+        "Software": "Official ROS 2 packages",
+        "Hardware": "Open-source hardware files"
+      },
+      "checked": "2026-11-06"
     }
   ]
 };
