@@ -1,5 +1,14 @@
 [
   {
+    "title": "The gripper fits. What actually touches the object?",
+    "slug": "replaceable-fingertips-for-repeatable-humanoid-grasps",
+    "date": "2026-11-10",
+    "category": "Components",
+    "words": 972,
+    "updated": "2026-11-10",
+    "originalImages": 2
+  },
+  {
     "title": "The image is sharp. Is it already too old?",
     "slug": "diagnosing-delayed-sensor-data-in-humanoid-robots",
     "date": "2026-11-06",

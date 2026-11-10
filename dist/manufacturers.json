@@ -2675,14 +2675,16 @@
     "focus": "Manipulation components",
     "evidence_notes": "Official physical AI gripper page accepts preorders targeting Q1 2027 shipping; no current delivery claim.",
     "source_urls": [
-      "https://robotiq.com/physical-ai-grippers"
+      "https://robotiq.com/physical-ai-grippers",
+      "https://robotiq.com/tactile-sensor-fingertips"
     ],
     "checked_date": "2026-10-25",
     "date": "2026-10-25",
     "price": null,
     "id": 146,
     "directory_category": "Parts",
-    "component_category": "Manipulation components"
+    "component_category": "Manipulation components",
+    "link_checked_date": "2026-11-10"
   },
   {
     "company": "SCHUNK",

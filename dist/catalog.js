@@ -2676,14 +2676,16 @@ window.HM_DATA = {
       "focus": "Manipulation components",
       "evidence_notes": "Official physical AI gripper page accepts preorders targeting Q1 2027 shipping; no current delivery claim.",
       "source_urls": [
-        "https://robotiq.com/physical-ai-grippers"
+        "https://robotiq.com/physical-ai-grippers",
+        "https://robotiq.com/tactile-sensor-fingertips"
       ],
       "checked_date": "2026-10-25",
       "date": "2026-10-25",
       "price": null,
       "id": 146,
       "directory_category": "Parts",
-      "component_category": "Manipulation components"
+      "component_category": "Manipulation components",
+      "link_checked_date": "2026-11-10"
     },
     {
       "company": "SCHUNK",
@@ -6091,6 +6093,26 @@ window.HM_DATA = {
         "Hardware": "Open-source hardware files"
       },
       "checked": "2026-11-06"
+    },
+    {
+      "id": "robotiq-tsf-85",
+      "maker": "Robotiq",
+      "makerId": 146,
+      "name": "TSF-85 tactile sensor fingertips",
+      "category": "Parts",
+      "use": "Research",
+      "status": "Contact manufacturer",
+      "price": null,
+      "currency": "USD",
+      "image": null,
+      "source": "https://robotiq.com/tactile-sensor-fingertips",
+      "desc": "Sensor fingertips for collecting contact data during manipulation research. The manufacturer describes pressure, vibration and inertial sensing.",
+      "note": "Robotiq identifies its 2F-85 and 2F-140 grippers as the intended hosts. Confirm the exact gripper version, acquisition hardware, software interface, package contents and current supply terms. Humanoid integration requires a separate review.",
+      "form": "Tactile fingertips",
+      "specs": {
+        "Host grippers": "Robotiq 2F-85 / 2F-140"
+      },
+      "checked": "2026-11-10"
     }
   ]
 };

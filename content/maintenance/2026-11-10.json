@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-10",
+  "articleSlug": "replaceable-fingertips-for-repeatable-humanoid-grasps",
+  "title": "The gripper fits. What actually touches the object?",
+  "englishWords": 1037,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newCatalogItem": "robotiq-tsf-85",
+  "catalogRecords": 118,
+  "parts": 51,
+  "kits": 16,
+  "suppliers": 200,
+  "newOfficialLinks": [
+    "https://blog.robotiq.com/knowledge/custom-fingertips-on-hand-e-and-2f-grippers-5-1736280816493",
+    "https://blog.robotiq.com/knowledge/how-to-change-the-fingers-on-a-2f-gripper-c4-version-5-1736280835987",
+    "https://schunk.com/us/en/konfigurator-fgr/cc/product/000000000000305062",
+    "https://robotiq.com/tactile-sensor-fingertips"
+  ],
+  "correctedLinks": [],
+  "linkAudit": {
+    "attempted": 222,
+    "reachable": 189,
+    "unconfirmed": 33,
+    "removed": 0
+  },
+  "checks": [
+    "check-i18n.cjs",
+    "catalog category/search/translated search/price filters",
+    "all previous articles unchanged",
+    "two original images visually inspected"
+  ],
+  "browserQA": "Unavailable: browser inventory is empty. Desktop/mobile visual rendering could not be verified.",
+  "publication": "Prepared for main push, GitHub Pages and existing owner-private Sites publication."
+}
