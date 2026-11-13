@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-13",
+  "slug": "sustained-task-actuator-thermal-review",
+  "mode": "built-in imagegen",
+  "images": [
+    {
+      "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov13images/sustained-task-actuator-thermal-review-01.png",
+      "alt": "An engineer reviews abstract temperature trends beside a fictional humanoid robot at a laboratory test bench.",
+      "caption": "AI-generated editorial concept. Fictional humanoid hardware and logging equipment illustrate a sustained-task review.",
+      "prompt": "Use case: photorealistic-natural. Premium editorial robotics journal photograph, 16:9 landscape. A fictional ivory and graphite humanoid robot stands stationary at an organized engineering laboratory test station, its realistic arm holding a modest unbranded rectangular sample at a workbench. A professional engineer in navy workwear reviews a laptop with soft abstract temperature trend curves only, no readable text. Focus on a credible shoulder and elbow actuator housing, neat cable routing and a compact logging interface on the table. No person touches the robot. Warm industrial window daylight and subtle cool task lighting, restrained lime indicator accents, rich graphite shadows, tactile ceramic shell and brushed metal details. High-end documentary product photography, 50mm lens, convincing mechanics, natural human anatomy, shallow depth of field. Fictional conceptual scene, no recognizable manufacturer design, no heat glow, no thermal-color overlays, no smoke, no logos, labels, numbers, watermarks or holograms.",
+      "source": "C:/Users/Srdjan/.codex/generated_images/01a1d59e-6962-7ec2-9a8f-8b0104892147/exec-a16f97cb-7271-4b2d-9c14-4a6998030663.png"
+    },
+    {
+      "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov13images/sustained-task-actuator-thermal-review-02.png",
+      "alt": "A fictional humanoid elbow assembly has a contact temperature probe attached to its external metal housing.",
+      "caption": "AI-generated editorial concept. An external probe on fictional actuator hardware; its reading does not represent an internal winding measurement.",
+      "prompt": "Use case: photorealistic-natural. Second distinct premium robotics journal editorial photograph, wide 16:9 landscape. Macro three-quarter view of an unbranded fictional humanoid elbow actuator assembly mounted securely on a graphite laboratory fixture, ivory shell partly removed to reveal believable brushed aluminum motor housing, reducer and neatly routed cables. A small contact temperature probe is neatly affixed to the outside of the metal housing, its thin cable leading toward a compact generic logging instrument in soft focus. A full fictional humanoid torso is out of focus far behind. No hands near machinery. Warm side light and cool laboratory fill, restrained lime status indicator, rich dark graphite palette, exceptionally tactile machining marks and realistic wiring. High-end macro engineering photography, 85mm lens, shallow depth of field, plausible physical scale. This is a conceptual scene, not a manufacturer test. No glowing heat, thermal overlay, smoke, fire, text, numbers, labels, logos, watermarks or sci-fi effects.",
+      "source": "C:/Users/Srdjan/.codex/generated_images/01a1d59e-6962-7ec2-9a8f-8b0104892147/exec-95e9aaec-bda2-4892-9455-79e8822f2f12.png"
+    }
+  ]
+}

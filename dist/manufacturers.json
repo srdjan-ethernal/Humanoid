@@ -283,14 +283,16 @@
       "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
       "https://docs.robotis.com/docs/systems/op3/introduction/",
       "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
-      "https://github.com/ROBOTIS-GIT/open_manipulator"
+      "https://github.com/ROBOTIS-GIT/open_manipulator",
+      "https://robotis.us/products/openrb-150-starter-kit",
+      "https://docs.robotis.com/docs/parts/controller/openrb-150/"
     ],
     "checked_date": "2026-10-24",
     "price": null,
     "id": 17,
     "directory_category": "Robots",
     "supplier_type": "Robot manufacturer",
-    "link_checked_date": "2026-11-06"
+    "link_checked_date": "2026-11-13"
   },
   {
     "company": "Rainbow Robotics",

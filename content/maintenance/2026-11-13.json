@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-13",
+  "articleSlug": "sustained-task-actuator-thermal-review",
+  "title": "The first cycle works. What happens after the twentieth?",
+  "englishWords": 1031,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newCatalogItem": "openrb-150-starter-kit",
+  "catalogRecords": 119,
+  "parts": 51,
+  "kits": 17,
+  "suppliers": 200,
+  "newOfficialLinks": [
+    "https://support.maxongroup.com/hc/en-us/articles/360000350014-Continuous-operation-range-of-BLDC-EC-Motors",
+    "https://support.maxongroup.com/hc/en-us/articles/360004427413-On-the-heating-of-motors-in-hand-held-tools",
+    "https://docs.robotis.com/docs/dxl/model_reference/x_series/xh_series/xh430-v210/",
+    "https://robotis.us/products/openrb-150-starter-kit",
+    "https://docs.robotis.com/docs/parts/controller/openrb-150/"
+  ],
+  "correctedLinks": [],
+  "linkAudit": {
+    "attempted": 226,
+    "reachable": 205,
+    "unconfirmed": 21,
+    "removed": 0
+  },
+  "checks": [
+    "check-i18n.cjs",
+    "catalog category/search/translated search/price filters",
+    "all previous articles unchanged",
+    "two original images visually inspected"
+  ],
+  "browserQA": "Unavailable: browser inventory is empty. Desktop/mobile visual rendering could not be verified.",
+  "publication": "Prepared for main push, GitHub Pages and existing owner-private Sites publication.",
+  "newSourceVerification": "Three official editorial references opened with the web research tool. A direct request to maxon returned 403; this is treated as access blocking, not a missing link. The official store page and controller documentation were opened during research."
+}

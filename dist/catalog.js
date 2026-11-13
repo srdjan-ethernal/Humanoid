@@ -284,14 +284,16 @@ window.HM_DATA = {
         "https://emanual.robotis.com/docs/en/platform/op3/introduction/",
         "https://docs.robotis.com/docs/systems/op3/introduction/",
         "https://docs.robotis.com/docs/systems/openmanipulator_x/overview/",
-        "https://github.com/ROBOTIS-GIT/open_manipulator"
+        "https://github.com/ROBOTIS-GIT/open_manipulator",
+        "https://robotis.us/products/openrb-150-starter-kit",
+        "https://docs.robotis.com/docs/parts/controller/openrb-150/"
       ],
       "checked_date": "2026-10-24",
       "price": null,
       "id": 17,
       "directory_category": "Robots",
       "supplier_type": "Robot manufacturer",
-      "link_checked_date": "2026-11-06"
+      "link_checked_date": "2026-11-13"
     },
     {
       "company": "Rainbow Robotics",
@@ -6113,6 +6115,27 @@ window.HM_DATA = {
         "Host grippers": "Robotiq 2F-85 / 2F-140"
       },
       "checked": "2026-11-10"
+    },
+    {
+      "id": "openrb-150-starter-kit",
+      "maker": "ROBOTIS",
+      "makerId": 17,
+      "name": "OpenRB-150 Starter Kit",
+      "category": "Kits",
+      "use": "Education",
+      "status": "Manufacturer store",
+      "price": null,
+      "currency": "USD",
+      "image": null,
+      "source": "https://robotis.us/products/openrb-150-starter-kit",
+      "desc": "A controller-and-actuator development bundle for learning DYNAMIXEL communication. The official package lists an OpenRB-150 controller and an XL330-M288-T actuator.",
+      "note": "A small development bundle rather than a complete humanoid. Batteries, USB cables and power cables are excluded according to the store. The storefront contains mixed stock controls; confirm supply, package contents and regional shipping directly. Review the exact actuator voltage and interface requirements.",
+      "form": "Development kit",
+      "specs": {
+        "Controller": "OpenRB-150",
+        "Actuator": "XL330-M288-T"
+      },
+      "checked": "2026-11-13"
     }
   ]
 };

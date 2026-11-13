@@ -16,8 +16,8 @@ Open http://127.0.0.1:4173. The server binds to localhost by default; use the `P
 
 - `dist/index.html`: marketplace, product filters, favorites, comparison, and browser-local draft listings.
 - `dist/manufacturers.html`: searchable directory of 200 manufacturer entries, with CSV export.
-- `dist/blog.html` and `dist/blog/`: journal and 19 standalone English articles.
-- `dist/catalog.js`: shared manufacturer directory and 118 product/platform records.
+- `dist/blog.html` and `dist/blog/`: journal and 20 standalone English articles.
+- `dist/catalog.js`: shared manufacturer directory and 119 product/platform records.
 - `dist/manufacturers.json`: source-linked directory, including review dates and evidence notes.
 - `dist/blog-index.json`: article index and editorial archive dates.
 - `dist/assets/assets.json`: imagery provenance and manufacturer source links.
@@ -38,7 +38,7 @@ Journal articles were prepared on October 24, 2026. Displayed April–October da
 
 Manufacturer photos and trademarks belong to their respective owners. Source URLs are recorded in the asset manifest. No license to redistribute third-party imagery is implied by this repository.
 
-Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 51 components, 16 kits and development platforms. New sources reviewed 2026-10-25.
+Directory expansion: 100 robot makers + 100 component / kit suppliers. Catalog: 51 robot platforms, 51 components, 17 kits and development platforms. New sources reviewed 2026-10-25.
 
 Journal expansion (25 October 2026): all 15 articles expanded to 677–718 words, with two original AI-generated photographic editorial illustrations per article. Rebuild with node scripts/build-blog.cjs from content/blog-posts.json. Illustration provenance is recorded in dist/assets/journal/premium-manifest.json.
 
@@ -64,3 +64,5 @@ Maintenance 3 November 2026: completed the unpublished 30 October cable-routing 
 Maintenance 6 November 2026: new sensor timing guide, two original AI illustrations, eight languages, OpenMANIPULATOR-X development listing and verified ROBOTIS documentation migration.
 
 Maintenance 10 November 2026: one original fingertip contact-trial guide, two original AI images, eight languages and a verified Robotiq TSF-85 component source.
+
+Maintenance 13 November 2026: original sustained-task actuator thermal guide, two original AI images, eight languages, and an official OpenRB-150 Starter Kit source with package limitations.
