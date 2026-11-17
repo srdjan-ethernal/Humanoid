@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-17",
+  "articleSlug": "tool-change-configuration-for-humanoid-robots",
+  "title": "The tool changed. Did the robot's configuration change too?",
+  "englishWords": 1087,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newCatalogItem": "ati-qc-11",
+  "catalogRecords": 120,
+  "parts": 52,
+  "kits": 17,
+  "suppliers": 200,
+  "newOfficialLinks": [
+    "https://www.ati-ia.com/Products/toolchanger/tool_changer_selection.aspx",
+    "https://www.ati-ia.com/products/toolchanger/ManualToolChanger.aspx",
+    "https://ati.novanta.com/product/qc-11/"
+  ],
+  "correctedLinks": [],
+  "linkAudit": {
+    "attempted": 230,
+    "reachable": 208,
+    "unconfirmed": 22,
+    "removed": 0
+  },
+  "checks": [
+    "check-i18n.cjs",
+    "catalog category/search/translated search/price filters",
+    "all previous articles unchanged",
+    "two original images visually inspected"
+  ],
+  "browserQA": "Unavailable: browser inventory is empty. Desktop/mobile visual rendering could not be verified.",
+  "publication": "Prepared for main push, GitHub Pages and existing owner-private Sites publication."
+}

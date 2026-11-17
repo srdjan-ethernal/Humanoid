@@ -2038,12 +2038,14 @@ window.HM_DATA = {
       "supplier_type": "Components",
       "component_category": "Actuation",
       "source_urls": [
-        "https://novanta.com/robotics-automation/product/everest/"
+        "https://novanta.com/robotics-automation/product/everest/",
+        "https://ati.novanta.com/product/qc-11/"
       ],
       "checked_date": "2026-10-25",
       "price": null,
       "id": 113,
-      "directory_category": "Parts"
+      "directory_category": "Parts",
+      "link_checked_date": "2026-11-17"
     },
     {
       "company": "Renishaw / RLS",
@@ -6136,6 +6138,27 @@ window.HM_DATA = {
         "Actuator": "XL330-M288-T"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "id": "ati-qc-11",
+      "maker": "Novanta / Celera Motion / Ingenia",
+      "makerId": 113,
+      "name": "ATI QC-11 tool changer",
+      "category": "Parts",
+      "use": "Industrial",
+      "status": "Contact manufacturer",
+      "price": null,
+      "currency": "USD",
+      "image": null,
+      "source": "https://ati.novanta.com/product/qc-11/",
+      "desc": "A pneumatically actuated tool changer from ATI Industrial Automation, a Novanta company. The official listing provides drawings, manuals and utility-module options.",
+      "note": "Selection requires review of the master and tool plates, interface plates, utilities, tool stand and supported configuration. Published component ratings do not establish a humanoid wrist rating or compatibility. Confirm configuration, quotation and supply directly with ATI.",
+      "form": "Tool changer",
+      "specs": {
+        "Brand": "ATI Industrial Automation",
+        "Actuation": "Pneumatic"
+      },
+      "checked": "2026-11-17"
     }
   ]
 };

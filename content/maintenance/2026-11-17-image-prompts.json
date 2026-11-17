@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "slug": "tool-change-configuration-for-humanoid-robots",
+  "mode": "built-in imagegen",
+  "images": [
+    {
+      "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov17images/tool-change-configuration-for-humanoid-robots-01.png",
+      "source": "C:/Users/Srdjan/.codex/generated_images/01a1e9d1-9b7f-7c43-843c-e49efbab189e/exec-ba4c7e55-bca3-4291-8f12-b1356087d996.png",
+      "alt": "A fictional humanoid wrist faces two different tools held in separate laboratory docking cradles.",
+      "caption": "AI-generated editorial concept. Fictional robot tooling illustrates a documented tool-change setup.",
+      "prompt": "Use case: photorealistic-natural. Premium editorial humanoid robotics journal photograph, wide 16:9 landscape. Fictional ivory and graphite humanoid robot standing stationary at an organized contemporary laboratory bench, its forearm ending in a realistic compact circular mechanical tool-change coupling. In front of it, two different unbranded end effectors rest in separate secure docking cradles: a simple parallel gripper and a compact inspection probe. An engineer in navy workwear observes from the side, no hands touching machinery. Composition clearly shows robot wrist and both docked tools, plausible machined interfaces, neatly routed cables. Warm tall-window daylight, subtle cool task lighting, rich dark graphite shadows, restrained lime indicator accents. Tactile brushed aluminum and ceramic surfaces, convincing real mechanical construction, documentary product photography, 50mm lens, natural anatomy, shallow depth of field. Fictional conceptual hardware, no recognizable manufacturer design. No text, numbers, labels, logos, watermark, holograms or sci-fi effects."
+    },
+    {
+      "file": "C:/Users/Srdjan/Documents/Codex/2026-10-24/hoc/work/nov17images/tool-change-configuration-for-humanoid-robots-02.png",
+      "source": "C:/Users/Srdjan/.codex/generated_images/01a1e9d1-9b7f-7c43-843c-e49efbab189e/exec-a9309dac-41af-44cf-93aa-720b24d97e13.png",
+      "alt": "Close view of a fictional wrist coupling and detachable gripper beside a reference fixture.",
+      "caption": "AI-generated editorial concept. Fictional mating interfaces and a reference fixture; commercial compatibility is not implied.",
+      "prompt": "Use case: photorealistic-natural. Second distinct premium editorial robotics journal photograph, 16:9 landscape. Macro three-quarter view of a fictional humanoid wrist tool-change interface and a detachable two-finger gripper, both stationary on separate graphite laboratory fixtures with a small visible air gap between mating faces. Show precise locating features, fasteners, electrical contacts, brushed metal interface plates, believable alignment geometry and tidy black cables. A simple unmarked pointed reference fixture sits nearby for tool geometry verification; an ivory humanoid torso is softly out of focus in the background. Warm side light, subtle cool fill, restrained lime status accent, exceptionally tactile machining marks, realistic scale. High-end macro engineering photography, 85mm lens, shallow depth of field, elegant composition. Fictional conceptual scene rather than branded commercial product. No hands, no motion, no text, labels, numbers, logos, watermarks, holograms or science-fiction effects."
+    }
+  ]
+}

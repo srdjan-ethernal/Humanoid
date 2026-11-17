@@ -1,5 +1,14 @@
 [
   {
+    "title": "The tool changed. Did the robot's configuration change too?",
+    "slug": "tool-change-configuration-for-humanoid-robots",
+    "date": "2026-11-17",
+    "category": "Components",
+    "words": 1031,
+    "updated": "2026-11-17",
+    "originalImages": 2
+  },
+  {
     "title": "The first cycle works. What happens after the twentieth?",
     "slug": "sustained-task-actuator-thermal-review",
     "date": "2026-11-13",

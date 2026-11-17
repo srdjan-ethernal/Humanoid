@@ -2037,12 +2037,14 @@
     "supplier_type": "Components",
     "component_category": "Actuation",
     "source_urls": [
-      "https://novanta.com/robotics-automation/product/everest/"
+      "https://novanta.com/robotics-automation/product/everest/",
+      "https://ati.novanta.com/product/qc-11/"
     ],
     "checked_date": "2026-10-25",
     "price": null,
     "id": 113,
-    "directory_category": "Parts"
+    "directory_category": "Parts",
+    "link_checked_date": "2026-11-17"
   },
   {
     "company": "Renishaw / RLS",
