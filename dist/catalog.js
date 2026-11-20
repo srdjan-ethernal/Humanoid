@@ -3482,14 +3482,16 @@ window.HM_DATA = {
       "focus": "Robot sensing & integration",
       "evidence_notes": "Elastomer-based tactile imaging technology; supplier engineering consultation for integration.",
       "source_urls": [
-        "https://www.gelsight.com/tactile-sensing-technology/"
+        "https://www.gelsight.com/tactile-sensing-technology/",
+        "https://www.gelsight.com/product/digit-tactile-sensor/"
       ],
       "checked_date": "2026-10-25",
       "price": null,
       "supplier_type": "Components",
       "component_category": "sensors",
       "id": 187,
-      "directory_category": "Parts"
+      "directory_category": "Parts",
+      "link_checked_date": "2026-11-20"
     },
     {
       "company": "Resense",
@@ -6159,6 +6161,26 @@ window.HM_DATA = {
         "Actuation": "Pneumatic"
       },
       "checked": "2026-11-17"
+    },
+    {
+      "id": "gelsight-digit",
+      "maker": "GelSight",
+      "makerId": 187,
+      "name": "DIGIT Tactile Sensor",
+      "category": "Parts",
+      "use": "Research",
+      "status": "Manufacturer store",
+      "price": 355,
+      "currency": "USD",
+      "image": null,
+      "source": "https://www.gelsight.com/product/digit-tactile-sensor/",
+      "desc": "A tactile sensor offered by GelSight for robotic manipulation research and model training.",
+      "note": "Official store price reviewed 20 November 2026. Confirm taxes, shipping, current lead time, package contents and the required mounting and data interface. This sensor listing does not establish compatibility with a specific humanoid.",
+      "form": "Tactile sensor",
+      "specs": {
+        "SKU": "DG-01"
+      },
+      "checked": "2026-11-20"
     }
   ]
 };

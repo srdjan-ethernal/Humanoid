@@ -1,5 +1,14 @@
 [
   {
+    "title": "The sensor detects touch. What does its signal mean?",
+    "slug": "tactile-sensor-baselines-for-humanoid-robots",
+    "date": "2026-11-20",
+    "category": "Components",
+    "words": 988,
+    "updated": "2026-11-20",
+    "originalImages": 2
+  },
+  {
     "title": "The tool changed. Did the robot's configuration change too?",
     "slug": "tool-change-configuration-for-humanoid-robots",
     "date": "2026-11-17",

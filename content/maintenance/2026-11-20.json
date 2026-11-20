@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-20",
+  "articleSlug": "tactile-sensor-baselines-for-humanoid-robots",
+  "title": "The sensor detects touch. What does its signal mean?",
+  "englishWords": 1048,
+  "originalImages": 2,
+  "languages": [
+    "en",
+    "sr",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "zh",
+    "ja"
+  ],
+  "newCatalogItem": "gelsight-digit",
+  "catalogRecords": 121,
+  "parts": 53,
+  "kits": 17,
+  "suppliers": 200,
+  "newOfficialLinks": [
+    "https://xelarobotics.com/technology/",
+    "https://github.com/facebookresearch/digit-interface",
+    "https://github.com/facebookresearch/tacto",
+    "https://www.gelsight.com/product/digit-tactile-sensor/"
+  ],
+  "correctedLinks": [],
+  "linkAudit": {
+    "attempted": 233,
+    "reachable": 196,
+    "unconfirmed": 37,
+    "removed": 0
+  },
+  "checks": [
+    "check-i18n.cjs",
+    "catalog category/search/translated search/price filters",
+    "all previous articles unchanged",
+    "two original images visually inspected"
+  ],
+  "browserQA": "Unavailable: browser inventory is empty. Desktop/mobile visual rendering could not be verified.",
+  "publication": "Prepared for main push, GitHub Pages and existing owner-private Sites publication.",
+  "newSourceVerification": "Official content researched through web tools. XELA direct HTTP request returned403; preserved as vendor access blocking. Meta DIGIT and TACTO repositories are archived and labeled as such. GelSight store and both repository links returned200."
+}
